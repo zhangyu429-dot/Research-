@@ -17,3 +17,19 @@ Any Claude Code session with this repo checked out picks the skill up automatica
 just ask for an analysis of a company and it will follow the format. To re-run an existing
 memo against fresh data, ask for it by name; the file is overwritten in place so the
 revision history lives in git.
+
+## Recovering work from old sessions
+
+`tools/recover_session.py` finds and extracts content from local Claude Code
+transcripts (`~/.claude/projects/<slug>/<uuid>.jsonl`) when a session can no longer
+be opened interactively:
+
+```
+python3 tools/recover_session.py search 恒运昌 恒昌运
+python3 tools/recover_session.py extract <path-to.jsonl> --out recovered/
+```
+
+`search` reports each matching transcript with its session id, working directory,
+git branch and opening prompt. `extract` writes `recovered/transcript.md` (the
+conversation prose) plus `recovered/files/` (every file the session wrote, whether
+via the Write tool or a shell heredoc). Standard library only; use `python` on Windows.
