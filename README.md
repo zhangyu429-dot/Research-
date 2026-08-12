@@ -35,3 +35,18 @@ python3 tools/recover_session.py extract <path-to.jsonl> --out recovered/
 git branch and opening prompt. `extract` writes `recovered/transcript.md` (the
 conversation prose) plus `recovered/files/` (every file the session wrote, whether
 via the Write tool or a shell heredoc). Standard library only; use `python` on Windows.
+
+## Rendering memos to PDF
+
+`tools/md_to_pdf.py` renders a memo to a print-ready A4 PDF via headless Chromium:
+
+```
+python3 tools/md_to_pdf.py research/603061-jinhaitong/key-questions.zh.md
+```
+
+Tuned for Chinese documents: CJK font stack, 1.85 line-height, and it strips the
+source line breaks that markdown would otherwise render as visible gaps mid-sentence.
+Tables and blockquotes are kept off page boundaries; footer carries page numbers.
+
+Requires `pip install markdown playwright` and an existing Chromium (it reads
+`PLAYWRIGHT_BROWSERS_PATH` and does not download one).
