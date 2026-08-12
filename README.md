@@ -7,6 +7,8 @@ Equity research memos. One directory per company: `research/<code>-<pinyin-name>
 | 洁美科技 Jiemei | 002859.SZ | [EN](research/002859-jiemei/key-questions.md) |
 | 金海通 Jinhaitong | 603061.SH | [EN](research/603061-jinhaitong/key-questions.md) · [中文](research/603061-jinhaitong/key-questions.zh.md) |
 
+Management interview question list: [金海通 · 10个关键问题](research/603061-jinhaitong/management-questions.zh.md)
+
 ## House format
 
 All memos follow `.claude/skills/equity-key-questions/SKILL.md`, which defines the
