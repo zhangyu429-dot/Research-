@@ -17,6 +17,14 @@ git history carries the revisions.
 
 Commit and push to the session's designated branch. Do not open a PR unless asked.
 
+**Language.** Default to English at `key-questions.md`. When the user asks for Chinese
+deliverables, write `key-questions.zh.md` alongside it. Write native Chinese research prose,
+not a translation — use the conventional register and terms (营业收入, 归母净利润, 毛利率,
+经营活动现金流净额, 应收账款, 发出商品, 合同负债, 总资产周转率, 客户集中度, 限售股解禁,
+股份支付, 产能利用率, 国产化率), 亿元/万元 rather than millions, and 中文 section headings.
+Keep the structure, tables and source list identical across languages so the two stay
+diffable; when one is updated, update the other or say plainly which is now stale.
+
 ## Structure (follow exactly)
 
 ```

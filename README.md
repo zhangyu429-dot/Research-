@@ -4,8 +4,8 @@ Equity research memos. One directory per company: `research/<code>-<pinyin-name>
 
 | Company | Code | Memo |
 |---|---|---|
-| 洁美科技 Jiemei | 002859.SZ | [key-questions.md](research/002859-jiemei/key-questions.md) |
-| 金海通 Jinhaitong | 603061.SH | [key-questions.md](research/603061-jinhaitong/key-questions.md) |
+| 洁美科技 Jiemei | 002859.SZ | [EN](research/002859-jiemei/key-questions.md) |
+| 金海通 Jinhaitong | 603061.SH | [EN](research/603061-jinhaitong/key-questions.md) · [中文](research/603061-jinhaitong/key-questions.zh.md) |
 
 ## House format
 
