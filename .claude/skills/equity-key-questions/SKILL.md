@@ -95,10 +95,35 @@ next-step instruction.
    preamble so the reader knows the figures are secondary.
 9. **No recommendation, no price target.** The deliverable is the question list and what
    answers each question.
+10. **Sweep the announcements before forming a thesis.** Do a chronological pass over the
+    last 18 months of 公告 *first*, as a list, before searching on any thesis keyword.
+    Thesis-shaped queries (the product, the margin, the competitor) systematically miss
+    corporate actions, because those are filed under language that has nothing to do with
+    the thesis. This rule exists because a pending ¥915m share-issued acquisition — 6% of
+    market cap, with goodwill worth 3.5x annual profit — was missed twice on 002859 and
+    found only by accident, through a stray link about adjusting an issue price.
 
 ## Research checklist
 
 Gather before writing; a gap you cannot fill becomes a question in the memo.
+
+**Do this block first — it is the announcement sweep, and it is not optional:**
+
+- Every 公告 title for the last 18 months, read in date order. Flag anything containing
+  发行股份 / 购买资产 / 重大资产重组 / 停牌 / 复牌 / 定增 / 可转债 / 收购 / 增资 /
+  关联交易 / 业绩预告 / 股权激励 / 员工持股 / 减持 / 质押 / 问询函 / 异动
+- **Pending corporate actions specifically**: is there a transaction in flight right now?
+  Check for a shareholder meeting that has been scheduled, deferred, or never convened.
+  A deal announced months ago and still unclosed will not appear in any results coverage.
+- 投资者关系活动记录表 for the last two quarters — the freshest operating data, and the
+  only public place unit economics and utilisation are ever discussed
+- Related-party transaction filings (关联交易), including the annual 预计 resolution, who
+  recused, and whether the counterparty sits on a cost line that matters to the thesis
+- Equity incentive / ESOP plans: participants, price, and **the performance targets scored
+  against actuals**. A missed target the company set for itself is the best available
+  read on how much management over-forecasts.
+
+**Then the financials and the rest:**
 
 - Multi-year revenue / net profit / gross margin / net margin / OCF, back through the last peak
 - Latest quarter and any pre-announcement (业绩预告)
