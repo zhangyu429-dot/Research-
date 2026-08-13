@@ -15,6 +15,11 @@ Industry deep dives:
 [MLCC电子薄膜：技术、市场与洁美科技的竞争位置](research/002859-jiemei/mlcc-film-deepdive.zh.md)
 ([PDF](research/002859-jiemei/mlcc-film-deepdive.zh.pdf))
 
+Earnings models:
+[洁美科技 2026-2028 盈利预测与估值](research/002859-jiemei/forecast-2026-2028.zh.md)
+([PDF](research/002859-jiemei/forecast-2026-2028.zh.pdf) ·
+[model.py](research/002859-jiemei/model.py) — re-runnable, assumptions in `SCENARIOS`)
+
 ## House format
 
 All memos follow `.claude/skills/equity-key-questions/SKILL.md`, which defines the
