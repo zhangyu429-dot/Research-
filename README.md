@@ -11,6 +11,10 @@ Management interview question lists:
 [洁美科技 · 10个关键问题](research/002859-jiemei/management-questions.zh.md) ·
 [金海通 · 10个关键问题](research/603061-jinhaitong/management-questions.zh.md)
 
+Industry deep dives:
+[MLCC电子薄膜：技术、市场与洁美科技的竞争位置](research/002859-jiemei/mlcc-film-deepdive.zh.md)
+([PDF](research/002859-jiemei/mlcc-film-deepdive.zh.pdf))
+
 ## House format
 
 All memos follow `.claude/skills/equity-key-questions/SKILL.md`, which defines the

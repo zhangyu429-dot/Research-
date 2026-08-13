@@ -72,8 +72,8 @@ This outranks the growth story, because five consecutive years of gross margin e
 through both an up-cycle and a down-cycle is not a cyclical signature. Three explanations
 fit the data and they have completely different valuations attached:
 
-1. **Mix.** Low-margin new products (base film, plastic carrier tape, composite foil) diluting
-   a high-margin core. *Benign — reverses as release film scales.*
+1. **Mix.** Low-margin new products diluting a high-margin core. **Now strongly supported by
+   the data — but with the opposite meaning to the bull case.** See the box below. *Not benign.*
 2. **Depreciation absorption.** Jiangxi, Guangdong, Tianjin and BOPET lines depreciating before
    they produce. *Temporary, but only if utilisation actually arrives.*
 3. **Price.** Carrier tape ASP deflating structurally as the product commoditises.
@@ -81,9 +81,27 @@ fit the data and they have completely different valuations attached:
 
 The single most damaging datapoint for the bull case: **Q1 2026 gross margin of 32.59% is
 below FY2025's 33.41%**, in a quarter where management says core products were at full
-production and full sales *and* release-film prices were being raised. If a supercycle plus
-price increases cannot lift the blended margin, explanation (3) is doing more work than
-management's narrative allows.
+production and full sales *and* release-film prices were being raised.
+
+> **Revised after the industry deep dive (see [mlcc-film-deepdive.zh.md](mlcc-film-deepdive.zh.md)):**
+> **In 2018–2021 the release film business ran at a 9%–15% gross margin, against 34%–43% for
+> paper carrier tape and 35%–45% for cover tape.** Run the 2025 mix: 82.8% × 36% + 12.4% × 15%
+> + 4.8% × low ≈ **33.2%**, against an actual blended margin of **33.41%** — a close fit.
+>
+> **Release film is not lifting profitability. It is diluting it.** Every point of revenue mix
+> shifting to film costs roughly 0.2pp of blended gross margin. That also explains the Q1 2026
+> print directly: **film volume is growing over 100% at a lower margin than the core, so the
+> ramp itself pushes the blended margin down.**
+>
+> **The necessary hedge:** 9%–15% dates from when the business was sub-scale and buying base
+> film externally. The company has since integrated backwards into its own BOPET, stated
+> publicly that film margins will keep rising, raised prices 5–18%, and shifted to mid/high-end.
+> Current margin should be materially above 15%. **Nobody outside knows by how much — and that
+> is the pivot of the entire investment case.**
+
+**So the question changes character: not "when does the margin recover" but "can it."** If the
+film segment is already at 30%+, the bull case works. If it is still below 20%, **the faster it
+ramps, the worse the blended margin looks.**
 
 **Ask:**
 - **Gross margin by segment** — 电子封装材料 vs 电子级薄膜材料, for FY2024, FY2025 and H1 2026.
@@ -118,6 +136,24 @@ Against that, the announced domestic capacity is the problem:
 | **双星新材 (002585)** | ph.1 500m m² full by end-2026; ph.2 500m m² building; **2.0bn m² long-term** | Claims #1 domestic share (~33%) |
 | **斯迪克 (300806)** | ~30m m² → 100m m² in 2026 | Ultra-thin, ≤50nm smoothness, 800+ layer |
 | **东材科技** | ~32m m² | Mid-end |
+| **康辉新材** (Hengli Petrochemical) | Base film: high-smooth in production, ultra-smooth small batch | Petrochemical-backed potential entrant |
+
+> **Revised after the deep dive: the earlier framing overstated 双星's near-term threat.**
+> 双星's MLCC release film was **~0.3% of its 2025 revenue and is currently gross-margin
+> negative**, with the company describing it as "still in the cultivation and construction
+> phase." That implies roughly **¥15m of revenue — Jiemei's ¥260m is ~17x larger.** On
+> customers, Jiemei is in **batch supply** at Samsung, Murata and Taiyo Yuden while 双星 is
+> still at **validation**. **Jiemei leads through 2026–27; the threat lands around 2028.**
+>
+> But **双星 running negative gross margin is itself a warning about the industry's
+> economics** — without scale and yield, this product loses money. That corroborates Q1.
+>
+> **Also note the TAM is uncertain by an order of magnitude.** The widely cited "15.58bn m²
+> global demand in 2024" fails a materials balance: at 25μm it implies ~545kt of PET film,
+> 11–14% of all global BOPET output and all of it at the highest cleanliness grade. Bottom-up
+> from MLCC unit output gives only **1.0–1.5bn m²**. **If true demand is ~3bn m², 双星's 2bn m²
+> long-term plan alone is 67% of the world** — an unambiguous glut signal. Until the TAM is
+> resolved, "60% of the substitution runway remains" is not actionable.
 
 **Sub-questions:**
 - Decompose the 2026 gain into **price / volume / mix**. A qualified socket at Samsung or
