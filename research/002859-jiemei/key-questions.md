@@ -433,6 +433,12 @@ basis, exact total share count, and 2026 committed capex.
 2. **Whether blended gross margin turns up.** This is the entire Q1 thesis in one number.
    A second consecutive quarter below 33% during a supercycle would be decisive evidence for
    the structural-deflation reading.
+   **This metric has an expiry date: it only works until 埃福思 consolidates.** At an assumed
+   50–60% gross margin on ~6.8% of combined revenue, consolidation alone lifts blended gross
+   margin by **+1.15 to +1.83pp** — against a full-year 2024→2025 decline of just −0.80pp.
+   **After consolidation, "blended margin recovered" is no longer evidence that release film
+   improved.** H1 and FY2026 are still clean; 2027 is contaminated. This turns segment margin
+   disclosure from desirable into the only way to judge the business.
 3. **Monthly release-film shipments past the 27m m²/month April print — and realised ASP
    alongside them.** Volume bought with price is not the same investment.
 4. **双星新材's phase-1 completion and pricing behaviour into late 2026** — the clearest
