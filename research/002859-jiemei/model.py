@@ -301,10 +301,47 @@ def tam_check(all_rows: dict) -> str:
     return "\n".join(out)
 
 
+def film_gm_sensitivity(grids: dict) -> str:
+    """Isolate the release film gross margin, holding volume and ASP fixed.
+
+    The film margin is the model's most sensitive input and the one number
+    the interim report can settle, so it gets its own sweep.
+    """
+    import copy
+    out = ["\n" + "="*78, "  离型膜毛利率敏感性（量价假设不变）", "="*78,
+           f"{'情形':38}{'2026E':>9}{'2027E':>9}{'2028E':>9}{'退出25x':>11}"]
+    for src_name in ("base", "bull"):
+        src = next(s for s in SCENARIOS if s.name == src_name)
+        tag = {"base": "中性量价", "bull": "乐观量价"}[src_name]
+        for gname, gm in grids.items():
+            sc = copy.deepcopy(src)
+            sc.film_gm = gm if gm else src.film_gm
+            rows = project(sc)
+            last = rows[-1]
+            px = last["net_parent"] * 25.0 / last["shares"]
+            out.append(f"{tag + ' + ' + gname:38}"
+                       + "".join(f"{r['net_parent']:>9.2f}" for r in rows)
+                       + f"{px/PRICE - 1:>+10.0%} ")
+    return "\n".join(out)
+
+
+GM_GRIDS = {
+    "原假设": None,
+    "35%/37.5%/40%": {2026: 0.35, 2027: 0.375, 2028: 0.40},
+    "全程40%": {2026: 0.40, 2027: 0.40, 2028: 0.40},
+}
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--md", action="store_true", help="markdown output")
+    ap.add_argument("--sens", action="store_true",
+                    help="release film gross margin sensitivity only")
     args = ap.parse_args()
+
+    if args.sens:
+        print(film_gm_sensitivity(GM_GRIDS))
+        return 0
 
     print(f"FY2025 校准：隐含期间费用率 = {calibrate():.1%} of revenue")
     print(f"FY2025 离型膜隐含均价 = {FY25['film_asp']:.2f} 元/㎡ "
@@ -320,6 +357,7 @@ def main() -> int:
     if args.md:
         print("\n\n" + markdown(all_rows))
 
+    print(film_gm_sensitivity(GM_GRIDS))
     print(consensus_check(next(s for s in SCENARIOS if s.name == "base")))
     print(tam_check(all_rows))
 
