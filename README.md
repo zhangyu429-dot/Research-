@@ -6,11 +6,13 @@ Equity research memos. One directory per company: `research/<code>-<pinyin-name>
 |---|---|---|
 | 洁美科技 Jiemei | 002859.SZ | [EN](research/002859-jiemei/key-questions.md) · [中文](research/002859-jiemei/key-questions.zh.md) · [PDF](research/002859-jiemei/key-questions.zh.pdf) |
 | 金海通 Jinhaitong | 603061.SH | [EN](research/603061-jinhaitong/key-questions.md) · [中文](research/603061-jinhaitong/key-questions.zh.md) · [PDF](research/603061-jinhaitong/key-questions.zh.pdf) |
-| Total Bangun Persada | TOTL.JK | [EN](research/TOTL-total-bangun-persada/key-questions.md) |
+| Total Bangun Persada | TOTL.JK | [EN](research/TOTL-total-bangun-persada/key-questions.md) · [PDF](research/TOTL-total-bangun-persada/key-questions.pdf) |
 
 Management interview question lists:
 [洁美科技 · 10个关键问题](research/002859-jiemei/management-questions.zh.md) ·
-[金海通 · 10个关键问题](research/603061-jinhaitong/management-questions.zh.md)
+[金海通 · 10个关键问题](research/603061-jinhaitong/management-questions.zh.md) ·
+[Total Bangun Persada · 10 questions](research/TOTL-total-bangun-persada/management-questions.md)
+([PDF](research/TOTL-total-bangun-persada/management-questions.pdf))
 
 ## House format
 
@@ -50,6 +52,12 @@ python3 tools/md_to_pdf.py research/603061-jinhaitong/key-questions.zh.md
 Tuned for Chinese documents: CJK font stack, 1.85 line-height, and it strips the
 source line breaks that markdown would otherwise render as visible gaps mid-sentence.
 Tables and blockquotes are kept off page boundaries; footer carries page numbers.
+
+Language is auto-detected from the CJK share of the text, which sets the page-number
+footer ("第 N 页" vs "Page N of M") and the `html lang` attribute; override with
+`--lang zh|en`. Lists written GitHub-style — no blank line between a paragraph and the
+list under it — are spaced out before rendering, because python-markdown would
+otherwise fold the items back into the paragraph.
 
 Requires `pip install markdown playwright` and an existing Chromium (it reads
 `PLAYWRIGHT_BROWSERS_PATH` and does not download one).

@@ -112,9 +112,14 @@ FOOTER = """
 <div style="width:100%; font-size:7.5pt; color:#888; padding:0 16mm;
             font-family:sans-serif; display:flex; justify-content:space-between;">
   <span>__TITLE__</span>
-  <span>第 <span class="pageNumber"></span> 页 / 共 <span class="totalPages"></span> 页</span>
+  <span>__PAGING__</span>
 </div>
 """
+
+PAGING = {
+    "zh": '第 <span class="pageNumber"></span> 页 / 共 <span class="totalPages"></span> 页',
+    "en": 'Page <span class="pageNumber"></span> of <span class="totalPages"></span>',
+}
 
 
 # CJK ideographs, CJK punctuation, and fullwidth forms.
@@ -136,14 +141,51 @@ def unwrap_cjk(md_text: str) -> str:
     return "```".join(parts)
 
 
-def build_html(md_text: str, title: str) -> str:
-    md_text = unwrap_cjk(md_text)
+_LIST_ITEM = re.compile(r"^[ \t]*(?:[-*+]|\d+[.)])[ \t]+")
+
+
+def space_lists(md_text: str) -> str:
+    """Insert the blank line python-markdown needs before a list that follows a paragraph.
+
+    CommonMark — and therefore the GitHub view of these memos — starts a list
+    immediately after a paragraph line. `sane_lists` does not: it silently folds the
+    items into the paragraph, which turns every `**Ask:**` block into a run-on. An
+    indented previous line is a lazy continuation of the item above, so leave those
+    alone rather than loosening the list. Fenced blocks are untouched.
+    """
+    parts = md_text.split("```")
+    for i in range(0, len(parts), 2):  # even indices are outside fences
+        out: list[str] = []
+        for line in parts[i].split("\n"):
+            prev = out[-1] if out else ""
+            if (prev.strip() and _LIST_ITEM.match(line)
+                    and not _LIST_ITEM.match(prev)
+                    and not prev.startswith((" ", "\t"))):
+                out.append("")
+            out.append(line)
+        parts[i] = "\n".join(out)
+    return "```".join(parts)
+
+
+def detect_lang(md_text: str) -> str:
+    """"zh" if the prose is meaningfully Chinese, else "en".
+
+    English memos still quote Chinese company and line-item names, so a nonzero
+    CJK count is not enough — measure its share of the text instead.
+    """
+    cjk = len(re.findall(f"[{CJK}]", md_text))
+    return "zh" if cjk > 0.05 * max(len(md_text), 1) else "en"
+
+
+def build_html(md_text: str, title: str, lang: str) -> str:
+    md_text = space_lists(unwrap_cjk(md_text))
     body = markdown.markdown(
         md_text,
         extensions=["tables", "fenced_code", "attr_list", "sane_lists", "toc"],
     )
+    html_lang = "zh-CN" if lang == "zh" else "en"
     return (
-        f'<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">'
+        f'<!doctype html><html lang="{html_lang}"><head><meta charset="utf-8">'
         f"<title>{title}</title><style>{CSS}</style></head><body>{body}</body></html>"
     )
 
@@ -162,6 +204,7 @@ def main() -> int:
     ap.add_argument("markdown_file")
     ap.add_argument("--out", help="output PDF (default: alongside the .md)")
     ap.add_argument("--title", help="footer title (default: first H1)")
+    ap.add_argument("--lang", choices=sorted(PAGING), help="footer language (default: auto-detect)")
     ap.add_argument("--chromium", default=os.environ.get("CHROMIUM_PATH"),
                     help="Chromium executable (default: auto-detect under PLAYWRIGHT_BROWSERS_PATH)")
     args = ap.parse_args()
@@ -174,7 +217,8 @@ def main() -> int:
 
     md_text = src.read_text(encoding="utf-8")
     title = args.title or derive_title(md_text, src.stem)
-    html = build_html(md_text, title)
+    lang = args.lang or detect_lang(md_text)
+    html = build_html(md_text, title, lang)
 
     exe = args.chromium
     if not exe:
@@ -193,7 +237,8 @@ def main() -> int:
             print_background=True,
             display_header_footer=True,
             header_template="<div></div>",
-            footer_template=FOOTER.replace("__TITLE__", title),
+            footer_template=(FOOTER.replace("__TITLE__", title)
+                                   .replace("__PAGING__", PAGING[lang])),
             margin={"top": "18mm", "bottom": "16mm", "left": "16mm", "right": "16mm"},
         )
         browser.close()

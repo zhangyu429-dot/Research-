@@ -22,7 +22,7 @@ income that produced 96% of the last half-year's profit growth is a franchise or
 
 | Segment / driver | FY2025 revenue | Share | What it is |
 |---|---|---|---|
-| 建設 Construction services | **Rp3.88tn** | **99.6%** | Private-sector buildings: data centres, hospitals, hotels, offices, high-rise residential, schools, industrial. Essentially no government work |
+| Construction services | **Rp3.88tn** | **99.6%** | Private-sector buildings: data centres, hospitals, hotels, offices, high-rise residential, schools, industrial. Essentially no government work |
 | Rental and other | ~Rp0.02tn | 0.4% | Residual; includes the legacy property subsidiary |
 | **Largest customer — PT STT GDC Indonesia** | **Rp654.2bn** | **16.8%** | Subsidiary of Singapore's ST Telemedia Global Data Centres. **Up ~30x YoY.** Building out the STT Jakarta campus: 9 data centres, 360MW when complete |
 | PT Pembangunan Property Nusantara | Rp218.5bn | 5.6% | |
