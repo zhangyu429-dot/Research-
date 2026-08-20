@@ -6,10 +6,13 @@ Equity research memos. One directory per company: `research/<code>-<pinyin-name>
 |---|---|---|
 | 洁美科技 Jiemei | 002859.SZ | [EN](research/002859-jiemei/key-questions.md) · [中文](research/002859-jiemei/key-questions.zh.md) · [PDF](research/002859-jiemei/key-questions.zh.pdf) |
 | 金海通 Jinhaitong | 603061.SH | [EN](research/603061-jinhaitong/key-questions.md) · [中文](research/603061-jinhaitong/key-questions.zh.md) · [PDF](research/603061-jinhaitong/key-questions.zh.pdf) |
+| 阿麦斯食品 Amos | 港交所IPO申请中 | [中文](research/hkipo-amos/key-questions.zh.md) · [PDF](research/hkipo-amos/key-questions.zh.pdf) |
 
 Management interview question lists:
 [洁美科技 · 10个关键问题](research/002859-jiemei/management-questions.zh.md) ·
-[金海通 · 10个关键问题](research/603061-jinhaitong/management-questions.zh.md)
+[金海通 · 10个关键问题](research/603061-jinhaitong/management-questions.zh.md) ·
+[阿麦斯 · 10个关键问题](research/hkipo-amos/management-questions.zh.md)
+([PDF](research/hkipo-amos/management-questions.zh.pdf))
 
 Industry deep dives:
 [MLCC电子薄膜：技术、市场与洁美科技的竞争位置](research/002859-jiemei/mlcc-film-deepdive.zh.md)
@@ -25,6 +28,16 @@ Earnings models:
 All memos follow `.claude/skills/equity-key-questions/SKILL.md`, which defines the
 structure, the method rules (reverse the valuation, find the last cycle peak, check cash
 conversion, quantify share supply, grade sources) and the pre-writing research checklist.
+
+Directories are named `<code>-<pinyin>`. A company with no ticker yet — an IPO applicant —
+uses `hkipo-<pinyin>` until it lists. For those the method rules are read through to their
+pre-listing equivalents: reverse the *offer price* rather than the market cap, treat the
+disclosed track record as the cycle peak it usually is, sweep the prospectus and the
+pre-IPO corporate actions in place of the 公告 sweep, and price the redemption-right
+(对赌) clock the way a listed name's lock-up expiries would be priced.
+
+Memos are English-first unless the requester asks otherwise; `research/hkipo-amos/` was
+commissioned as Chinese-only and has no `key-questions.md`.
 
 Any Claude Code session with this repo checked out picks the skill up automatically —
 just ask for an analysis of a company and it will follow the format. To re-run an existing
