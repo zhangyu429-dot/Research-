@@ -6,7 +6,7 @@ Equity research memos. One directory per company: `research/<code>-<pinyin-name>
 |---|---|---|
 | 洁美科技 Jiemei | 002859.SZ | [EN](research/002859-jiemei/key-questions.md) · [中文](research/002859-jiemei/key-questions.zh.md) · [PDF](research/002859-jiemei/key-questions.zh.pdf) |
 | 金海通 Jinhaitong | 603061.SH | [EN](research/603061-jinhaitong/key-questions.md) · [中文](research/603061-jinhaitong/key-questions.zh.md) · [PDF](research/603061-jinhaitong/key-questions.zh.pdf) |
-| 阿麦斯食品 Amos | 港交所IPO申请中 | [中文](research/hkipo-amos/key-questions.zh.md) · [PDF](research/hkipo-amos/key-questions.zh.pdf) |
+| 阿麦斯食品 Amos | 港交所IPO申请中 | [中文](research/hkipo-amos/key-questions.zh.md) · [PDF](research/hkipo-amos/key-questions.zh.pdf) — 财务数据取自招股书《会计师报告》原文 |
 
 Management interview question lists:
 [洁美科技 · 10个关键问题](research/002859-jiemei/management-questions.zh.md) ·
@@ -38,6 +38,16 @@ pre-IPO corporate actions in place of the 公告 sweep, and price the redemption
 
 Memos are English-first unless the requester asks otherwise; `research/hkipo-amos/` was
 commissioned as Chinese-only and has no `key-questions.md`.
+
+Where a memo has been re-run against a primary filing after an initial secondary-source
+pass, it says so under the title and carries a table of the superseded claims (see
+`hkipo-amos` §2 问题十二). Keep that table: which secondary sources proved wrong, and how,
+is itself a reusable finding about those sources.
+
+`tools/md_to_pdf.py` needs `poppler-data` installed to read CJK out of HK filings — those
+PDFs use non-embedded Adobe-CNS1 CID fonts, and without the CMap tables both `pdftotext`
+and page rasterisation silently drop every Chinese character while leaving the numbers
+intact, which looks like a clean extraction but is not.
 
 Any Claude Code session with this repo checked out picks the skill up automatically —
 just ask for an analysis of a company and it will follow the format. To re-run an existing
