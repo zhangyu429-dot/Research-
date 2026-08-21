@@ -6,12 +6,12 @@ Equity research memos. One directory per company: `research/<code>-<pinyin-name>
 |---|---|---|
 | 洁美科技 Jiemei | 002859.SZ | [EN](research/002859-jiemei/key-questions.md) · [中文](research/002859-jiemei/key-questions.zh.md) · [PDF](research/002859-jiemei/key-questions.zh.pdf) |
 | 金海通 Jinhaitong | 603061.SH | [EN](research/603061-jinhaitong/key-questions.md) · [中文](research/603061-jinhaitong/key-questions.zh.md) · [PDF](research/603061-jinhaitong/key-questions.zh.pdf) |
-| 阿麦斯食品 Amos | 港交所IPO申请中 | [中文](research/hkipo-amos/key-questions.zh.md) · [PDF](research/hkipo-amos/key-questions.zh.pdf) — 财务数据取自招股书《会计师报告》原文 |
+| 阿麦斯食品 Amos | 港交所IPO申请中 | [中文](research/hkipo-amos/key-questions.zh.md) · [PDF](research/hkipo-amos/key-questions.zh.pdf) — 财务数据取自招股书《会计师报告》原文，并纳入2026-08-21反向路演 |
 
 Management interview question lists:
 [洁美科技 · 10个关键问题](research/002859-jiemei/management-questions.zh.md) ·
 [金海通 · 10个关键问题](research/603061-jinhaitong/management-questions.zh.md) ·
-[阿麦斯 · 10个关键问题](research/hkipo-amos/management-questions.zh.md)
+[阿麦斯 · 12个关键问题](research/hkipo-amos/management-questions.zh.md)
 ([PDF](research/hkipo-amos/management-questions.zh.pdf))
 
 Industry deep dives:
