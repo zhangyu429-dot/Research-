@@ -2,10 +2,16 @@
 
 *Research memo · 22 August 2026 · analysis, not investment advice*
 
-*Revised 22 August: read the ¥300m placement and its predecessor filings (the 2025-048 prior-proceeds
-report, the 2026-012 proceeds report, the use-of-proceeds feasibility study, the offering plan, and the
-December 2024 change-of-use announcement). **The direction of the conclusion is unchanged, but one
-supporting argument is withdrawn and two are materially strengthened**; changes are marked in the text.*
+*Revised 22 August, in two passes. First: the ¥300m placement and its predecessor filings (the 2025-048
+prior-proceeds report, the 2026-012 proceeds report, the use-of-proceeds feasibility study, the offering
+plan, the December 2024 change-of-use announcement). Second: following the prospectus (filing draft) to
+fill in the report-period cash flow and balance sheet. **The direction of the conclusion is still
+unchanged, but balance-sheet and cash-flow quality are materially better than I had assumed, and there
+is one new negative fact — contract liabilities down 30.63%.** Changes are marked in the text.*
+
+*The prospectus itself (`static.sse.com.cn`) is refused by the organisation's egress policy in this
+environment (the proxy returns 403 on CONNECT) and could not be opened; what follows comes from
+search-engine summaries of that filing and the FY2025 annual report.*
 
 ---
 
@@ -58,6 +64,20 @@ P/B of roughly **3.4–3.8x** (backed out from FY2022 book value per share of ¥
 of retained earnings since — needs verification). Sell-side FY2026 net profit estimates run
 from **¥90m (Guosheng, May 2026) to ¥140m (Aijian / THS consensus, EPS ¥1.35)**; FY2027
 **¥160m–255m**; FY2028 **¥250m**.
+
+**Balance sheet and cash flow (added 22 August, previously the largest gap in this memo):**
+
+| Item (FY2025 unless noted) | Value | Comment |
+|---|---|---|
+| **Operating cash flow** | **+¥49.56m** (FY2024 **−¥48.58m**) | **192% conversion** on ¥25.85m of net profit; a ~¥98m swing YoY |
+| **R&D expense** | **¥129m, 16.33% of revenue** (−1.43% YoY) | **5.0x that year's net profit** |
+| Inventory | **¥463m** (down ¥43.52m YoY) | **36.78% of net assets** — implying **net assets of ~¥1.259bn, ~¥12.18 per share** |
+| **Contract liabilities** | **down 30.63% YoY**, share of total assets down 2.66pp | **The cleanest backlog proxy fell in 2025** |
+| Short-term borrowings | down 66.67% YoY, share of total assets down 2.14pp | Deleveraging |
+| Current / quick ratio | **2.66 / 1.70** | Ample liquidity |
+| 1H2025 | Revenue ¥285.2m (+2.49%), net profit **−¥15.48m**, operating cash flow **+¥19.65m** (prior year −¥64.10m) | **A first-half loss and a full-year profit is normal for this company** |
+
+On net assets of ¥1.259bn, a ¥4.46–4.99bn market cap is **~3.5–4.0x book**.
 
 **The share price is itself part of this memo:** ¥35.35 on 19 Nov 2025 → ¥64.07 on 8 May 2026 →
 ¥72.74 on 14 May (¥76.46 intraday) → ¥95.65 intraday on 27 May → a 15% down-close on 29 May
@@ -184,6 +204,26 @@ the FY2025 level of 40.88%, **and the company still lost ¥25.5m.** **Margin is 
 scale and fixed cost are** — which turns the question from "can they raise prices" into "when
 does revenue cover fixed costs," and only volume answers that.
 
+> **Added 22 August, and it changes the nature of this question: FY2025 R&D expense was ¥129m,
+> 16.33% of revenue — 5.0x that year's net profit of ¥25.85m.**
+>
+> Put that into the three explanations above and **the first (spending ahead of revenue)
+> overwhelms the third (equipment deflation).** A rough calculation: take the R&D ratio back to
+> 8% (~¥63m), hold everything else constant, and pre-tax profit rises by ~¥66m, putting net
+> profit around **¥90m — right back at the 2021 peak of ¥87.7m.**
+>
+> **So this is not a business that cannot make money; it is a company spending all of its profit,
+> and more, on R&D.** The implication cuts both ways. **For the bulls:** profit is being
+> suppressed by choice, not by competition, and the operating leverage on any decision to
+> converge R&D — or on R&D converting to revenue — is very large. **For the bears:** **a 16.33%
+> R&D ratio has been sustained for years without producing one large business** — the memory
+> order is "small," perovskite and solid-state orders are small, and the new-energy projects
+> slipped. **The question becomes "what is the conversion rate on that ¥129m," which is the
+> financial expression of Q7's "all four directions are real and all four are small."**
+>
+> **The first two numbers to ask for therefore change: the breakeven revenue level, and the
+> five-year R&D-ratio series set against new-product revenue.**
+
 **Ask:** the full three-year segment gross margin series, especially equipment from 2021 to 1H26.
 In 2021 the company disclosed that **equipment carrying its own in-house lasers earned 56.2%
 gross margin — against 37.69% for all equipment today, an 18.5pp gap. Is that falling in-house
@@ -247,6 +287,25 @@ answered by that single fact.**
 
 **The arithmetic of it: a company that could not deploy ¥713.82m in four years is applying for
 another ¥300m.** And on a two-year build, **the ¥170m produces no revenue before 2028.**
+
+> **An important correction from the second pass: operations are not burning cash, and my implicit
+> assumption was wrong.** FY2025 operating cash flow was **+¥49.56m**, a **192% conversion** on
+> ¥25.85m of net profit, against **−¥48.58m** in FY2024 — a ~¥98m swing in one year. Alongside it:
+> **short-term borrowings down 66.67%**, **current ratio 2.66 / quick ratio 1.70**, and
+> **inventory down ¥43.52m**.
+>
+> **"Working capital" is therefore unlikely to mean the company is short of cash to operate.**
+> That materially weakens the third explanation in this question and leaves the weight on the
+> first two — restricted use of proceeds, and project execution. **This is a correction in the
+> company's favour, and it simultaneously raises the force of a different question: if operating
+> cash flow is positive and the balance sheet is clean, why dilute shareholders now?**
+>
+> **But the same data carries one clear negative: at end-2025 contract liabilities were down
+> 30.63% YoY, with their share of total assets down 2.66pp.** For an equipment company, contract
+> liabilities are the cleanest externally available proxy for backlog. **They fell in 2025** —
+> the very year the company won the memory production order and was telling the market its
+> downstream markets were "blooming across the board." **That runs opposite to the "new orders
+> growing quickly" line and should be the core follow-up in Q1 and Q4.**
 
 **The termination still needs its own explanation.** An offering already priced with six
 subscribers named (Nord Fund, Ningquan Asset, Caitong Fund among them) was voided because **an
@@ -332,6 +391,18 @@ Then the near-term arithmetic, which is where it gets uncomfortable:
 >
 > And revenue is moving the other way: 1Q26 revenue of ¥87.3m was **−11.93%** YoY; 1Q25 was about
 > **12.6%** of the full year, so on unchanged seasonality FY2026 lands near **¥690m (−12%)**.
+>
+> **Corrected 22 August — the seasonality is more extreme than I described, which both weakens and
+> strengthens the point above:** 1H2025 net profit to parent was **−¥15.48m** (revenue ¥285.2m,
+> +2.49%) against **+¥25.85m** for the full year, so **2H2025 delivered +¥41.33m**; and the
+> nine-month report was "revenue up, loss narrowing" — **meaning nine months were still loss-making
+> and essentially the whole year's profit came in the fourth quarter.** Equipment acceptance
+> clusters at year-end; this is normal for the industry.
+>
+> **The weakening:** "a first-half loss" **does not falsify** anything for this company — 2025 ran
+> exactly that way. **The strengthening:** to produce ¥90m–140m on that shape **requires a fourth
+> quarter of more than ¥100m in a single quarter, when the best full year in company history was
+> ¥87.7m.**
 
 **Consensus requires profit at 5.4x the 2025 level in a year when revenue may fall 12%.** That is
 not impossible in an equipment company — revenue recognition depends on acceptance timing, and
@@ -480,7 +551,17 @@ trading day.** **Operating cash flow and contract liabilities are the two that m
 for an equipment company they answer "is the profit real" and "is the backlog real," which are
 precisely the first two questions in this memo.
 
-**Updated 22 August:** the placement filings closed two of these — **"does the controlling
+**Updated 22 August, second pass:** following the prospectus filled in **operating cash flow, R&D
+expense and ratio, inventory, the direction of contract liabilities, short-term borrowings, current
+and quick ratios, net assets (backed out at ¥1.259bn) and 1H2025 results** — i.e. the two gaps I
+had flagged as most critical (cash flow and contract liabilities) **are both now obtained, and they
+point in opposite directions: cash flow is positive and sharply improved, contract liabilities are
+down.** Still missing: **receivables balance and ageing, the goods-shipped line within inventory,
+revenue and gross margin by end market, and specific top-five customer percentages** (the annual
+report only states that "the top five customers show no clear continuity"). The prospectus itself is
+refused by the organisation's egress policy (403) and could not be opened.
+
+**Updated 22 August, first pass:** the placement filings closed two of these — **"does the controlling
 shareholder subscribe" (he does not)** and **the project detail plus the history of prior proceeds**
 (see Q3). Newly outstanding: **the projected revenue, incremental profit and payback for these
 projects** (they belong in the feasibility study), **the basis for the ¥60m working-capital
@@ -498,10 +579,15 @@ appeared as of 22 August.**
    proxy — a large YoY increase argues for the bulls on Q1); **receivables, inventory and goods
    shipped**; **operating cash flow**; and whether semiconductor/memory revenue is broken out
    for the first time.
-2. **Whether 1H26 returns to profit.** 1Q26 lost ¥25.5m. If the half is still a loss, reaching
-   even ¥90m for the year requires **more than ¥120m in the second half**, which is
-   **arithmetically close to unreachable** — the fastest available falsification of the entire
-   consensus chain.
+2. **The size of the first-half loss, and contract liabilities — not whether there is a loss.**
+   (**Corrected 22 August: I previously wrote that a first-half loss would make consensus
+   unreachable. That was too strong.** 1H2025 lost ¥15.48m, nine months were still negative, and
+   the year still delivered +¥25.85m; **a first-half loss is normal here and falsifies nothing.**)
+   The right tests are two: **first, whether the first-half loss is materially worse than the
+   ¥15.48m of 1H2025** — 1Q26 alone lost ¥25.5m, about ¥9m more than 1Q25's ~¥16.5m; **second, and
+   more important, whether contract liabilities turned up by 30 June 2026.** They fell **30.63%**
+   in 2025; another decline at the half would put "new orders growing quickly" in continued
+   conflict with the accounts, **and that is the strongest available falsification of consensus.**
 3. **The language shift from "small-batch repeat" to "volume."** Watch the investor-relations
    records for the first **tool count, order value or revenue share**. **Adjectives instead of
    numbers are themselves the answer.**
@@ -545,6 +631,14 @@ provides real cash and a real customer list (BOE, CSOT, Visionox), and years ins
 supply chain is evidence too. 1Q26 gross margin of 43.28% says the products are not in a price
 war.
 
+**After the second pass, this paragraph has to be revised upward, and not slightly.** Three numbers:
+**FY2025 operating cash flow of +¥49.56m (192% conversion on net profit), a ~¥98m improvement on
+FY2024's −¥48.58m; short-term borrowings down 66.67%, current ratio 2.66 and quick ratio 1.70; and
+R&D of ¥129m, 16.33% of revenue and 5.0x that year's net profit.** Together they say: **this is not
+a company that cannot make money — it is a company reinvesting all of its profit into R&D, and its
+operating cash flow and balance sheet can carry that.** Take the R&D ratio back to 8% and profit
+returns to roughly the 2021 peak. **This is the part I underweighted on 14 August.**
+
 **The stock** is a much harder question. You are buying at roughly **173–193x trailing earnings**
 and **702–786x trailing earnings ex-exceptionals**: a company whose **FY2025 profit
 ex-exceptionals was ¥6.35m**; whose **profit peak sits in 2021 and has not been matched in five
@@ -552,6 +646,14 @@ years, with a loss year in between**; whose **1Q26 revenue fell 12% and which lo
 where **consensus needs 2Q–4Q at 3.9x last year**; and whose forecasters, the last time they
 projected two years out, called **−¥34.5m** at **¥206m**. **Even if this company returned
 tomorrow to its best-ever year, at 30x that is ~¥2.6bn — about 45% below today.**
+
+**But the same data carries one new negative, and it lands on the most sensitive spot: at end-2025
+contract liabilities were down 30.63% YoY, their share of total assets down 2.66pp.** Contract
+liabilities are the cleanest external proxy for an equipment company's backlog, and the year they
+fell is the year the company won the memory production order and told the market its end markets
+were blooming. **The technology is real, the cash flow is real, the R&D spend is real — but as of
+the latest annual report, the orders have not grown in the accounts.** That is where the entire
+disagreement lands.
 
 **After the 22 August revision the direction of the conclusion is unchanged, but its centre of
 gravity has moved.** On 14 August I put the fulcrum on "how big is the memory order." Having read
@@ -649,6 +751,16 @@ verified against the originals. Remaining gaps are written up as questions per t
 - [FY2025 return to profit; of stealth dicing (SDBG), wafer grooving and laser marking, only stealth dicing has a breakthrough order — the rest are in qualification (Securities Times)](https://www.stcn.com/article/detail/3921078.html)
 - [Display customers BOE, CSOT, Visionox; products in HiSilicon's supply chain for years](http://m.hx168.com.cn/stock/F10/688170.html)
 - [Supply-chain component dependency and customer dispersion (Laserfair, 2021 — historical background)](https://www.laserfair.com/news/202107/02/79592.html)
+
+**Report-period financials (added 22 August, second pass; the prospectus itself is unreachable)**
+
+- [Prospectus (filing draft) announcement entry (Sina announcement library; the PDF is unreachable here)](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=688170&id=12447990) · [SSE original link — refused by the organisation's egress policy, proxy returns 403](https://static.sse.com.cn/stock/disclosure/announcement/c/202607/688170_20260715_9EVG.pdf)
+- [FY2025 **operating cash flow +¥49.56m** (FY2024 −¥48.58m); inventory **¥463m**, down ¥43.52m YoY, **36.78% of net assets**; cash up 15.42% YoY (FY2025 annual report)](https://finance.eastmoney.com/a/202604283721949771.html)
+- [FY2025 **R&D ¥129m, 16.33% of revenue** (−1.43% YoY); **contract liabilities down 30.63%**, share of total assets down 2.66pp; **short-term borrowings down 66.67%**, share down 2.14pp; **current ratio 2.66, quick ratio 1.70** (FY2025 annual report summary)](https://mb.hibor.com.cn/report/1a09cc65cdb56ee78b38970161a47921.html)
+- [1H2025: **revenue ¥285.2m (+2.49%), net profit to parent −¥15.48m, operating cash flow +¥19.65m** (prior year −¥64.10m)](http://xinpi.zqrb.cn/pdf/KCB/688170/2025/0829/691adccb19c6b7153065aa3c1d1485a2.pdf)
+- [3Q2025: "revenue up, loss narrowing" — nine months still loss-making, so the full year's profit came essentially from 4Q (Tencent News)](https://news.qq.com/rain/a/20251031A01BU900)
+- [Annual report language: **"the top five customers show no clear continuity"** — the products are capital equipment, closely tied to customers' fixed-asset investment cycles](http://dataclouds.cninfo.com.cn/shgonggao/hsomarket/2026/20260427/d83194fa95134a8cbbe6cab1723b5dd1.PDF)
+- [China Securities 1H2025 continuing-supervision report](https://file.finance.qq.com/finance/hs/pdf/2025/09/13/1224655128.PDF)
 
 **The placement and its predecessor filings (added 22 August)**
 
