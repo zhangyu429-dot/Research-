@@ -9,11 +9,12 @@ fill in the report-period cash flow and balance sheet. **The direction of the co
 unchanged, but balance-sheet and cash-flow quality are materially better than I had assumed, and there
 is one new negative fact — contract liabilities down 30.63%.** Changes are marked in the text.*
 
-*Third pass: the user supplied the **prospectus (filing draft) PDF itself**, uploaded in parts —
-pages 1–16 received. **One item in it corrects a claim this memo had emphasised** (see Q3), and two
-are materially new (the controlling shareholder's nationality, and the company's own named
-competitors). The SSE site remains refused by the organisation's egress policy (403 on CONNECT), so
-pages not yet supplied still rest on search summaries.*
+*Third and fourth passes: the user supplied the **full prospectus (filing draft) PDF**, uploaded in
+parts — **all 116 pages now read**. **This round corrects three judgements in this memo** and fills
+in the project economics, the prior projects' realised returns, the shareholder register, the
+founder's biography and the related-party map — all previously missing. The SSE site remains refused
+by the organisation's egress policy (403 on CONNECT); everything below marked "the prospectus" is
+quoted from the user-supplied original.*
 
 ---
 
@@ -88,28 +89,61 @@ range, ¥949m traded) → an all-time high of ¥96.21 and a ¥9.94bn market cap 
 ¥57.32 on 16 July → ¥48.26 on 27 July. **A triple in nine months, then a halving in six weeks,
 on daily turnover of 8%–12% of the float.** This is not a stock priced off earnings — not yet.
 
-**Control:** founder **Zhao Yuxing** is simultaneously **chairman, general manager and legal
-representative**. He held 22.97% after the IPO and **21.15%** after selling down in 2025.
-The second-largest holder, the **Woyan entities**, hold 9.99% (the prospectus glossary names both
-**Suzhou Woyan** and **Hunan Woyan**); the top ten hold 62.70% combined. **Control is thin, and the
-controlling shareholder has been selling.**
+**Control (fully corrected against the prospectus):** founder **Zhao Yuxing** is simultaneously
+chairman, general manager and legal representative. He held 22.97% after the IPO and **21.15%
+(21.8614m shares)** after selling down in 2025, and the prospectus states his holding **"is not
+subject to lock-up, pledge or other restriction on rights" — i.e. nothing is pledged** (a question
+I asked repeatedly; the answer is favourable). As at 31 December 2025, **all 103,360,000 shares are
+unrestricted and freely tradable.**
 
-> **A fact from the prospectus that appears in no secondary coverage, and that bears directly on
-> what this company is.** The glossary reads: "**ZHAO YUXING, Australian national**, chairman and
-> general manager of the company, formerly held a Chinese identity card, obtained a Foreign
-> Permanent Resident ID Card in June 2021, Chinese name 赵裕兴." A related entity is
-> **A.C. Trading & Investment PTY LTD, an Australian company**.
+Top ten holders (31 December 2025):
+
+| # | Holder | m shares | % |
+|---|---|---|---|
+| 1 | Zhao Yuxing | 21.86 | **21.15%** |
+| 2 | Beijing Woyan Investment Centre LP | 8.30 | 8.03% |
+| 3 | Chen Jiang | 5.17 | 5.00% |
+| 4 | Wuxi Guanying Investment | 3.24 | 3.13% |
+| 5 | Suzhou Dezhan Investment Management Centre LP | 1.69 | 1.64% |
+| 6 | Jiangsu Zhongmei Mining Equipment | 1.64 | 1.59% |
+| 7 | Sun Fudi | 1.56 | 1.51% |
+| 8 | CMB — ICBC Credit Suisse Yuanxing Mixed Fund | 1.50 | 1.45% |
+| 9 | Beijing Woyan Capital — Jiangyin Woyan Investment Centre LP | 1.10 | 1.06% |
+| 10 | Yao Hua | 1.03 | 1.00% |
+| | **Total** | **47.10** | **45.57%** |
+
+**Correction: the "Beijing Woyan 9.99%, top ten 62.70%" I quoted earlier came from a stale THS F10
+page and was wrong.** Beijing Woyan holds 8.03% (9.09% including Jiangyin Woyan), and **the top ten
+hold 45.57%. The register is more dispersed, and the free float larger, than I had described —
+control is thinner, not tighter.**
+
+> **The prospectus supplies the founder's biography, and it materially changes how this company
+> reads — including how I read it one pass ago.** Zhao Yuxing, **born February 1962, PhD**:
+> MSc in laser technology from the **Shanghai Institute of Optics and Fine Mechanics, Chinese
+> Academy of Sciences** (1985), assistant researcher there 1985–88; then to the **University of
+> Sydney** from 1988 as visiting scholar, **research engineer at its Optical Fibre Technology
+> Centre**, and researcher in the photonics laboratory, taking a PhD in electrical engineering in
+> 1997; **senior researcher at the Australian Photonics Cooperative Research Centre 1998–2000**;
+> **director, deputy GM and chief engineer of Jiangsu Fasten Photonics 2000–2004**; founded this
+> company in April 2005 and has been chairman and GM since.
 >
-> **Why it matters:** the company's core growth narrative is selling silicon-wafer stealth-dicing
-> tools to a leading Chinese memory maker (the market points at YMTC/CXMT) — i.e. **import
-> substitution at a strategically sensitive customer** — while its controlling shareholder,
-> chairman and GM is **a foreign national**. The same risk section states that lasers are "mainly
-> self-produced, **with some purchased from domestic and overseas manufacturers, principally
-> imported from Germany and the United States**." Together these form a geopolitical risk cluster
-> that deserves separate pricing: customer supplier-qualification review, export controls and
-> tariffs, and the equity arrangements if state capital is ever brought in. **This memo takes no
-> directional view on that risk, but it was entirely outside the frame before and must now be in
-> it.**
+> **Two things follow, and both need saying.**
+>
+> **First, this is a genuine laser/photonics scientist, not a businessman.** SIOM plus Sydney
+> photonics is about as strong a pedigree as this industry offers. **It changes how Q2 and Q7 should
+> read: a 16–18% R&D ratio and four simultaneous fronts — memory stealth dicing, perovskite,
+> solid-state battery, SiC slicing — look like a technical founder building technical options, not
+> an operator chasing themes.** The financial criticism I made on 14 August stands; **the
+> imputation about motive is withdrawn.**
+>
+> **Second, I flagged "Australian national" last pass without context; here is the context.** He
+> went to Australia in 1988 and spent sixteen years there in research — the nationality is a
+> by-product of that academic career, **not a corporate-structuring choice.** The objective risk
+> does not disappear: the growth narrative is selling stealth-dicing tools into leading Chinese
+> memory fabs while the controlling shareholder, chairman and GM is a foreign national, and the same
+> document's risk factors note lasers are "**partly purchased from domestic and overseas
+> manufacturers, principally imported from Germany and the United States**." **But it is a technical
+> question about customer qualification and supply chain, not a question about motive.**
 
 **Pending:** a ¥300m private placement, announced 22 June 2026 and accepted by the SSE on
 15 July. Up to 31.008m shares (30.00% of pre-deal share capital), **competitively bid, priced off
@@ -191,6 +225,12 @@ took the stock from ¥35 to ¥96 on it.
 - **What is the acceptance cycle?** Equipment orders and revenue are separated by installation,
   commissioning and customer sign-off. **1Q26 revenue fell 11.93% YoY, which says the 2025
   orders had not become 1H26 revenue.**
+- **Whom is this displacing — and at what scale?** The prospectus gives peer FY2025 revenue:
+  **DISCO ¥393.3bn yen (~¥19bn RMB)**, Coherent $5.81bn, TRUMPF €4.3bn, **EO Technics KRW 380.9bn
+  (~¥2.0bn RMB)**, Han's Laser ¥18.76bn, HGTech ¥14.36bn, Hymson ¥4.22bn, Inno Laser ¥513m, Huaray
+  ¥306m, Guoshen ¥105m — against **Delong's ¥787m**. **DISCO's revenue is roughly 24x Delong's.**
+  That does not diminish the technical breakthrough, but it scales the words "import substitution":
+  **on revenue Delong's true comparables are Inno Laser and Huaray, not Han's Laser or HGTech.**
 - **Whom is this displacing?** **The prospectus glossary names them itself: DISCO CORPORATION
   (Japan) and EO Technics (Korea)** — so this is no longer unverified industry background. The
   incumbent's share, price and lead times decide whether this is share-taking or gap-filling.
@@ -227,8 +267,10 @@ the FY2025 level of 40.88%, **and the company still lost ¥25.5m.** **Margin is 
 scale and fixed cost are** — which turns the question from "can they raise prices" into "when
 does revenue cover fixed costs," and only volume answers that.
 
-> **Added 22 August, and it changes the nature of this question: FY2025 R&D expense was ¥129m,
-> 16.33% of revenue — 5.0x that year's net profit of ¥25.85m.**
+> **Added 22 August, and it changes the nature of this question. The prospectus gives the full
+> series: R&D of ¥103.69m (17.82% of revenue) in 2023, ¥130.42m (18.24%) in 2024 and ¥128.56m
+> (16.33%) in 2025 — **¥362.7m over three years** — against cumulative net profit over the same
+> three years of 39.1 − 34.5 + 25.8 = **¥30.4m. R&D is 12x cumulative earnings.**
 >
 > Put that into the three explanations above and **the first (spending ahead of revenue)
 > overwhelms the third (equipment deflation).** A rough calculation: take the R&D ratio back to
@@ -308,74 +350,148 @@ answered by that single fact.**
    capital ending its life as "permanent working capital" is the plainest available reading of
    capital-allocation discipline.**
 
-> **Correction, third pass — the most consequential item in this revision, because it overturns a
-> line this memo used repeatedly.** I wrote that "a company that could not deploy ¥713.82m in four
-> years is applying for another ¥300m." **The prospectus shows that is wrong:** "the prior
-> fundraising … net proceeds were ¥713.8197m. **As at 31 December 2025 the company had cumulatively
-> invested ¥661.1122m of the prior proceeds, which have been substantially used up**, and the
-> remaining proceeds will fund continued construction of the 'new energy high-end equipment
-> manufacturing project' and the 'new energy R&D centre project'."
+> **Fourth pass — Section 5 of the prospectus gives the full prior-proceeds reconciliation, and it
+> is more telling than any version of this section I have written so far. All figures below are
+> from the original.**
 >
-> **That is 92.6% deployed, with ~¥52.7m left. The money was in fact spent.**
+> **(1) Where the money went.** Net proceeds ¥713.82m; ¥661.11m (**92.62%**) deployed by end-2025:
 >
-> **The accurate statement is: the money was spent, but not on the two projects it was raised
-> for.** The Suzhou laser-industrialisation and headquarters R&D projects were abandoned for lack
-> of land, the cash went to Jiangyin, and the company is now back raising for those original two.
-> **That is still a negative record on project selection and execution, but it is not "cannot spend
-> the money" — it is "spent it somewhere else." The two are different charges, and my earlier
-> phrasing overstated it.**
+> | Project | Actually invested (¥m) | Note |
+> |---|---|---|
+> | Precision laser equipment capacity expansion | 109.12 | Completed 2023 |
+> | Nanosecond UV and ultrafast laser capacity expansion | 32.17 | Changed Jan 2024 |
+> | R&D centre construction | 18.71 | Changed Jan 2024 |
+> | Customer service network construction | 9.06 | **Terminated Jan 2024** ("no longer fits the company's actual needs") |
+> | Working capital project | 117.86 | |
+> | **Over-raise used for working capital, buybacks and other** | **273.85** | |
+> | **Laser industrialisation project** | **0** | Created Jan 2024, defunded Dec 2024 — **never spent a yuan** |
+> | **Headquarters R&D centre project** | **0** | Same |
+> | New energy high-end equipment manufacturing | 46.85 | 50.7% complete, deferred to Dec 2026 |
+> | New energy R&D centre | 53.49 | 64% complete, deferred to Dec 2026 |
+> | **Total** | **661.11** | Reallocated ¥175.93m, **24.65% of proceeds** |
+>
+> **Add the ¥117.86m working-capital project to the ¥273.85m of over-raise spent on working
+> capital, buybacks and "other" and you get ¥391.71m — 59.25% of everything deployed.** Genuine
+> capacity and R&D construction absorbed ¥269.41m, **40.75%**.
+> **So the accurate statement narrows a third time: the money was not unspent, and it was not merely
+> "spent elsewhere" — nearly six-tenths of the deployed IPO proceeds ended up as working capital,
+> share buybacks and "other funding needs."**
+>
+> **(2) The two projects this placement funds had zero actual investment last time.** The "laser
+> industrialisation project" and "headquarters R&D centre project" were created in January 2024 by
+> pooling the residue of four earlier projects, and defunded wholesale in December 2024 —
+> **all three columns of the reconciliation (pre-raise commitment, post-raise commitment, actual
+> investment) read "-".** These two names lived on the company's books for eleven months, never
+> produced a single payment, and are now appearing in a fundraising document for the third time.
 
-**So the accurate arithmetic is: 92.6% of the prior proceeds are deployed, ¥175.93m of it taken off
-the very two projects this placement funds; the company is now raising ¥300m to go back to them.**
-And on a two-year build, **the ¥170m produces no revenue before 2028.**
-
-> **An important correction from the second pass: operations are not burning cash, and my implicit
-> assumption was wrong.** FY2025 operating cash flow was **+¥49.56m**, a **192% conversion** on
-> ¥25.85m of net profit, against **−¥48.58m** in FY2024 — a ~¥98m swing in one year. Alongside it:
-> **short-term borrowings down 66.67%**, **current ratio 2.66 / quick ratio 1.70**, and
-> **inventory down ¥43.52m**.
->
-> **"Working capital" is therefore unlikely to mean the company is short of cash to operate.**
-> That materially weakens the third explanation in this question and leaves the weight on the
-> first two — restricted use of proceeds, and project execution. **This is a correction in the
-> company's favour, and it simultaneously raises the force of a different question: if operating
-> cash flow is positive and the balance sheet is clean, why dilute shareholders now?**
->
-> **But the same data carries one clear negative: at end-2025 contract liabilities were down
-> 30.63% YoY, with their share of total assets down 2.66pp.** For an equipment company, contract
-> liabilities are the cleanest externally available proxy for backlog. **They fell in 2025** —
-> the very year the company won the memory production order and was telling the market its
-> downstream markets were "blooming across the board." **That runs opposite to the "new orders
-> growing quickly" line and should be the core follow-up in Q1 and Q4.**
+**So the accurate arithmetic: 92.62% of the prior proceeds were deployed, nearly six-tenths of it
+into working capital and buybacks; the two projects this placement funds were defunded last time
+without spending anything; and the company is now raising ¥300m for them.** On a two-year build,
+**the ¥170m produces no revenue before 2028** (see Q3b).
 
 **The termination still needs its own explanation.** An offering already priced with six
 subscribers named (Nord Fund, Ningquan Asset, Caitong Fund among them) was voided because **an
 intermediary did not meet the eligibility conditions** — procedurally possible, but it means
-**issuer and sponsor did not check a basic qualification before launching.** That is an
-observation about internal control and execution.
+**issuer and sponsor did not check a basic qualification before launching.**
 
-**Use of proceeds as confirmed by the prospectus (previously backed out; all three match):**
+### Q3b — The last funded project with a promised return delivered 28.7% of it; this one is modelled at a 14.20% IRR
 
-| # | Project | Total investment (¥m) | From proceeds (¥m) |
+**This is the sharpest comparison available, and the only historical yardstick for judging the
+¥300m.**
+
+**The history first.** Of the ten prior projects, the prospectus's realised-benefit table shows
+**only one carried a promised return**:
+
+| Project | Promised | FY2024 actual | FY2025 actual | Cumulative | Met target? |
+|---|---|---|---|---|---|
+| Precision laser equipment capacity expansion | **¥577.70m annual revenue** | ¥133.10m | **¥165.62m** | ¥298.71m | **No** |
+
+**FY2025 delivered ¥165.62m against a promised ¥577.70m — 28.7%.** The company's explanation:
+"affected by the industry cycle, downstream fixed-asset investment slowed, and equipment sales grew
+less than the funded-project forecast … new fields, new customers and new products have long
+introduction and acceptance cycles, so the returns need more time." **Note that every risk in that
+sentence applies equally to the project now being funded.**
+
+**Now this one.** Section 3.6 gives the full model:
+
+- **After-tax IRR 14.20%; payback 8.65 years (including the two-year build)**
+- Annual revenue at full ramp **¥244.43m**
+- Ramp: two-year build, then **60% utilisation in year 3, 80% in year 4, 100% from year 5** — i.e.
+  **full ramp around 2031**
+- Volume and price assumptions:
+
+| Product | Units | Price (¥'000) | Revenue (¥m) |
 |---|---|---|---|
-| 1 | Laser production project | 174.50 | **170.00** |
-| 2 | Headquarters R&D centre | **73.01** | **70.00** |
-| 3 | **Working capital** | 60.00 | **60.00** |
-| | **Total** | **307.51** | **300.00** |
+| Nanosecond | 1,000 | 23.3 | 23.29 |
+| **Picosecond** | 1,000 | **130.3** | 130.32 |
+| **Femtosecond** | 300 | **260.6** | 78.19 |
+| Tunable pulse width | 50 | 130.3 | 6.52 |
+| Semiconductor | 100 | 40.7 | 4.07 |
+| Fibre | 50 | 40.7 | 2.04 |
+| **Total** | **2,500** | avg **97.8** | **244.43** |
 
-Also confirmed: the offering has passed the 17th meeting of the fifth board **and the third
-extraordinary general meeting of 2026 — the shareholder step is done**, leaving SSE review and CSRC
-registration; subscribed shares carry a **six-month lock-up**.
+**Set that against the company's own reported laser operating data and the problem appears:**
 
-**Ask:** whether the Xinglong Street plot has actually been won at auction and the land grant
-contract signed; the projects' **projected revenue, incremental profit and payback** (Section 3.6 of
-the prospectus, "assumptions and calculations behind the projected returns," pages 88–90 — **not
-covered by the pages supplied so far**); **the projected revenue attached to 2,500 lasers a
-year** — which must be read against the FY2025 laser segment revenue of **¥62.59m**; the basis for
-the ¥60m working-capital figure; and whether the two Jiangyin projects slip **a second time** in
-December 2026. Still outstanding from before: the direction of **contract liabilities**,
-**receivables ageing and inventory composition** (especially goods shipped pending acceptance),
-and committed 2026–2027 capex against forecast operating cash flow.
+| | 2023 | 2024 | 2025 | At full ramp |
+|---|---|---|---|---|
+| Laser segment revenue (¥m) | 48.51 | 38.81 (**−20%**) | 62.59 | **244.43** |
+| Units sold | 1,097 | 1,024 | **1,053** | **2,500** |
+| Implied ASP (¥'000) | 44.2 | 37.9 | **59.4** | **97.8** |
+| Capacity (units) | 1,000 | 1,000 | 1,000 | +2,500 |
+| Utilisation | 114.60% | 107.90% | 109.10% | — |
+
+- **Units have been flat to down for three years: 1,097 → 1,024 → 1,053.** The company argues the
+  expansion is justified because "capacity utilisation is already saturated" (>107%) — **but
+  utilisation is high because capacity is fixed at 1,000 units, not because volume is growing.**
+  The question that needs answering is: **if demand is strong, why did 2025 sell 44 fewer units
+  than 2023?**
+- **The project needs units ×2.4 and ASP ×1.65 simultaneously** (¥59.4k → ¥97.8k) to reach ¥244m.
+  The price assumption rests on 1,300 picosecond and femtosecond units — 52% of volume and **85% of
+  revenue** — **so the whole model is a bet on high-end ultrafast volume.**
+- FY2025 ASP already jumped from ¥37.9k to ¥59.4k (+57%), so the mix shift is real and under way;
+  **but going from ¥59.4k to ¥97.8k is a second jump stacked on a unit base that has never grown.**
+
+**On the 14.20% itself.** For a STAR Market equipment company, **an after-tax IRR of 14.20% with an
+8.65-year payback is a mediocre project** — not clearly above cost of equity, and a payback longer
+than most semiconductor equipment product cycles. More striking is **what the money buys**:
+
+| | Construction cost | Share of project |
+|---|---|---|
+| Laser production project | ¥117.65m | **67.42%** |
+| Headquarters R&D centre | ¥51.15m | **70.06%** |
+| Combined | **¥168.80m** | **68.2%** |
+
+**Equipment purchases in the laser project come to just ¥16.70m, 9.57%.** In other words,
+**roughly ¥169m of the ¥300m — 56% — is a building**, not machinery. For a company issuing equity
+at roughly 3.5–4.0x book, putting more than half the proceeds into its own factory shell leaves no
+margin between the implied cost of that capital and a 14.20% project IRR.
+
+**And the real working-capital number.** Nominally "working capital" is ¥60m, but Section 3.5
+classifies under Legal Applicability Opinion No. 18: **capital expenditure ¥211.69m,
+non-capital expenditure (contingency, initial working capital and the working-capital line)
+¥88.31m — 29.44% of proceeds.** **The regulatory ceiling is 30%; the company has used it to the
+limit.** Meanwhile at 31 March 2026 the balance sheet held **¥259.67m of cash plus ¥75.18m of
+structured deposits — about ¥335m of cash and near-cash.** **A company sitting on ¥335m of cash
+taking non-capex to the regulatory maximum while raising ¥300m is something the exchange's comment
+letter will almost certainly ask about.**
+
+**And the land is still not secured.** From the original: "On 26 March 2026 the Suzhou Industrial
+Park Investment Promotion Committee signed an Investment Agreement with the issuer, **recommending
+a site** for the funded project and assisting with formalities. **As at the signing date of this
+prospectus, the land for this project has not yet been obtained.** The issuer is progressing land
+acquisition; there is no substantive obstacle to obtaining it." Project filings were completed
+23/24 December 2025 and no environmental assessment is required. **"No substantive obstacle" is the
+same assurance attached to the two identically-named projects that were ultimately defunded in
+2024 for want of land.**
+
+**Ask:** the auction date and land grant contract for the Xinglong Street plot; **why laser unit
+sales have not grown in three years while "saturated capacity" is the stated rationale for a 2.5x
+expansion**; what supports the ¥97.8k average price at full ramp (customers, orders, or industry
+forecast); whether the 14.20% IRR reflects 30-year building depreciation (it does — 30 years
+straight-line, 10% residual); **the necessity of ¥88.31m of non-capex while holding ¥335m of cash**;
+and whether the two Jiangyin projects slip **a second time** in December 2026. Still outstanding:
+receivables and ageing, the goods-shipped line within inventory, and revenue and gross margin by
+end market.
 
 ### Q4 — The controlling shareholder sold the moment his lock-up expired, and sold during an abnormal-volatility window
 
@@ -498,9 +614,32 @@ after selling he holds only about **21%**, against 9.99% for Beijing Woyan and 6
 ten combined. This is the opposite of most family-controlled A-share manufacturers: **the risk
 here is not that minorities cannot influence anything, but that control itself is fragile** — in
 a company planning consecutive raises while its controlling shareholder sells, 21% plus a ¥300m
-placement (≈6–7% dilution at the current price) keeps diluting. **Ask whether the controlling
-shareholder is subscribing to this placement, whether there are concert-party arrangements, and
-whether any shares are pledged.** None of the three was obtainable here.
+placement (≈6–7% dilution at the current price) keeps diluting. **All three questions I raised are now answered by the prospectus: he is not subscribing; no
+concert-party arrangement is disclosed; and his holding "is not subject to lock-up, pledge or other
+restriction on rights" — nothing is pledged (that one is favourable).**
+
+**But the same chapter surfaces a new and higher-priority thread.** The prospectus's
+same-business-competition section lists six entities the controlling shareholder invests in. The
+second is **Suzhou Tianyu Photoelectric Technology (Tianyu Technology)** — **Zhao Yuxing holds
+12.50% indirectly through AC Investment and sits on its board, and its stated principal business is
+"factory building and premises leasing."** In the same document, justifying the placement, the
+company writes: **"the existing production site is leased and cannot be effectively expanded."**
+
+**The prospectus does not say who the company's current landlord is, so what follows is a question
+to verify, not a conclusion: is the company's current production site leased from Tianyu Technology
+or an affiliate? If so, what is the annual rent, on what pricing basis, and is it captured in the
+ordinary related-party transaction estimates?** This matters because **"the site is leased, so we
+need ¥300m to build our own" is one of the core necessity arguments for this placement** — if the
+landlord is the controlling shareholder's affiliate, that argument needs re-examining, and the rent
+is itself a channel through which margin can leak. **This is the highest-priority related-party
+question to come out of reading the full document.**
+
+The other five: AC Investment (Zhao and his spouse MAO JIANMIN each hold 50% and sit on the board;
+equity investment), PHOENIXZ PTY LTD (underground coal-mine gas detection), ImageTech Capital LP,
+Winway Interconnect Technology (M) Sdn. Bhd. (cable and cabinet assemblies), and **Pavilion
+Integration Corporation (medical lasers and modules, 0.35%)**. The last makes lasers, but at 0.35%
+the company concludes there is no competing business — reasonable, though worth confirming whether
+any trading relationship exists.
 
 **Q7 — Four stories, ¥787m of revenue and ¥25.8m of profit.** Display panel (BOE, CSOT, Visionox
 — the base, demand flat), semiconductor (memory stealth dicing — the new story, order value
@@ -514,7 +653,12 @@ natural explanation for net margin going from 16.0% to 3.3%. **Ask for backlog a
 direction**, and translate "platform" back into the measurable number, which is the R&D expense
 ratio.
 
-**Correction, 22 August — calling these "stories" was too strong.** On further checking:
+**Correction, 22 August — calling these "stories" was too strong, and after reading the founder's
+biography it needs softening further.** Zhao Yuxing is a SIOM laser-technology MSc, a Sydney
+photonics PhD and a former senior researcher at the Australian Photonics CRC (see Section 0);
+**four simultaneous fronts look more like a technical founder building technical options than an
+operator chasing themes.** The financial criticism stands — ¥362.7m of R&D over three years against
+¥30.4m of cumulative profit — **but the imputation about motive is withdrawn.** On further checking:
 **perovskite** — the company has a second-generation integrated tool doing P1/P2/P3 scribing and
 P4 edge cleaning, **with orders from multiple customers and units running in production lines**;
 **solid-state battery** — the company is described as having a first-mover position in **laser
@@ -583,16 +727,28 @@ expected dilution**), and the new subscribers become natural supply once locked 
 2024 remain unassigned. **Taken together: the best-informed holders have been realising, not
 adding, and more supply is on the way.**
 
-**Q12 — Related-party transactions and off-balance-sheet investing: size unknown, direction worth
-watching.** In January 2026 the company invested in a newly formed private fund (Jiangsu Nantong
-Yuanhe Chongyuan strategic emerging industries equity fund, alongside a Nantong
-next-generation-IT industry fund of funds), **which constituted a related-party transaction**,
-approved by a dedicated independent-directors meeting; **the company's commitment amount could
-not be obtained.** There is also a 28 April 2026 announcement of expected FY2026 ordinary
-related-party transactions (2026-010), **again with neither amounts nor counterparties
-obtained**. For a company earning ¥25.8m while applying to raise ¥300m, **putting its own cash
-into a government-guidance-fund-backed PE vehicle needs both a strategic rationale and a
-number.** If the amount is material against profit, this moves up out of the second-order list.
+**Q12 — Off-balance-sheet investing: the amounts are now known, they are modest, and the structure
+matters more than the size.** As at 31 March 2026 the prospectus shows: **Suzhou Woyan ¥21.00m paid
+in (2.50%), Hunan Woyan ¥10.00m committed (¥4.00m paid, 1.3943%), Yuanhe Chongyuan ¥10.00m
+committed (unpaid, 2.8986%), and Zhenjiang Laibo New Materials ¥5.77m** — about ¥46.8m committed,
+~¥16m still to be paid. All four are classified as **industrial, not financial, investments** on
+the basis that they target the company's own value chain.
+
+**The amounts are small (about 1.8x FY2025 net profit), but two structural points stand out:**
+
+1. **The funds the company invests in are managed from within its second-largest shareholder.**
+   The register shows **Beijing Woyan Investment Centre at 8.03%** and **Beijing Woyan Capital —
+   Jiangyin Woyan Investment Centre at 1.06%**; the vehicles subscribed to are **Suzhou Woyan** and
+   **Hunan Woyan**. **A listed company putting its own cash into funds run by its second-largest
+   shareholder's group** is precisely why this is a related-party transaction, and why the terms
+   deserve questioning: are the subscription terms identical to other LPs? What are the management
+   fee and carry? On what basis did the independent directors approve?
+2. **One date is worth confirming.** The Hunan Woyan commitment was announced on **14 August 2025**
+   — **the same day as the controlling shareholder's share-sale plan.** Most likely just batched
+   disclosure.
+
+The 28 April 2026 announcement of expected FY2026 ordinary related-party transactions (2026-010)
+still has **neither amounts nor counterparties** available.
 
 **Q13 — Source quality and disclosure gaps.** In this environment, **every primary disclosure
 site and PDF host — the SSE, cninfo, Eastmoney/dfcfw, Sina Finance, Xueqiu, THS, Sohu, Tencent
@@ -605,6 +761,17 @@ transaction amounts, controlling-shareholder pledges, and an accurate close for 
 trading day.** **Operating cash flow and contract liabilities are the two that matter most** —
 for an equipment company they answer "is the profit real" and "is the backlog real," which are
 precisely the first two questions in this memo.
+
+**Updated 22 August, fourth pass (full prospectus read).** Now closed: **the project return model
+(14.20% IRR, 8.65-year payback, ¥244.43m at full ramp, unit and price assumptions), the complete
+prior-proceeds reconciliation and realised-return table, the shareholder register, the founder's
+biography and pledge status (none pledged), off-balance-sheet fund commitments, laser capacity
+utilisation and unit sales, three-year revenue by product, three-year R&D, 1Q26 cash and structured
+deposits, and peer revenue scale.** **Still missing** (the document genuinely has no financial
+statements section): **receivables and ageing, the goods-shipped line within inventory, revenue and
+gross margin by end market, specific top-five customer percentages, 1H26 results, the memory order
+value, related-party transaction amounts, and whether the company's current leased premises are
+rented from Tianyu Technology.**
 
 **Updated 22 August, second pass:** following the prospectus filled in **operating cash flow, R&D
 expense and ratio, inventory, the direction of contract liabilities, short-term borrowings, current
@@ -740,7 +907,29 @@ products, funded projects delayed, a fully-priced placement voided over an inter
 eligibility, then an immediate pivot to a ¥300m raise with "working capital" newly added** — and
 **this is not the pattern of a cash-rich, backlog-full company being discovered by the market.**
 
-**Three corrections in the company's favour, all from this revision, belong here too:** management's
+**After reading the full prospectus, three more sentences belong here — two favourable, one not.**
+
+**Favourable, first: the founder is real.** Zhao Yuxing — SIOM laser-technology MSc, University of
+Sydney photonics PhD, senior researcher at the Australian Photonics CRC, chief engineer at Jiangsu
+Fasten Photonics — founded this company in 2005. **A 16–18% R&D ratio under that CV is a scientist
+building technical options, not an operator chasing themes.** My earlier imputation about motive on
+the "four directions" is withdrawn.
+
+**Favourable, second: most of the technical doubts about the balance sheet and governance are
+cleared.** The controlling shareholder holds 21.15% with **nothing pledged**; there are no
+financial investments; off-balance-sheet fund commitments total only ~¥46.8m; the 1Q26 balance
+sheet holds ~¥335m of cash and structured deposits; operating cash flow has turned positive.
+**This is not a company with a financial hole in it.**
+
+**Unfavourable, and it is the heaviest sentence in this memo: the last time this management
+promised a funded project's returns, it delivered 28.7% of them.** The precision laser equipment
+capacity expansion promised ¥577.70m of annual revenue and produced ¥165.62m in 2025; the
+prospectus's own table writes "**No**" under "target met." **And the same management now brings a
+project modelled at a 14.20% after-tax IRR with an 8.65-year payback, requiring laser unit sales to
+rise 2.4x and average price another 65%, to raise ¥300m — roughly ¥169m of which is a building
+rather than machinery.**
+
+**Three further corrections in the company's favour, from the earlier passes, belong here too:** management's
 own guidance is accurate (FY2025 guided ¥21m–30m attributable / ¥5.0m–7.5m ex-exceptionals, delivered
 ¥25.85m / ¥6.35m — both mid-range, so my 14 August inference of systematic over-forecasting is
 withdrawn); perovskite and solid-state battery are order-bearing product lines, not stories; and the
@@ -808,17 +997,28 @@ verified against the originals. Remaining gaps are written up as questions per t
 - [Display customers BOE, CSOT, Visionox; products in HiSilicon's supply chain for years](http://m.hx168.com.cn/stock/F10/688170.html)
 - [Supply-chain component dependency and customer dispersion (Laserfair, 2021 — historical background)](https://www.laserfair.com/news/202107/02/79592.html)
 
-**The prospectus (filing draft) itself — supplied by the user, pages 1–16**
+**The prospectus (filing draft) — full text supplied by the user, all 116 pages read**
 
-- Suzhou Delphi Laser, *2026 Prospectus for the Issue of A Shares to Specific Objects (filing draft)*, sponsor/lead underwriter China Securities, auditor Reanda, issuer's counsel Shanghai Guangfa, July 2026. **Uploaded in parts; pages 1–16 read this round (cover, declarations, key matters, contents, glossary).** It confirms:
-  - **Glossary: "ZHAO YUXING, Australian national, chairman and general manager of the company, formerly held a Chinese identity card, obtained a Foreign Permanent Resident ID Card in June 2021, Chinese name 赵裕兴"**; a related entity is A.C. Trading & Investment PTY LTD (Australia)
-  - **Use of proceeds: laser production project ¥174.50m / ¥170.00m; headquarters R&D centre ¥73.01m / ¥70.00m; working capital ¥60.00m / ¥60.00m; total ¥307.51m / ¥300.00m**
-  - **Prior proceeds net ¥713.8197m; as at 31 Dec 2025 cumulatively invested ¥661.1122m (92.6%), "substantially used up"**, remainder to fund continued construction of the two new-energy projects
-  - Approved by the 17th meeting of the fifth board and the **third EGM of 2026**; issue size capped at **31,008,000 shares** (30% of pre-deal capital); **six-month lock-up**
-  - Named peers: **DISCO CORPORATION (Japan), EO Technics (Korea)**, Han's Laser, HGTech, Hymson, TRUMPF, Coherent, Spectra-Physics, Guoshen, Inno Laser, Huaray
-  - Risk factors: "the laser, the core component of the company's precision laser processing equipment, is mainly self-produced, **with some purchased from domestic and overseas manufacturers, principally imported from Germany and the United States**"
-  - Subsidiaries: Belin Laser, Qinyan Precision, Zhande Automation, Jiangyin Deli Laser (and its subsidiary Xiamen Deyu Laser), Jiangsu Delong; related entities: Suzhou Woyan, Hunan Woyan, Yuanhe Chongyuan
-  - The reporting period is defined as **FY2023, FY2024 and FY2025**; the contents show the document **has no full financial-statements section**
+Suzhou Delphi Laser, *2026 Prospectus for the Issue of A Shares to Specific Objects (filing draft)*, sponsor/lead underwriter China Securities, auditor Reanda, issuer's counsel Shanghai Guangfa, July 2026. Everything marked "the prospectus" in this memo is quoted from it. Key contents:
+
+- **Section 1:** controlling shareholder **Zhao Yuxing, born Feb 1962, Australian national with Chinese permanent residence, PhD**; MSc in laser technology, Shanghai Institute of Optics and Fine Mechanics (CAS), 1985; PhD in electrical engineering, University of Sydney, 1997; assistant researcher at SIOM, research engineer at Sydney's Optical Fibre Technology Centre, researcher in its photonics lab, **senior researcher at the Australian Photonics CRC**, **director / deputy GM / chief engineer of Jiangsu Fasten Photonics 2000–2004**; chairman and GM since April 2005. Holds **21.8614m shares / 21.15%**, **"not subject to lock-up, pledge or other restriction on rights."** At 31 Dec 2025 **103,360,000 shares, all unrestricted**; top ten hold **45.57%**
+- **Section 1:** revenue by product 2023/2024/2025 (¥m) — precision laser equipment 418.54 / 535.70 / 576.92; **lasers 48.51 / 38.81 / 62.59**; laser processing services 27.78 / 31.93 / 44.86; parts and repair 66.61 / 73.20 / 78.08; other 15.42 / 31.66 / 21.83
+- **Section 1:** **R&D ¥103.69m / ¥130.42m / ¥128.56m — 17.82% / 18.24% / 16.33% of revenue**; 82 invention patents, 255 utility models, 222 software copyrights; national "little giant" specialised SME
+- **Section 1:** at 31 Mar 2026 **cash ¥259.67m, trading financial assets (structured deposits) ¥75.18m**, long-term equity investment ¥5.77m (Zhenjiang Laibo), other non-current financial assets ¥25.95m (Suzhou Woyan ¥21.95m + Hunan Woyan ¥4.00m); **no financial investments**. Fund commitments: Suzhou Woyan ¥21.00m paid / 2.50%; Hunan Woyan ¥10.00m committed (¥4.00m paid) / 1.3943%; **Yuanhe Chongyuan ¥10.00m committed (unpaid) / 2.8986%, fund established 25 May 2026**
+- **Section 1 (competing business):** six entities the controller invests in — AC Investment (he and spouse MAO JIANMIN 50% each), **Tianyu Technology (12.50% indirect, board seat; principal business "factory building and premises leasing")**, PHOENIXZ PTY LTD, ImageTech Capital LP, Winway Interconnect Technology (M) Sdn. Bhd., **Pavilion Integration Corporation (medical lasers, 0.35%)**
+- **Section 1 (competition):** peer FY2025 revenue — **DISCO ¥393.313bn yen**, EO Technics KRW 380.891bn, Han's Laser ¥18.759bn, HGTech ¥14.355bn, Hymson ¥4.217bn, TRUMPF €4.3bn, Coherent $5.810bn, Inno Laser ¥513m, Huaray ¥306m, Guoshen ¥105m
+- **Section 2:** approved by the 17th meeting of the fifth board and the **third EGM of 2026**; capped at **31,008,000 shares** (30% of pre-deal capital); competitive bidding, priced off the first day of the issue period at ≥80% of the prior 20-day VWAP; **six-month lock-up**; **Zhao Yuxing holds 21.15% and is not subscribing**; prior proceeds **¥661.11m deployed, 92.62% of net**
+- **Section 3:** three uses — laser production project ¥174.50m / ¥170.00m (**construction ¥117.65m, 67.42%**; equipment ¥16.70m, 9.57%); headquarters R&D centre ¥73.01m / ¥70.00m (**construction ¥51.15m, 70.06%**); working capital ¥60.00m / ¥60.00m; total ¥307.51m / ¥300.00m
+- **Section 3:** at full ramp **1,000 nanosecond, 1,000 picosecond, 300 femtosecond, 50 tunable-pulse-width, 100 semiconductor and 50 fibre lasers a year — 2,500 units, ¥244.43m of revenue; after-tax IRR 14.20%, payback 8.65 years (including the two-year build)**; utilisation 60% in year 3, 80% in year 4, 100% from year 5; prices assumed at ¥23.3k nanosecond, **¥130.3k picosecond, ¥260.6k femtosecond**; cost assumptions: R&D 10.50% of revenue, other selling 9.50%, other admin 3.10%; buildings depreciated over 30 years at 10% residual, equipment 10 years
+- **Section 3:** **capital expenditure ¥211.69m, non-capital expenditure ¥88.31m — 29.44% of proceeds** against the 30% ceiling in Legal Applicability Opinion No. 18
+- **Section 3:** laser **capacity 1,000 units in each year; output 1,146 / 1,079 / 1,091; sales 1,097 / 1,024 / 1,053; utilisation 114.60% / 107.90% / 109.10%; sell-through 95.72% / 94.90% / 96.52%**; "**the existing production site is leased and cannot be effectively expanded**"
+- **Section 3:** the Suzhou Industrial Park Investment Promotion Committee signed an Investment Agreement on 26 March 2026 "recommending a site"; **"as at the signing date of this prospectus, the land for this project has not yet been obtained"**, with the company stating there is "no substantive obstacle"; project filings 24/23 December 2025; no environmental assessment required
+- **Section 3:** China's ultrafast laser market ¥2.74bn in 2020 → ¥5.22bn in 2025 (CAGR >13%), forecast ¥6.23bn in 2026; global laser equipment ~$24bn in 2025, China ¥95.8bn
+- **Section 5:** IPO 25.84m shares at ¥30.18, **gross ¥779.85m, costs ¥66.03m, net ¥713.82m, over-raise ¥263.82m**; ¥661.11m deployed by end-2025; **¥175.93m reallocated, 24.65%**; by line — precision laser equipment capacity expansion ¥109.12m, nanosecond UV and ultrafast laser capacity expansion ¥32.17m, R&D centre ¥18.71m, customer service network ¥9.06m (**terminated Jan 2024**), working capital ¥117.86m, **over-raise for working capital / buybacks / other ¥273.85m**, **laser industrialisation project ¥0**, **headquarters R&D centre project ¥0**, new energy high-end equipment ¥46.85m (**50.7%**), new energy R&D centre ¥53.49m (**64%**), both **deferred to December 2026** (board 29 May 2026, announcement 2026-021)
+- **Section 5:** **the only prior project carrying a promised return — "precision laser equipment capacity expansion" — promised ¥577.70m of annual revenue and delivered ¥133.10m in 2024 and ¥165.62m in 2025, ¥298.71m cumulative; "target met: No"**
+- **Section 5:** idle-proceeds cash-management limits fell year by year — ¥650m (2022) → ¥380m (2023) → ¥280m (2024) → ¥145m (2025); ¥66m outstanding at end-2025, **all in 7-day call deposits**; the March 2024 buyback used **over-raised proceeds**: 350,000 shares / 0.3386%, high ¥29.98, low ¥27.71, **average ¥28.76**, ¥10,064,348.78
+- **Section 6:** risk factors include intensifying competition, the gap to industry leaders, downstream cyclicality, **import dependence for some core components (lasers "partly purchased from domestic and overseas manufacturers, principally imported from Germany and the United States")**, technology-iteration response, macro conditions, **receivables bad debt**, **inventory impairment**, **gross margin volatility**, project execution and dilution
+- **Contents:** the document **has no full financial-statements section**, so receivables and ageing, inventory composition (goods shipped), gross margin by end market and top-five customer percentages still require the annual report or the exchange's comment letter
 
 **Report-period financials (added 22 August, second pass; the prospectus itself is unreachable)**
 
