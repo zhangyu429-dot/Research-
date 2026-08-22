@@ -214,6 +214,62 @@ took the stock from ¥35 to ¥96 on it.
 > **It points the same way as the company secretary's "the order value is small," and it upgrades
 > that judgement from what the company says to what the company does.**
 
+**What the prospectus says about orders — and what it does not.** A full-text search of all 116
+pages turns up only these substantive order statements, **none of them carrying a number**:
+
+| Area | Prospectus wording | Amount / units |
+|---|---|---|
+| **Memory chips (SDBG)** | "launched SDBG-related equipment for stealth dicing of ultra-thin wafers and pre-thinning … **has obtained a volume-production order from a leading domestic manufacturer**" | **none** |
+| Micro LED mass transfer / repair | "since the first customer order in 2022 … **has now obtained orders from several leading manufacturers and passed validation**" | **none** |
+| Perovskite (2nd-gen integrated tool) | "market promotion is progressing smoothly, **has now obtained orders from several leading manufacturers and passed validation**" | **none** |
+| Solid-state battery | "developed and launched an ultrafast laser electrode insulation-scribing solution, **and is validating** laser heating and ultrafast wafering processes" | **none — the word is "validating", not "orders"** |
+| FPC/PCB, 4th-gen semiconductor diamond | "launched a solution" | no order mentioned |
+
+**Four observations:**
+
+1. **There is no backlog or new-order figure anywhere in the document.** A 116-page filing prepared
+   to raise ¥300m, signed off by sponsor and auditor, **carries nothing but adjectives on orders.**
+   Backlog is not a mandatory disclosure, but for a business whose revenue turns on equipment
+   acceptance it is the single most important forward indicator — **so the omission is a choice.**
+2. **The prospectus is more conservative on the memory order than the company's investor-relations
+   language.** In June 2026 the company told investors it had a "**small-batch repeat order**"; the
+   prospectus signed in July 2026 says only "**has obtained a volume-production order**" and
+   **does not mention the repeat order.** Not contradictory, but the formal document leaves it out.
+3. **One claim from my earlier pass needs downgrading.** On the second pass I wrote, on the basis of
+   an Aijian research note, that solid-state battery had "volume orders from several leading
+   customers." **No such statement appears in the prospectus; the company's own wording is
+   "developed and launched … and is validating." Going with the prospectus, that becomes "solution
+   launched, some processes in validation."** The perovskite and Micro LED "orders from several
+   leading manufacturers, validation passed" wording is confirmed by the original and stands.
+4. **The one place the document claims orders are growing sits inside the working-capital
+   justification:** "benefiting from rapid growth in downstream demand, **the scale of orders the
+   company takes on has maintained a good growth trend**" — again no number, and in the section
+   that needs to argue for a funding requirement.
+
+> **The most valuable thing the full-text search turned up is a risk factor that was entirely
+> outside this memo's frame.** Section 6, risk factor 4, is titled **"Risk of poor customer
+> continuity"**: **"During the reporting period the company's top five customers show no clear
+> continuity. … A single downstream customer's fixed-asset investment is cyclical, so customer
+> purchasing is intermittent; some customers purchase for specific production-line construction
+> projects, which are long and large, and **there may be an order gap after a project ends**."**
+>
+> **"Order gap" is the company's own phrase.** It explains three things at once: why the top five
+> customers show no continuity, why contract liabilities fell 30.63% in the very year the memory
+> production order landed, and why this revenue stream is inherently **lumpy** rather than linear.
+>
+> **The valuation implication is direct, and it is the most useful thing in this pass: a company
+> whose customers buy intermittently and which expects order gaps after large projects should not
+> be valued on a "rising penetration → linear revenue" frame.** The ¥149–166m of sustainable profit
+> implied by the reverse-valuation table in Q5 is exactly what the company's own risk factor
+> questions.
+>
+> **Three statements about orders in the same document point different ways:** Section 3 says orders
+> "have maintained a good growth trend" (no number); Section 6 warns of an "order gap"; and the
+> accounts show contract liabilities **down 30.63%** at end-2025. **All three can be true at once —
+> new orders up, prepayments down, gaps ahead — but they cannot all be used to support the same
+> narrative. Getting management to line those three up on one timeline is the highest-value single
+> question in the interview.**
+
 **Ask:**
 - **What were the values of the 2025 production order and the early-2026 repeat order? How many
   tools? What is the ASP per tool? What share of FY2025 revenue and 1H26 revenue came from
@@ -661,9 +717,11 @@ operator chasing themes.** The financial criticism stands — ¥362.7m of R&D ov
 ¥30.4m of cumulative profit — **but the imputation about motive is withdrawn.** On further checking:
 **perovskite** — the company has a second-generation integrated tool doing P1/P2/P3 scribing and
 P4 edge cleaning, **with orders from multiple customers and units running in production lines**;
-**solid-state battery** — the company is described as having a first-mover position in **laser
-scribing/insulation of electrodes**, with **volume orders from several leading customers** and
-entry into multiple customers' all-solid-state pilot supply chains. **These are not vapour; they
+**solid-state battery** — sell-side notes describe a first-mover position in **laser
+scribing/insulation of electrodes** with volume orders from several leading customers, **but the
+prospectus is more conservative: "developed and launched an ultrafast laser electrode
+insulation-scribing solution, and is validating laser heating and ultrafast wafering processes."
+Going with the prospectus.** **These are not vapour; they
 are real product lines carrying orders.** The correct criticism is therefore sharper and harder
 to rebut: **all four directions are real, and all four are small.** A company that has won orders
 in memory stealth dicing, perovskite and solid-state battery equipment and still produces only
@@ -869,7 +927,15 @@ where **consensus needs 2Q–4Q at 3.9x last year**; and whose forecasters, the 
 projected two years out, called **−¥34.5m** at **¥206m**. **Even if this company returned
 tomorrow to its best-ever year, at 30x that is ~¥2.6bn — about 45% below today.**
 
-**But the same data carries one new negative, and it lands on the most sensitive spot: at end-2025
+**The prospectus also supplies a structural risk factor this memo did not have:** Section 6's
+"**risk of poor customer continuity**" — "the top five customers show no clear continuity …
+customer purchasing is intermittent; some customers purchase for specific production-line
+construction projects … **there may be an order gap after a project ends**." **"Order gap" is the
+company's own phrase, and it means this revenue is inherently lumpy — which is the wrong shape for
+a linear-penetration valuation frame**, while the ¥149–166m in the Q5 reverse-valuation table has
+to be *sustainable* profit.
+
+**The same data carries one new negative, and it lands on the most sensitive spot: at end-2025
 contract liabilities were down 30.63% YoY, their share of total assets down 2.66pp.** Contract
 liabilities are the cleanest external proxy for an equipment company's backlog, and the year they
 fell is the year the company won the memory production order and told the market its end markets
