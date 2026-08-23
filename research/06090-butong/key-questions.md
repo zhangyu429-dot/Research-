@@ -2,10 +2,9 @@
 
 *Research memo · 23 August 2026 · analysis, not investment advice*
 
-*This version is rewritten against the **2025 Annual Report (Part 1, pages 1–40)**. The
-back half of the report — cash flow statement, notes to the financial statements, share
-schemes, substantial shareholders' interests — was not available; the memo flags
-throughout which questions remain unanswered because of it.*
+*This version is rewritten against the **full 2025 Annual Report (pages 1–202)**. All
+financial data, notes, share schemes, substantial shareholders' interests and the
+use-of-proceeds table are primary. Two corrections to the earlier version are flagged inline.*
 
 ---
 
@@ -77,17 +76,43 @@ distributor, not on sale to the end consumer.**
 **2H2025 earned roughly ¥16.7m** on about ¥720m of revenue (+8.0%). Both the deceleration
 and the profit collapse happened in the second half.
 
-**Balance sheet (31 December 2025):** cash and equivalents **¥882.6m** (2024: ¥217.1m, the
-increase mostly Global Offering proceeds); current assets ¥1,188.8m; current liabilities
-¥359.7m (trade and other payables ¥291.8m, bank loans ¥10.7m at 2.40%); **net cash roughly
-¥871.9m**; gearing 33.4%, current ratio 3.3x, quick ratio 3.0x (**implying inventories of
-about ¥110m**). Restricted deposits of ¥25.5m are pledged. **The Board resolved not to
-recommend a final dividend for 2025 (2024: nil).** Net proceeds from the Global Offering
-were **HK$702.5m**.
+**Cash flow (new in this version, from the consolidated cash flow statement, RMB'000)**
 
-**Market:** approximately **90,285,500 shares** outstanding. At the most recent verifiable
-quote of about **HK$42.6** (13 July 2026), market cap is roughly **HK$3.85bn ≈ ¥3.50bn**
-(HK$1 ≈ ¥0.91). The valuation ladder:
+| | 2025 | 2024 | YoY |
+|---|---|---|---|
+| Cash generated from operations | 180,585 | 193,681 | −6.8% |
+| Income tax paid | (70,507) | (53,271) | +32.4% |
+| **Net cash from operating activities** | **110,078** | **140,410** | **−21.6%** |
+| Purchase of PP&E, right-of-use and intangible assets | (66,196) | (46,216) | +43.2% |
+| **Free cash flow (derived)** | **43,882** | **94,194** | **−53.4%** |
+| Loans lent to a third-party entity | **(30,000)** | — | new |
+| Proceeds from share issuance, net of costs | 697,092 | 36 | — |
+
+**This is the most important new evidence, and it favours the company: operating cash flow
+of ¥110.1m covers "clean" profit of ¥108.7m 1.01x**, and reported profit 1.69x. **The
+earnings are not an accrual artefact.** Two things must be said alongside it: (i) **operating
+cash flow fell 21.6% and free cash flow 53.4%**; (ii) the cash conversion cycle compressed
+from 18.6 to 2.6 days almost entirely because **days payable stretched from 48.7 to 64.7** —
+holding suppliers' money, not selling faster.
+
+**Working capital (from the notes, not derived):** inventories ¥107.3m (+8.8%), **days
+58.1 → 53.6, improving**, write-downs just ¥1.0m; trade receivables ¥54.1m (+72.5%, **all
+within 90 days**), DSO 9.2 → 13.7 days; trade payables ¥129.5m (+56.7%). **Contract
+liabilities are only ¥20.3m (1.4% of revenue), of which distributor prepayments are ¥10.0m —
+this business has no observable order book.**
+
+**Balance sheet (31 December 2025):** cash and equivalents **¥882.6m** (2024: ¥217.1m);
+current assets ¥1,188.8m; current liabilities ¥359.7m (trade and other payables ¥291.8m,
+including **¥65.7m of payables for property, plant and equipment** — nil in 2024, so the
+Fenghua capex has begun); bank loans ¥10.7m at 2.40%; **net cash roughly ¥871.9m**; gearing
+33.4%. Capital commitments contracted for but not provided: ¥58.2m. **The Board resolved not
+to recommend a final dividend for 2025 (2024: nil); no dividend was declared in either year.**
+Net proceeds from the Global Offering were **HK$702.5m**.
+
+**Market:** **90,751,378 shares** in issue at 31 December 2025 (the June 2026 monthly return
+shows 90,285,500 after buyback cancellations). At the most recent verifiable quote of about
+**HK$42.6** (13 July 2026), market cap is roughly **HK$3.85bn ≈ ¥3.50bn** (HK$1 ≈ ¥0.91).
+The valuation ladder:
 
 | Basis | 2025 earnings | P/E |
 |---|---|---|
@@ -201,18 +226,34 @@ Three conclusions:
    expenses, preferred-share interest and share-based payment back to pre-tax (¥197.7m), the
    implied rate is still **31.4%**, above the 25% statutory rate. **Why?**
 
+**Fourth point (new, and it cuts the other way): the cash flow statement shows this profit
+was actually collected.** Net cash from operating activities was ¥110.1m, covering "clean"
+profit of ¥108.7m 1.01x. **The suspicion that the earnings are an accrual construct can be
+dismissed.** But the cash itself is shrinking: operating cash flow −21.6%, free cash flow
+−53.4%, and the improvement in the cash conversion cycle came entirely from stretching
+payables from 48.7 to 64.7 days.
+
+**Fifth point: management compensation.** Key management personnel remuneration rose from
+¥19.3m to **¥39.4m (+104%)**, of which equity-settled share-based transactions were **¥23.7m**
+— meaning **88.3% of the ¥26.9m of share-based payment that the "adjusted" measure adds back
+went to key management themselves**; discretionary bonuses also rose from ¥3.8m to ¥7.4m.
+**¥39.4m of key management pay sits against ¥65.2m of reported profit and is 26.4% of the
+entire ¥149.2m staff cost base.**
+
 **Ask:**
 - **Why has the effective rate sat near 50%?** Non-deductible items, unrelieved holding-company
   losses, no High and New Technology Enterprise status? **If the rate normalises to 25% in
   2026 that alone is worth roughly 30% of profit — plausibly the least-discussed source of
-  the "+90% first half."**
+  the "+90% first half."** Note that income tax *paid* in 2025 was ¥70.5m, above the ¥62.1m
+  charged.
 - **The composition and durability of the ¥27.7m of government grants**, and whether they are
   tied to the new Fenghua plant (if so they recur through 2026–2027, but as a capital subsidy
   rather than operating profit).
 - **The absolute figure for other income and net gains in 1H2026.** The profit alert already
   names it as a driver.
-- **Net cash from operating activities** — Part 1 of the annual report does not include the
-  cash flow statement. **This is the single largest remaining disclosure gap.**
+- **2026 operating cash flow and capex.** **HK$167.6m of the production-capacity proceeds must
+  be spent before December 2026** (see Q4); free cash flow will most likely turn negative.
+- **The 2026 budget for key management remuneration and its performance conditions.**
 
 ### Q4: AI, robotics, Cyannova — narrative migration as an independent risk
 
@@ -220,8 +261,11 @@ The report restates the corporate mission as "**Empower innovation through AI to
 differences**," and the Chairman's Statement presents "**embodied intelligence and high-end
 manufacturing**" as a **business segment** alongside the premium brand, one that "provides
 intelligent production equipment, production lines and integrated solutions for industrial
-automation and smart manufacturing." **That segment carries no revenue figure anywhere in the
-report.** Meanwhile:
+automation and smart manufacturing."
+
+**Note 4 to the audited financial statements is unambiguous: the Group has one reportable
+operating segment, with no reportable segment information presented.** In other words, **that
+"segment" does not exist in the KPMG-audited accounts; its revenue is zero.** Meanwhile:
 
 - **100 R&D staff and ¥25.4m of R&D spend (1.8% of revenue)**; of 669 total employees, 403
   are sales.
@@ -239,9 +283,28 @@ Cyannova deserves separate treatment: **a listed company signing an agreement wh
 is that a fund will buy its stock.** It contributes nothing to the income statement; its only
 object is the share price.
 
+**The use-of-proceeds table makes the point sharper.** As at 31 December 2025, only
+**HK$56.3m (8.0%)** of the HK$702.5m had been spent:
+
+| Purpose | Allocated | Used | Unused | Expected timeline |
+|---|---|---|---|---|
+| Enhancing production capabilities | HK$179.7m | 12.1 | **167.6** | **Before Dec 2026** |
+| Expanding into North America, Europe, Southeast Asia | HK$116.7m | **0** | 116.7 | Before Dec 2029 |
+| Branding and sales network expansion | HK$240.2m | 36.7 | 203.5 | Before Dec 2029 |
+| R&D of new products | HK$95.6m | **0.6** | 95.0 | Before Dec 2029 |
+| Working capital and general corporate | HK$70.3m | 6.9 | 63.4 | Before Dec 2028 |
+| **Total** | **HK$702.5m** | **56.3** | **646.2** | |
+
+**Nothing was spent on overseas markets and HK$0.6m on new product R&D** — precisely the two
+things the entire bull narrative rests on. Spending only 8% three months after listing is not
+itself unusual, but **"the money is untouched" and "we are building globalisation and AI"
+cannot both be true at once.** Note also that **HK$167.6m of production capex must be spent
+before December 2026**, making 2026 a heavy capex year with depreciation arriving in 2027.
+
 **Ask:**
-- **What revenue did the embodied-intelligence segment generate in 2025?** If zero, ask for it
-  to be broken out in the 2026 interim report.
+- **What revenue did the embodied-intelligence segment generate in 2025?** The audited accounts
+  say zero; if management gives another figure, ask why it did not constitute a reportable segment.
+- **The specific projects, commissioning dates and depreciation lives behind the HK$167.6m.**
 - Whether Cyannova **has actually bought, and how much**; and whether the agreement is a
   notifiable or connected transaction.
 - 2026 R&D budget in absolute terms and as a share of revenue; AI product revenue target and
@@ -290,11 +353,45 @@ net cash, that is **¥1.95–2.14bn ≈ HK$2.1–2.4bn**, or **roughly 39–44% 
 
 ## 2. Second-order questions that still move the answer
 
-**Q6 — A 12% free float is the root of every price anomaly here.** The IPO sold only
-**10,980,900 shares**; public float is about **12.1%**; net proceeds were **HK$702.5m**;
-cornerstones took ~1,642,500 shares (~US$15m). Pre-IPO ownership was concentrated: **Wang Wei
-held 52.95% through WANGBOYAN**, Shen Ling 6.77%, WEILING (Futu Trust) 5.74%, Tiantu 9.24%,
-Gaorong 8.82% + 0.98%, Tembusu (Matrix China) 7.84%, Taikang Life 5.15%.
+**Q6 — Share supply: one correction, and an underrated incentive overhang.**
+
+**Correction: the earlier version said public float was about 12.1%. That was wrong.** 12.16%
+is the IPO tranche as a share of enlarged capital; under the Listing Rules **the applicable
+threshold for this company is at least 23.3%, and the report states it has been maintained
+throughout** — because Tiantu, Gaorong and Tembusu are not core connected persons, their
+stakes count as public. The real fact is not "a 12% float" but: **only 12.16% was tradable on
+day one, while another quarter or so of the "public" stock was locked for six months and
+became sellable in one step on 23 March 2026.**
+
+Substantial shareholders at 31 December 2025 (90,751,378 shares in issue):
+
+| Shareholder | Shares | % |
+|---|---|---|
+| WANGBOYAN (beneficial) | 42,240,920 | 46.55% |
+| + concert-party arrangement over SLING's shares (agreement dated 2 Feb 2024) | 5,400,000 | 5.95% |
+| **Boyan Holdings / WWANG / Vistra Trust — Wang Wei's total control** | **47,640,920** | **52.50%** |
+| Gaorong Partners IV | 7,818,400 | 8.62% |
+| Tiantu USD | 7,374,400 | 8.13% |
+| Tembusu B (Jingwei Chuangrong; Ms. Xiao Ping / Mr. Wang Huadong) | 6,254,740 | 6.89% |
+| SLING (Shen Ling) | 5,400,000 | 5.95% |
+| WEILING / BUTONG ESOP / Futu Trustee (employee platform) | 4,575,638 | 5.04% |
+
+**Wang Wei controls 52.50%, not 46.55%, because a 2 February 2024 agreement gives him the vote
+over Shen Ling's 5,400,000 shares.** Taikang Life no longer appears above 5% (post-IPO dilution
+puts it near 4.5%, below the threshold — no inference about selling can be drawn).
+
+**The underrated item: incentive dilution.** **5,824,920 options were outstanding at year end,
+6.42% of shares in issue**, with exercise prices of **US$0 or US$1.23 (about ¥8.64)** against a
+share price near HK$42.6 — almost all deeply in the money; **3,685,444 were already exercisable**
+(2024: nil), and **1,249,282 were granted to a director in 2024**. More significant is the
+post-balance-sheet event: **on 12 January 2026 the Company adopted a Share Award Scheme capped at
+10% of shares in issue at adoption, funded solely by purchasing existing shares (no new issue)**
+— at current prices that is up to **about HK$387m of company cash** buying stock for employees.
+**For a company earning ¥65.2m and paying no dividend, that is a capital-allocation decision
+that needs explaining on its own.**
+
+The price history is a supply history (below). Cornerstones took ~1,642,500 shares (~US$15m);
+net proceeds were **HK$702.5m**.
 
 The price history is a supply history: **listed 23 September 2025, +44% on debut → 5 January
 2026 down over 26% intraday and briefly through the HK$71.20 offer price → 13 February added
@@ -310,12 +407,14 @@ at HK$69.65–78.60; HK$1.522m/21,200; HK$10,300/200). Before that, on 2 and 25 
 shareholders deposited shares worth about **HK$415m** and **HK$577m** into Futu Securities
 International (HK). **Depositing into a broker is normally a precursor to selling.**
 
-**Also note: the company holds ¥871.9m of net cash (25% of market cap), pays no dividend, has
-announced no buyback programme and no material investment plans** — the report states that as
-at 31 December 2025 it "did not hold any significant investments and had no specific plans for
-significant investments or acquisition of capital assets" (the robotics subsidiary came in
-April 2026). **A company with a quarter of its market cap in cash, earning roughly 0.7% on it,
-paying nothing out, is itself a capital-allocation question.**
+**Also note: the company holds ¥871.9m of net cash (25% of market cap) and pays no dividend**
+(none in either 2024 or 2025), **and has announced no continuing buyback programme**; the report
+states that as at 31 December 2025 it "did not hold any significant investments and had no
+specific plans for significant investments or acquisition of capital assets" (the robotics
+subsidiary came in April 2026). **Meanwhile the company lent ¥30m to a third-party supplier
+during 2025** (3.50% per annum, repayable November 2026; ¥15m was repaid on 4 March 2026).
+**A company sitting on ¥882m of cash, paying no dividend and running no buyback, lent ¥30m to
+one of its own suppliers — that transaction needs an explanation.**
 
 **Ask:** who sold after March and how much (disclosures of interests, CCASS); **the controlling
 shareholder's intentions after the twelve-month milestone on 23 September 2026** — one month
@@ -332,24 +431,40 @@ EBITDA −0.8%** — read together, operating leverage in 2025 was negative. **A
 of selling costs between brand, performance and channel rebates; a **CAC time series**; and the
 2026 share-based payment budget and vesting schedule.
 
-**Q8 — Distributors +40.5% against key accounts −0.1%: channel inventory risk.** Essentially
-all offline growth came from distributors (¥199.0m → ¥279.7m), while key accounts — the large
-mother-and-baby retail chains — were **flat**. Distributor revenue is recognised on shipment;
-key accounts and end retail reflect real sell-through. **When durables are declining at the
-consumer end while shipments to distributors rise 40%, channel inventory is the first thing to
-check.** Part 1 does not disclose inventory composition or receivables ageing; the current and
-quick ratios imply inventories of about **¥110m** (roughly 55 days of cost of sales), and
-**impairment losses on trade receivables rose from ¥24k to ¥112k (+367%), which the report
-attributes to a higher receivables balance.** **Ask:** distributor closing inventory and
-sell-through; receivables ageing; distributor count and average offtake; return and rebate
-policy (the report states revenue is net of returns allowances, rebates and discounts).
+**Q8 — Distributors +40.5% against key accounts −0.1%: the company's own books are clean, but
+the far end of the channel is still invisible.** Essentially all offline growth came from
+distributors (¥199.0m → ¥279.7m), while key accounts — the large mother-and-baby chains — were
+**flat**. Note 22 confirms that distributor revenue is recognised **when goods are delivered and
+accepted by the distributor** — accepted by the distributor, not bought by the end consumer.
 
-**Q9 — Customer and supplier concentration: 30% of a "DTC brand" sits with five counterparties.**
-Top-five customers were **30.1%** of 2025 revenue (2024: 32.6%) and the **single largest 13.4%**
-(2024: 12.9%); top-five suppliers were **40.0%** of purchases (2024: 43.5%), largest 12.4%. The
-report says suppliers "consist primarily of e-commerce platforms, raw material suppliers and
-third-party manufacturers" — **counting platforms inside purchases means platform fees sit in
-that concentration figure, so the basis needs clarifying.** On manufacturing: the owned Ningbo
+**The notes largely clear the channel-stuffing suspicion on Butong's own balance sheet:**
+inventories ¥107.3m (+8.8%, finished goods ¥98.4m), **days down from 58.1 to 53.6**, write-downs
+just ¥1.0m; trade receivables ¥54.1m **entirely within 90 days**; and KPMG made **revenue
+recognition its sole key audit matter**, stating the reason as "the inherent risk of manipulation
+of the amount and timing of revenue recognised by management to meet specific targets or
+expectations," performing external confirmations with distributors, retailers and e-commerce
+platforms, year-end cut-off testing and post-year-end sales-return checks — and **issued an
+unqualified opinion**.
+
+**Two things remain unanswered:** (i) how much inventory the distributors themselves hold and how
+it is selling through — that is not on the company's balance sheet; (ii) the cash conversion cycle
+compressed from 18.6 to 2.6 days **entirely through payables stretching from 48.7 to 64.7 days**,
+not through faster selling. **Ask:** distributor closing inventory and sell-through; distributor
+count and average offtake; return rates and rebates as a share of revenue (the report states
+revenue is net of returns allowances, rebates and discounts).
+
+**Q9 — Concentration: 30% of a "DTC brand" sits with five counterparties, and receivables sit
+almost entirely with one.** Top-five customers were **30.1%** of 2025 revenue (2024: 32.6%); the
+**single largest — "Customer A" in the notes, including entities under common control — generated
+¥193.6m, or 13.4%** (2024: ¥161.5m, 12.9%). Top-five suppliers were **40.0%** of purchases (2024:
+43.5%), largest 12.4%. The report says suppliers "consist primarily of e-commerce platforms, raw
+material suppliers and third-party manufacturers" — **counting platforms inside purchases means
+platform fees sit in that figure, so the basis needs clarifying.** More striking is the credit
+concentration: **69% of trade receivables at year end were due from the single largest customer
+(2024: 78%), and 98% from the top five** (note 29(a)), on 30–90 day terms with no collateral
+normally taken. Separately, the **¥30m loan to a third-party supplier** (3.50%, due November 2026,
+¥15m repaid 4 March 2026) — supplier financing usually appears for one of two reasons: the
+supplier is short of cash, or the money is effectively part of a pricing arrangement. **Ask which.** On manufacturing: the owned Ningbo
 facility is about 14,111 sqm with ISO9001 and IATF16949 certification, and the report states the
 company can now "manufacture all our core products in-house," switching flexibly between
 in-house and outsourced production; **a second Ningbo facility (Fenghua) is slated for
@@ -359,17 +474,30 @@ wipes (not disclosed in the report; media have previously questioned some manufa
 credentials and hygiene licences); and the new plant's capex, capacity, depreciation policy and
 categories.
 
-**Q10 — Globalisation: the report contains no overseas revenue figure at all.** The Chairman's
-Statement and Business Outlook devote substantial space to the globalisation strategy —
-China-centred integrated supply chain and R&D, localisation of channels, products and brand,
-centralised management structures in various countries — **but revenue is disaggregated only by
-product and by channel, never by geography, and no overseas amount or percentage appears
-anywhere in the text.** In accounting terms that normally means the amount is not yet material
-enough to segment. **The non-disclosure is the answer.** Ask for 2025 overseas revenue in
-absolute terms; certification progress for car seats in the US and EU (FMVSS 213, ECE R129);
-and tariff assumptions.
+**Q10 — Globalisation: overseas revenue is ¥1.878m, or 0.13% of the total.**
 
-**Q11 — Three governance details.**
+**Correction: the earlier version said the report disclosed no overseas revenue. Note 4(b) does
+disclose it, and the figure is ¥1,878 thousand** (2024: ¥605 thousand) against Chinese Mainland
+revenue of ¥1,443,945 thousand. All specified non-current assets sit in the Chinese Mainland
+except two leased units in Hong Kong (right-of-use ¥3.262m); the only overseas entity is an
+associate, BeBeBus Korea (¥296k of goods sold to it in the year, ¥741k injected).
+
+So the real base under the globalisation narrative is this: **the Chairman's Statement devotes two
+pages to a China-centred global supply chain, localisation of channels, products and brand, and
+centralised management structures in various countries; HK$116.7m of IPO proceeds is allocated to
+it and none has been spent; and overseas revenue for the year was ¥1.878m.** That is not an
+allegation — every export story starts at zero — but it means **overseas should be carried at zero
+in any 2026–2027 model**, and car seats are a heavily regulated category abroad (FMVSS 213, ECE
+R129) where certification runs in years. **Ask:** certification progress by market, local headcount,
+and the drawdown schedule for the HK$116.7m.
+
+**Q11 — Governance.** The favourable side first: **related-party dealing is exceptionally clean**
+— the report states there were no connected or continuing connected transactions requiring
+disclosure; related-party transactions consist in full of ¥1.173m of catering services from
+Aimujia Catering Management (Shanghai), an associate of the controlling shareholder (2024:
+¥925k), and ¥296k of goods sold to associate BeBeBus Korea; Mr. Wang's interest-free advances
+were fully cleared in 2024 (nil in 2025). In a company 52.50% family-controlled, that deserves
+credit. Three things still need watching:
 (i) **Social insurance and housing provident fund are underpaid.** The report acknowledges
 shortfalls caused by high workforce mobility, employee reluctance to bear their own portion, and
 administrative barriers for migrant workers, and states that on the basis of consultations and
@@ -382,18 +510,28 @@ long-standing HKICPA practitioner, Chan was head of legal and joint company secr
 (iii) **The CFO joined in October 2023 and the board secretary in June 2023** — the core finance
 and governance team was assembled in the year before the IPO; the 2022–2023 numbers were
 produced by a different team.
+(iv) **Key management remuneration of ¥39.4m (+104%) equals 60% of reported profit and 26.4% of
+the entire ¥149.2m staff cost base**, of which ¥23.7m was share-based — **88.3% of the company's
+total share-based payment.** Total headcount is 669.
 
-**Q12 — Sources, and what is still missing.** All 2025 financial data above comes from the
-**2025 Annual Report Part 1 (pages 1–40)** and is primary. What remains unavailable sits in the
-back half and bears directly on the conclusions: **the consolidated cash flow statement (p.102),
-the notes (p.103 onward, covering inventories, receivables, share-based payment, related-party
-transactions), directors' and substantial shareholders' interests, share scheme details, and the
-use-of-proceeds progress table.** Also still to note: (1) this environment cannot reach HKEXnews,
-so **the price and market cap (about HK$42.6 / HK$3.85bn) remain secondary — take a live quote
-before trading**; (2) the two February high figures cannot both hold; (3) 2026 618 sales figures
-come from trade self-media with no filing to corroborate them; (4) since April 2026 a dense run
-of near-identically framed positive articles has appeared across portals, and should be
-discounted heavily.
+**Q12 — Sources and two corrections.** All 2025 financial data, notes, share schemes,
+substantial shareholders' interests and the use-of-proceeds table come from the **full 2025
+Annual Report (pages 1–202)** and are primary. The auditor is KPMG; the opinion is **unqualified**
+and the **sole key audit matter is revenue recognition**.
+
+**Two corrections to the earlier version, flagged inline above:** (i) public float is not 12.1% —
+the applicable threshold is 23.3% and has been maintained (Q6); (ii) overseas revenue was not
+undisclosed — it is ¥1.878m, or 0.13% (Q10).
+
+**Still secondary and to be verified separately:** (1) this environment cannot reach HKEXnews or
+the main quote sites, so **the price and market cap (about HK$42.6 / HK$3.85bn) remain secondary
+— take a live quote before trading**; (2) the two February high figures (HK$138.30 close on 23
+February versus a ~75% drawdown from a 20 February high) cannot both hold; (3) 2026 618 sales
+figures come from trade self-media with no filing to corroborate them; (4) since April 2026 a
+dense run of near-identically framed positive articles has appeared across portals and should be
+discounted heavily; (5) Cyannova, Caocao and the robotics subsidiary all post-date 31 December
+2025 — **the report's post-balance-sheet events section discloses only the Share Award Scheme**,
+and none of the other three appears anywhere in it.
 
 ---
 
@@ -404,13 +542,15 @@ discounted heavily.
    **(b) revenue by category, above all absolute travel and sleep**; **(c) revenue by channel,
    above all distributors versus self-operated stores**; **(d) the absolute figure and
    composition of other income and net gains**; **(e) operating cash flow.**
-2. **The back half of the annual report (Part 2).** Cash flow statement, inventory and
-   receivables notes, share-based payment note, use-of-proceeds progress. Together these close
-   most of Q3, Q7 and Q8.
+2. **The 2026 capex profile.** **HK$167.6m of production-capacity proceeds must be deployed
+   before December 2026**, and year-end already carried ¥65.7m of PP&E payables and ¥58.2m of
+   contracted capital commitments. **Free cash flow will most likely turn negative in 2026** —
+   not a problem in itself, but it ends the comfort of "25% of market cap in net cash."
 3. **23 September 2026: twelve months since listing for the controlling shareholder.** One month
    away. Watch disclosures of interests, block-trade discounts and CCASS.
 4. **Whether Cyannova actually buys.** US$20m ≈ HK$156m, close to 4% of market cap; it would
-   leave a trace.
+   leave a trace. Note that the 2025 report's post-balance-sheet events section discloses only
+   the Share Award Scheme — Cyannova, Caocao and the robotics subsidiary appear nowhere in it.
 5. **Blended gross margin when care passes 50% of revenue.** The decomposition above puts it near
    49.0%; materially below that means diapers have entered a price war.
 6. **Depreciation and gross margin once the Fenghua plant starts in 2H2026.**
@@ -419,6 +559,10 @@ discounted heavily.
    of profit on its own — the item most easily misread as operating improvement in 2026.
 9. **Whether a second broker initiates.** Coverage is one house, whose HK$8.4bn target embeds 38x
    2026 adjusted earnings.
+10. **How much the Share Award Scheme actually grants, and what it costs in cash.** The cap is
+   10% of shares in issue (about HK$387m at today's price), on top of 5,824,920 existing options
+   (6.42% of capital, struck at US$0 or US$1.23). This is a recurring, cash-settled shareholder
+   cost that never shows up as new share issuance.
 
 ---
 
@@ -434,13 +578,22 @@ EBITDA **−0.8%**, EPS **−5.6%**. This is not a growth company changing lanes
 whose core is contracting, holding the top line together with a lower-margin category, while
 every expense ratio rises.**
 
-**The stock — and here I have to correct my read from before the filing.** I previously said,
-on the basis of "adjusted net profit of ¥135.6m," that the stock was no longer expensive. On
-reported numbers that was wrong: **53.7x 2025 HKFRS earnings, 32.2x on a clean basis, 3.2x book,
-16.1x EV/EBITDA**, with 25% of market cap in cash that pays no dividend and funds no buyback.
-The "about 18x forward" figure depends on a non-HKFRS numerator that adds back ¥26.9m of
-recurring share-based payment and on the single covering broker's estimate. **The real price is
-32x for a company whose EBITDA shrank last year.**
+**One thing must be said fairly first: earnings quality is not the problem.** The most
+substantive new evidence in the full report is the cash flow statement — net operating cash flow
+of ¥110.1m covering "clean" profit of ¥108.7m 1.01x; inventory days improving, write-downs
+negligible, trade receivables entirely within 90 days; KPMG unqualified, with the sole key audit
+matter (revenue recognition) tested through distributor confirmations and year-end cut-off work;
+related-party dealing almost non-existent. **The "these profits are manufactured" suspicion can
+be set down.**
+
+**The price is still wrong — and here I have to correct my read from before the filing.** I
+previously said, on the basis of "adjusted net profit of ¥135.6m," that the stock was no longer
+expensive. On reported numbers that was wrong: **53.7x 2025 HKFRS earnings, 32.2x on a clean
+basis, 3.2x book, 16.1x EV/EBITDA**, with 25% of market cap in cash that pays no dividend and
+funds no buyback. The "about 18x forward" figure depends on a non-HKFRS numerator that adds back
+¥26.9m of recurring share-based payment — **and 88.3% of that ¥26.9m (¥23.7m) went to key
+management, whose total pay of ¥39.4m equals 60% of the year's reported profit.** **The real
+price is 32x for a company whose EBITDA shrank and whose free cash flow fell 53% last year.**
 
 **What would flip the conclusion:** interim results showing **absolute travel and sleep revenue
 stabilising or recovering**, with care still growing above 40% and operating cash flow covering
@@ -450,47 +603,56 @@ decline, distributor shipments still far outpacing key accounts, and other incom
 of pre-tax profit would set up flat 2027 earnings *and* multiple compression — roughly 40% below
 today.
 
-**One judgement that deserves stating separately:** the report presents "embodied intelligence
-and high-end manufacturing" as a business segment while attributing no revenue to it; the company
-plans household AI hardware, smart toothbrushes, smart luggage and industrial automation
-solutions on 100 R&D staff and ¥25.4m of spend; and it has signed an agreement with a fund that
-undertakes to buy at least US$20m of its stock. **Taken together these constitute a narrative
-risk that should be assessed on its own** — none of them produce revenue, but all of them affect
-the price. This is not an allegation of any breach; they are **governance observations, not good
-news.**
+**One judgement that deserves stating separately:** the Chairman's Statement presents "embodied
+intelligence and high-end manufacturing" as a business segment while **note 4 to the audited
+accounts states the Group has one reportable operating segment**; the company plans household AI
+hardware, smart toothbrushes, smart luggage and industrial automation solutions on 100 R&D staff
+and ¥25.4m of spend, **while HK$0.6m of the HK$95.6m allocated to new product R&D and none of the
+HK$116.7m allocated to overseas markets has been spent, and overseas revenue for the year was
+¥1.878m**; and it has signed an agreement with a fund that undertakes to buy at least US$20m of
+its stock. **There is a gap between the audited numbers and the story being told, and it should be
+assessed on its own.** This is not an allegation of any breach; these are **governance
+observations, not good news.**
 
 **Concrete next step: the interim results are days away — do not establish a position before they
 land.** That document answers Q1 (margin direction by category), Q2 (absolute durable revenue),
 Q3 (earnings quality) and Q8 (distributor sell-through) at once. When it arrives, do one
 calculation first: **strip out other income and net gains, put share-based payment back in,
 annualise what remains, and compute the multiple on that.** That number is the price you are
-actually paying. **And request Part 2 of the annual report** — until the cash flow statement and
-the inventory and receivables notes are visible, every profit figure above is an accrual.
+actually paying. **Second: look at first-half operating cash flow against capex** — HK$167.6m of
+production spending must land before December 2026, free cash flow will most likely turn negative,
+and the "25% of market cap in net cash" cushion will start to thin.
 
 ---
 
 ### Sources
 
-**Primary (2025 Annual Report, Part 1, pages 1–40)** — every 2025 and 2024 financial figure,
-the category and channel revenue tables, expense detail, balance sheet, customer and supplier
-concentration, employee structure, dividend resolution, net proceeds and principal risk list
-in this memo comes directly from:
+**Primary (2025 Annual Report, pages 1–202)** — every 2025 and 2024 financial figure, the
+category and channel revenue tables, expense detail, cash flow, working capital, ownership, share
+schemes, related-party transactions, use-of-proceeds progress and principal risk list in this memo
+comes directly from:
 
-- Financial Highlights and Four-Year Financial Summary (pp. 6–7): revenue, gross profit, pre-tax
-  profit, profit for the year, adjusted net profit, EBITDA, adjusted EBITDA, EPS, total assets
-  and liabilities, total equity
-- Management Discussion and Analysis (pp. 11–24): revenue by product type and by channel with
-  management's own attribution for each category, cost of sales, the explanation for the gross
-  margin decline, composition of other income and net gain, selling and distribution expenses,
-  administrative and other expenses, R&D, finance costs, listing expenses, income tax, liquidity
-  and financial resources, key financial ratios, and the non-HKFRS reconciliation table
-- Directors' Report (pp. 33–40): human resources (669 employees), major customers and suppliers,
-  principal risks and uncertainties, the social insurance and housing provident fund shortfall,
-  bank loans, distributable reserves, the final dividend resolution, and net proceeds from the
-  Global Offering
-
-*The back half of the annual report — consolidated cash flow statement, notes to the financial
-statements, share schemes and substantial shareholders' interests — has not been obtained.*
+- **Financial Highlights and Four-Year Financial Summary** (pp. 6–7)
+- **Management Discussion and Analysis** (pp. 11–24): revenue by product type and channel with
+  management's own attribution, the gross margin explanation, other income and net gain, expense
+  lines, finance costs, listing expenses, income tax, liquidity, key ratios, non-HKFRS reconciliation
+- **Directors' Report** (pp. 33–66): use-of-proceeds table (p.41), human resources (669 employees),
+  customer and supplier concentration, principal risks, the social insurance and housing fund
+  shortfall, **substantial shareholders (pp. 45–47; 90,751,378 shares in issue)**, share schemes,
+  public float (23.3% threshold), the final dividend resolution, and post-balance-sheet events
+  (Share Award Scheme adopted 12 January 2026)
+- **Independent Auditor's Report** (pp. 88–95, KPMG): unqualified; **sole key audit matter is
+  revenue recognition**, on "the inherent risk of manipulation of the amount and timing of revenue
+  recognised by management to meet specific targets or expectations"
+- **Consolidated Cash Flow Statement** (p.102): net operating cash flow ¥110.1m, capex ¥66.2m,
+  ¥30m lent to a third party, ¥697.1m of share issuance proceeds
+- **Notes** (pp. 103–195): note 4 revenue and segment reporting (**one reportable segment**;
+  Customer A ¥193.6m; **overseas revenue ¥1.878m**), note 5 other income, note 6 staff costs,
+  note 16 inventories, note 17 trade and other receivables (including the ¥30m supplier loan),
+  note 19 cash, note 21 trade and other payables, note 22 contract liabilities, note 27
+  equity-settled share-based payment (5,824,920 options at US$0 or US$1.23), note 28 capital and
+  reserves, note 29 financial risk management (**69% of trade receivables from the largest
+  customer**), note 31 material related party transactions
 
 **Secondary (verify against primary filings)** — this environment cannot reach HKEXnews, Xueqiu,
 AASTOCKS, CFi.cn, Sina Finance, Securities Times or Futu (blocked by the network egress proxy):
