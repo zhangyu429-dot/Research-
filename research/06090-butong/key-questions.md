@@ -380,15 +380,32 @@ Substantial shareholders at 31 December 2025 (90,751,378 shares in issue):
 over Shen Ling's 5,400,000 shares.** Taikang Life no longer appears above 5% (post-IPO dilution
 puts it near 4.5%, below the threshold — no inference about selling can be drawn).
 
-**The underrated item: incentive dilution.** **5,824,920 options were outstanding at year end,
-6.42% of shares in issue**, with exercise prices of **US$0 or US$1.23 (about ¥8.64)** against a
-share price near HK$42.6 — almost all deeply in the money; **3,685,444 were already exercisable**
-(2024: nil), and **1,249,282 were granted to a director in 2024**. More significant is the
-post-balance-sheet event: **on 12 January 2026 the Company adopted a Share Award Scheme capped at
-10% of shares in issue at adoption, funded solely by purchasing existing shares (no new issue)**
-— at current prices that is up to **about HK$387m of company cash** buying stock for employees.
-**For a company earning ¥65.2m and paying no dividend, that is a capital-allocation decision
-that needs explaining on its own.**
+**The underrated item: incentive dilution, concentrated in very few hands.** The Directors'
+Report gives the full grant table:
+
+| Grantee | Grant date | Outstanding 31 Dec 2025 | Exercise price | Vested |
+|---|---|---|---|---|
+| **Mr. Wang Wei (Chairman)** | 26 Sep 2024 | 1,249,282 (1.38% of capital) | US$1.23 | 312,320 |
+| 14 employees | 9 Jan 2021 | 2,989,240 | **Nil** | **2,989,240 (fully vested)** |
+| 21 employees | 26 Sep 2024 | 1,535,566 | US$1.23 | 383,884 |
+| 1 employee | 4 Jun 2025 | 50,832 | US$1.23 | — |
+| **Total** | | **5,824,920 (6.42% of capital)** | | **3,685,444** |
+
+**Of 669 employees, one director and 36 employees hold the entire 6.42%.** The 2021 tranche —
+**2,989,240 shares at a nil exercise price, fully vested** — is held by just **14 people**, worth
+roughly **HK$127m** at the current price, at zero cost. The US$1.23 strike is set by the plan at
+**"35% of the price per Share based on the valuation of the Company in the latest round of equity
+financing before the grant"** — a 65% discount to the last private round.
+
+**On top of that, the post-balance-sheet Share Award Scheme adopted on 12 January 2026 is capped
+at 9,075,137 shares, exactly 10.00% of shares in issue at adoption**, with a 1%-per-12-months
+individual cap, **service providers eligible with no sublimit**, the Board holding "sole and
+absolute discretion," and the whole scheme funded by purchasing existing shares (no new issue) —
+up to about **HK$387m of company cash** buying stock for employees.
+
+**Together the two schemes represent 14,900,057 shares, or 16.42% of existing capital.** For a
+company earning ¥65.2m and paying no dividend, that is a capital-allocation decision that needs
+explaining on its own.
 
 The price history is a supply history (below). Cornerstones took ~1,642,500 shares (~US$15m);
 net proceeds were **HK$702.5m**.
@@ -408,7 +425,12 @@ shareholders deposited shares worth about **HK$415m** and **HK$577m** into Futu 
 International (HK). **Depositing into a broker is normally a precursor to selling.**
 
 **Also note: the company holds ¥871.9m of net cash (25% of market cap) and pays no dividend**
-(none in either 2024 or 2025), **and has announced no continuing buyback programme**; the report
+(none in either 2024 or 2025). The dividend policy in the Corporate Governance Report is explicit:
+**"We do not have a pre-determined dividend payout ratio"** and **"There can be no assurance that
+dividends of any amount will be declared or distributed in any year"**; as a Cayman holding
+company it also depends on upstreaming from the PRC subsidiaries, **which attracts PRC withholding
+tax**. **So the "25% of market cap in net cash" cushion has neither a payout policy behind it nor
+a tax-free route home.** The company **has announced no continuing buyback programme**; the report
 states that as at 31 December 2025 it "did not hold any significant investments and had no
 specific plans for significant investments or acquisition of capital assets" (the robotics
 subsidiary came in April 2026). **Meanwhile the company lent ¥30m to a third-party supplier
@@ -513,6 +535,22 @@ produced by a different team.
 (iv) **Key management remuneration of ¥39.4m (+104%) equals 60% of reported profit and 26.4% of
 the entire ¥149.2m staff cost base**, of which ¥23.7m was share-based — **88.3% of the company's
 total share-based payment.** Total headcount is 669.
+(v) **The option vesting conditions are the disclosure in this memo most worth reading twice.**
+Under the Pre-IPO Share Incentive Plan, each tranche vests only if **(a) the completion rate of
+the Company's performance goals for the year is no less than 80% and (b) operating income
+increases versus the prior year**; if either fails the tranche is **automatically cancelled**,
+"unless otherwise resolved by the Board." Individual appraisal applies a coefficient: 80+ points
+= 1.0, 70–79 = 0.8, ≤69 = 0.
+
+**Note what that ties management's own equity to: revenue increasing year on year — not gross
+margin, not cash flow, not EPS.** 2025 revenue rose 15.8%, the condition was met, and the first
+25% of the 2024 grant duly vested (3,685,444 vested at year end). **The 2026 tranche requires
+revenue to increase again** — in a year when durables are shrinking and the fastest-growing
+channel is sell-in to distributors (+40.5%). This is not an allegation; **reading the incentive
+terms alongside the channel mix is simply what diligence requires.** Note also the plan's
+flexibility: **there is no maximum entitlement per optionee**; the exercise price defaults to 35%
+of the last financing round "unless otherwise resolved by the Board"; and the Board may amend,
+suspend or terminate the plan.
 
 **Q12 — Sources and two corrections.** All 2025 financial data, notes, share schemes,
 substantial shareholders' interests and the use-of-proceeds table come from the **full 2025
@@ -560,9 +598,13 @@ and none of the other three appears anywhere in it.
 9. **Whether a second broker initiates.** Coverage is one house, whose HK$8.4bn target embeds 38x
    2026 adjusted earnings.
 10. **How much the Share Award Scheme actually grants, and what it costs in cash.** The cap is
-   10% of shares in issue (about HK$387m at today's price), on top of 5,824,920 existing options
-   (6.42% of capital, struck at US$0 or US$1.23). This is a recurring, cash-settled shareholder
-   cost that never shows up as new share issuance.
+   9,075,137 shares (10.00% of capital, about HK$387m at today's price), on top of 5,824,920
+   existing options (6.42%) — **16.42% of capital in combined potential transfer.** This is a
+   recurring, cash-settled shareholder cost that never shows up as new share issuance.
+11. **Whether 2026 revenue grows — which is also an option vesting condition.** The Pre-IPO plan
+   requires operating income to increase versus the prior year or the tranche is automatically
+   cancelled. 2025 (+15.8%) cleared it. **Whether 2026 clears it is both a fundamental question
+   and a question about management's own equity.**
 
 ---
 
