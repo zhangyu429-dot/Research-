@@ -6,10 +6,12 @@ Equity research memos. One directory per company: `research/<code>-<pinyin-name>
 |---|---|---|
 | 洁美科技 Jiemei | 002859.SZ | [EN](research/002859-jiemei/key-questions.md) · [中文](research/002859-jiemei/key-questions.zh.md) · [PDF](research/002859-jiemei/key-questions.zh.pdf) |
 | 金海通 Jinhaitong | 603061.SH | [EN](research/603061-jinhaitong/key-questions.md) · [中文](research/603061-jinhaitong/key-questions.zh.md) · [PDF](research/603061-jinhaitong/key-questions.zh.pdf) |
+| 不同集团 Butong (BeBeBus) | 06090.HK | [EN](research/06090-butong/key-questions.md) · [中文](research/06090-butong/key-questions.zh.md) · [PDF](research/06090-butong/key-questions.zh.pdf) |
 
 Management interview question lists:
 [洁美科技 · 10个关键问题](research/002859-jiemei/management-questions.zh.md) ·
-[金海通 · 10个关键问题](research/603061-jinhaitong/management-questions.zh.md)
+[金海通 · 10个关键问题](research/603061-jinhaitong/management-questions.zh.md) ·
+[不同集团 · 10个关键问题](research/06090-butong/management-questions.zh.md)
 
 Industry deep dives:
 [MLCC电子薄膜：技术、市场与洁美科技的竞争位置](research/002859-jiemei/mlcc-film-deepdive.zh.md)
