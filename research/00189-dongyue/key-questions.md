@@ -19,12 +19,12 @@ And the asset with the best story — the hydrogen fuel-cell proton exchange mem
 listco's stake is down to roughly 10%, and the actual controller is chairman Zhang Jianhong
 personally.
 
-| Segment | FY2024 external sales | YoY | FY2024 segment profit | 1H2025 segment profit | What it is |
+| Segment | FY2024 external sales | FY2025 external sales | FY2024 segment profit | **FY2025 segment profit** | What it is |
 |---|---|---|---|---|---|
-| **Refrigerants** | ¥3.248bn (**22.9%**) | +13.1% | **¥806m (+159.6%)** | **¥1.030bn (+209.8%)**, 44.9% margin | Largest R22 production quota in China (2026: 43,000t, ~27.3% of gen-2 quota); #2 in R32. **FY2025 revenue ¥4.941bn, +52.1%** |
-| **Fluoropolymers** | ¥3.825bn (**27.0%**) | −16.0% | ¥508m (+50.9%) | ¥303m (+35.2%) | Top-3 PTFE capacity in China (Dongyue / Haohua Chenguang / Juhua ≈ 57% combined); PVDF ~25kt |
-| **Silicones** | ¥5.213bn (**36.8%**) | +7.2% | ¥102m (turnaround) | ¥54m | Dongyue Silicone (300821.SZ), 600kt monomer / 350kt DMC. **100% consolidated, 44.4% owned.** Segment swung to a loss in FY2025 |
-| **Dichloromethane, PVC & caustic** | ~¥1.895bn (derived) | — | not obtained | ¥133m (+44.5%) | Chlor-alkali balance, not a standalone growth story |
+| **Refrigerants** | ¥3.248bn (22.9%) | **¥4.941bn (34.4%, +52.1%)** | ¥806m (+159.6%) | **¥2.288bn (+183.7%)** | Largest R22 production quota in China (2026: 43,000t, ~27.3% of gen-2); #2 in R32. Segment margin 24.8% → **46.3%** |
+| **Fluoropolymers** | ¥3.825bn (27.0%) | ~¥3.7–3.8bn (1H25: ¥1.94bn, −4.6%) | ¥508m (+50.9%) | **¥357m (−29.7%)** | Top-3 PTFE capacity in China (Dongyue / Haohua Chenguang / Juhua ≈ 57%); PVDF ~25kt. **1H25 profit reported as either ¥260m or ¥303m (conflicting), implying 2H25 of only ¥54–97m** |
+| **Silicones** | ¥5.213bn (36.8%) | **~¥3.77bn (−26.8%)** | ¥102m (turnaround) | **loss** | Dongyue Silicone (300821.SZ), 600kt monomer / 350kt DMC. **100% consolidated, 44.4% owned.** FY2025 attributable loss of ¥19.3m — its first since listing |
+| **Dichloromethane, PVC & caustic** | ~¥1.895bn (derived) | ~¥1.8–1.9bn (derived) | not obtained | **down** (1H25: ¥133m, +44.5%) | Chlor-alkali balance, not a standalone growth story |
 | **Property development** | — | — | — | — | **Fully disposed in 2024**; no longer a segment |
 
 **Trailing financials (back through the last cycle peak)**
@@ -52,9 +52,13 @@ profit alert; HK$18.3 in mid-June, ~HK$11.3 low in March, up ~60% YTD at the May
 Share count **1.733bn** (after cancelling the 521m shares repurchased from Xinhualian in May
 2024), giving a market cap of ~**HK$28.3bn ≈ ¥25.9bn**. That is **~15.8x FY2025 earnings**,
 ~**1.6x book** (BVPS ~¥9.25), FY2025 ROE ~**10.3%**. Sell-side: CICC forecasts FY2026/27 net
-profit of **¥2.694bn / ¥3.181bn** (target HK$16.68); another house carries **¥2.953bn /
-¥3.023bn**. **The same series forecast ¥2.177bn for FY2025 against an actual ¥1.642bn — the
-last cycle's forecasts were ~25% too high.**
+profit of **¥2.694bn / ¥3.181bn** (March 2026, target HK$16.68); First Shanghai carries
+**¥2.58bn / ¥2.81bn** (May 2026, Buy maintained, target raised from HK$18.9 to **HK$19.5**);
+another house carries **¥2.953bn / ¥3.023bn**. **The last cycle's forecast scorecard — the
+only public basis for judging this cycle's — reads: two houses forecast FY2025 attributable
+profit of ¥2.177bn and ¥1.90bn against an actual ¥1.642bn, 33% and 16% too high; First
+Shanghai's FY2025 revenue forecast of ¥16.09bn came in against an actual ¥14.355bn, 12% too
+high. Both erred in the same direction in the same year.**
 
 **Control:** Chairman and CEO **Zhang Jianhong (born Nov 1960, age 65) holds just 0.41%**
 personally. His son **Zhang Ke** holds **14.94%** through wholly-owned Dongyue Team; the two
@@ -78,6 +82,20 @@ Future Hydrogen withdraws its STAR application; the SSE terminates review** (com
 profit +904.88%–952.28% → 10 Jul 2026 positive profit alert, **shares fall over 7% on the
 day** → 20 Aug 2026 board approves interim results: revenue ¥8.060bn, attributable profit
 ¥1.027bn, **no interim dividend**.
+
+**Profit concentration (FY2025, the single most important ratio):** refrigerant segment
+profit was **¥2.288bn** against a group pre-tax profit of **¥2.577bn** — **refrigerants
+delivered roughly 89% of pre-tax profit.** Fluoropolymers fell from ¥508m to ¥357m, silicones
+lost money, and chlor-alkali declined. **This is not a "fluorosilicone materials platform." It
+is a refrigerant company with three attached businesses that did not make money that year.**
+
+**One operating event that has to be in the numbers:** on 20 July 2025 a fire broke out in
+Dongyue Silicone's phase-3 B bed in the synthesis workshop, **taking down 300kt of silicone
+monomer capacity — half the subsidiary's total** — with units offline until they came back
+progressively at the end of November 2025. Together with a ~10.95% fall in the DMC annual
+average price, that left Dongyue Silicone with FY2025 revenue of ¥3.770bn (−26.8%) and an
+attributable loss of ¥19.3m. The damaged assets were insured and the claim is still in
+progress.
 
 > **The single fact that frames everything:** In 2022 Dongyue earned **¥3.856bn** attributable
 > — the best year in its history. In 2025 — with refrigerant prices at ten-year highs and the
@@ -122,11 +140,22 @@ structure (feedstock-use R22 transferred internally at cost, exports below domes
 share of low-priced contracts) determines directly whether the ¥2.69–2.95bn FY2026 consensus
 is achievable.
 
-> **Note how much the consensus asks of 2H.** 1H attributable profit was ¥1.027bn. A
-> ¥2.694bn full year requires **¥1.667bn in 2H, +62% half-on-half**; ¥2.953bn requires
-> **¥1.926bn, +88%**. Chinese refrigerant seasonality runs the other way — 1H (the March–June
-> air-conditioner build season) is the strong half. It is not impossible; R22 did rise ~60%
-> between May and end-July. But it is an assumption that must be verified, not a default.
+> **How much does the consensus ask of 2H? Measure it against the company's own half-year
+> rhythm.** 1H attributable profit was ¥1.027bn. A ¥2.694bn full year requires **¥1.667bn in
+> 2H, +62% half-on-half**; ¥2.953bn requires **¥1.926bn, +88%**.
+>
+> The intuitive objection is that the air-conditioner build season falls in March–June. **But
+> this company's actual rhythm has run the other way for two years:** attributable profit was
+> ¥308m in 1H2024 vs ¥503m in 2H2024 (**+63.5% half-on-half**) and ¥779m in 1H2025 vs ¥863m in
+> 2H2025 (**+10.8%**); the refrigerant segment ran ¥1.552bn revenue / ¥332m profit in 1H2024
+> against ¥1.696bn / ¥474m in 2H2024, and ¥2.292bn / ¥1.030bn in 1H2025 against ¥2.649bn /
+> ¥1.258bn in 2H2025 — **revenue and profit both higher in the second half, two years
+> running**. The cause is not demand seasonality but prices climbing through the year under
+> quota, with annual contracts repricing each round.
+>
+> So the conclusion needs revising: **+62% (the ¥2.694bn case) has a 2024 precedent and is not
+> absurd; +88% (the ¥2.953bn case) has none.** The test is not seasonality but whether R22
+> holds the move from ¥21,000–22,000/t in May to ¥35,000/t at end-July through Q3.
 
 **Ask:**
 - From the full interim report: **refrigerant segment sales volume (tonnes) and segment
@@ -193,6 +222,10 @@ polymerises it into PTFE. In principle the cut controlled-use quota can be redir
 feedstock — volume preserved, profit simply migrating from the refrigerant segment to
 fluoropolymers. But feedstock R22 is "priced near cost." **Redirect it and the excess profit
 disappears.**
+
+**This question just got heavier:** FY2025 refrigerant segment profit of ¥2.288bn was ~89% of
+group pre-tax profit. **R22's share of refrigerants is therefore very close to R22's share of
+the entire company.**
 
 **Ask:**
 - Of Dongyue's **43,000t of 2026 R22 quota, how many tonnes are controlled use (domestic +
@@ -317,8 +350,14 @@ taking utilisation from ~70% to ~60%; incumbents are barred from adding capacity
 from ~¥11,300/t in late October 2025 to ¥13,500–14,000/t. **This is a price held up by
 industry discipline, not by a cost curve or a patent.** Ask: does the coordination continue
 past September? How is compliance verified? How fast does price retrace if one leader
-restarts? Separately, part of the gross margin gain came from **lower industrial silicon input
-costs**, which reverse when silicon rebounds — that must be split out from the price effect.
+restarts? **Two quality details worth recording:** first, Dongyue Silicone's 1H2026 **profit excluding
+non-recurring items, ¥465–485m, is higher than headline attributable profit of ¥424–444m** —
+net non-recurring items of about **−¥41m**, meaning **no fire-insurance recovery or similar
+one-off is propping up the number**; the underlying result is better than the headline.
+Second, Q1 2026 revenue was ¥1.256bn, **up only 4.49%** — **the entire silicone recovery is a
+margin event on flat volume, not a demand event.** Together: the profit is real, but it is
+wholly dependent on the coordinated cuts. Separately, part of the gross margin gain came from
+**lower industrial silicon input costs**, which reverse when silicon rebounds — that must be split out from the price effect.
 
 **Q7 — Customers and downstream concentration.** Domestic refrigerant demand concentrates in
 room air-conditioner OEMs (Midea, Gree, Haier) and auto air-conditioning — simultaneously the
@@ -372,30 +411,54 @@ transactions and amounts; whether any equity incentive or ESOP exists and, if so
 performance targets scored against actuals year by year** — the best public read on whether
 management systematically over-forecasts itself.
 
-**Q12 — Source quality (read this).** **No primary disclosure channel was reachable in this
-session**: HKEXnews, the SSE, the SZSE, cninfo, Sina Finance, Eastmoney, 10jqka and AAStocks
-are all blocked by this environment's network policy. **Every figure here comes from
-second-hand summaries of search results.** Known conflicts to check against originals: (1) one
-data source reports FY2025 "revenue ¥15.997bn, basic EPS ¥1.09" against the results
-announcement (¥14.355bn, ¥0.98) — this memo uses the announcement; (2) FY2025 basic EPS of
-¥0.98 implies a weighted share count of ~1.675bn versus 1.733bn issued, unexplained; (3) a
-"¥14.00" quote for Dongyue Silicone on 30 July cannot be reconciled with ¥23.23 on 14 July or
-the ~¥20.5 implied at 30 June — this memo uses the latter two as a range; (4) the Dongyue
-Future Hydrogen stake appears as both 31.21% (Dongyue Fluorosilicone) and 10.03% (Dongyue
-Group), different entities at different dates, with no complete history obtained; (5)
-pre-2022 figures come from media summaries, unchecked against annual reports. **Until the
-FY2025 annual report and the 1H2026 interim report are in hand, no number here should drive a
-trade.**
+**Q12 — Source quality (read this).** **No primary disclosure channel was reachable**:
+HKEXnews, the SSE, the SZSE, cninfo, Sina Finance, Eastmoney, 10jqka, AAStocks and the
+company's own site dongyuechem.com were all refused at the CONNECT stage with a 403 by this
+session's organisational egress policy (visible in the proxy log). That is an organisation
+policy denial, which the environment's rules say **must not be routed around**, so **every
+figure here comes from second-hand summaries of search results** — with the exception of the
+FY2025 refrigerant segment figures (external sales of RMB 4,940,752,000 and segment profit of
+RMB 2,287,697,000), which are a verbatim quotation of the results announcement and carry
+higher confidence. The rest is media paraphrase.
+
+Known conflicts and how they are handled:
+1. **Resolved** — the previously flagged "FY2025 revenue ¥15.997bn, basic EPS ¥1.09" is close
+   to First Shanghai's FY2025 **forecast** (revenue ¥16.09bn, net profit ¥1.90bn); a forecast
+   appears to have been loaded into an actuals field.
+2. FY2025 refrigerant external sales appear as **¥4.941bn** (verbatim from the announcement)
+   and **¥4.62bn** (First Shanghai). The former reconciles exactly with "+52.13%" on the
+   FY2024 base of ¥3.248bn; this memo uses it.
+3. 1H2025 fluoropolymer segment profit appears as **¥303m** and as **¥260m** (on ¥1.94bn
+   revenue, a 13.4% margin). Undecidable; both are carried.
+4. FY2025 basic EPS of ¥0.98 implies a weighted share count of ~1.675bn against 1.733bn
+   issued; unexplained.
+5. A "¥14.00" quote for Dongyue Silicone on 30 July cannot be reconciled with ¥23.23 on 14
+   July or the ~¥20.5 implied at 30 June; this memo uses the latter two as a range.
+6. The Dongyue Future Hydrogen stake appears as 31.21% (Dongyue Fluorosilicone) and 10.03%
+   (Dongyue Group), different entities at different dates, with no complete history obtained.
+7. Pre-2022 figures come from media summaries, unchecked against annual reports.
+
+**Still entirely missing, and not obtainable by search: operating cash flow, receivables and
+inventory balances, contract liabilities, net debt, capex — these live only in the notes to
+the financial statements, and no media paraphrase covers them.** **Until the FY2025 annual
+report and the 1H2026 interim report are in hand, no number here should drive a trade.**
 
 ---
 
 ## 3. What to watch next — falsifiable checkpoints
 
-1. **Immediately (the full interim report published 20 Aug 2026)** — reconcile line by line:
-   segment revenue and segment profit, **minority interests**, **operating cash flow**,
-   receivables and inventory, refrigerant volume and realised price. Every derived figure in
-   this memo is superseded by it. **Test: if the realisation-to-spot gap is narrowing,
-   explanation (1) in Q1 holds; if volume fell while realised price was flat, (2) holds.**
+1. **Immediately (the 20 Aug 2026 results announcement itself, and the full interim report
+   that follows)** — as of this memo, media coverage carries only two numbers, revenue of
+   ¥8.060bn and attributable profit of ¥1.027bn; **not one 1H2026 segment figure, minority
+   interest line or cash flow number has reached public paraphrase.** The original is
+   required. Reconcile line by line: segment revenue and segment profit, **minority
+   interests**, **operating cash flow**, receivables and inventory, refrigerant volume and
+   realised price. **Test 1: if the realisation-to-spot gap is narrowing, explanation (1) in
+   Q1 holds; if volume fell while realised price was flat, (2) holds. Test 2: FY2025
+   refrigerant segment profit was ¥2.288bn, of which ¥1.030bn in 1H — if 1H2026 segment
+   profit is not clearly above ¥1.030bn, then essentially all of the group's profit growth
+   came from silicones, which are only 44.4% owned, and the full-year arithmetic changes
+   materially.**
 2. **September 2026** — the 40% coordinated silicone cut expires at end-August. **Test: does
    utilisation return above 70%, and does DMC break below ¥13,000/t?** This decides Dongyue
    Silicone's 2H and therefore whether ¥2.69–2.95bn is reachable.
@@ -428,9 +491,12 @@ Second, the rent **does not fully belong to 00189's shareholders**: 23.12% of Do
 and 55.6% of Dongyue Silicone sit outside, minorities already took 24.8% of profit in FY2025,
 and that structure is one the company created itself in 2023 by paying a 32.9% premium to
 retire a shareholder. As for "membrane" and "hydrogen" — the two pillars that would support a
-long-duration multiple — the economics have largely left the listco. **So: the business is
-more real than it looks (the rent is genuine) and smaller than it looks (the shareholders'
-share is discounted twice).**
+long-duration multiple — the economics have largely left the listco. **It is also far more concentrated than "fluorosilicone platform" suggests: FY2025 refrigerant
+segment profit of ¥2.288bn was ~89% of group pre-tax profit, while fluoropolymer segment
+profit fell from ¥508m to ¥357m, silicones lost money and chlor-alkali declined. So: the
+business is more real than it looks (the rent is genuine), smaller than it looks (the
+shareholders' share is discounted twice), and more concentrated than it looks (it stands on
+one leg).**
 
 **The stock.** 15.8x trailing, 9.6x FY2026 consensus, 1.6x book, 10.3% ROE — that is not
 expensive. The reverse valuation says **the current price only requires normal profit of about
@@ -474,6 +540,14 @@ unchecked against the original filing.**
 - [1H2026: revenue ¥8.060bn (+8%), net profit ¥1.027bn (+31.8%), EPS ¥0.60, no interim dividend (Yahoo Finance HK)](https://hk.finance.yahoo.com/news/%E6%A5%AD%E7%B8%BE-%E6%9D%B1%E5%B2%B3%E9%9B%86%E5%9C%98-00189-hk-%E4%B8%AD%E6%9C%9F%E7%B4%94%E5%88%A910-160122603.html)
 - [FY2022: revenue ¥20.028bn (+26.41%), attributable ¥3.856bn (+85.82%), PVDF the main driver; FY2021 revenue ¥15.844bn, attributable ¥2.075bn (Hstong / Gelonghui summaries)](https://www.hstong.com/news/detail/22032217455500753)
 - [1H2026 prices: R22 +43.8%, R125 +14.6%, R134a +10.3%, R32 +1.6%, PTFE +23.5%, PVDF +19.2% (CITIC Construction note via Fxbaogao)](https://www.fxbaogao.com/detail/5521014)
+
+- [FY2025 segments (verbatim from the results announcement): refrigerant external sales RMB 4,940,752,000 (FY2024: 3,247,702,000, +52.13%), segment profit RMB 2,287,697,000 (FY2024: 806,356,000, **+183.71%**); fluoropolymers and dichloromethane/caustic declined; silicones made a loss (Sina Finance)](https://finance.sina.com.cn/wm/2026-03-29/doc-inhsruxw4877013.shtml)
+- [1H2024 refrigerant segment: external sales ~¥1.552bn (+6.82%), profit ¥332m (+97.61%); property business fully disposed in 2024 (Sina Finance)](https://finance.sina.com.cn/stock/relnews/hk/2024-08-29/doc-incmhvun2864664.shtml)
+- [First Shanghai, May 2026: Buy maintained, target raised to HK$19.5; FY2025 fluoropolymer segment profit ¥357m; 1H2025 fluoropolymer revenue ¥1.94bn (−4.6%), segment profit ¥260m, 13.4% margin; by April 2026 core gen-3 refrigerants all above ¥60,000/t (Sina Finance)](https://finance.sina.com.cn/stock/relnews/hk/2026-05-06/doc-inhwxtam3451344.shtml)
+- [First Shanghai, Sep 2025: target HK$18.9; FY2025–27 revenue forecasts ¥16.09bn / ¥17.47bn / ¥18.15bn and net profit ¥1.90bn / ¥2.58bn / ¥2.81bn (the FY2025 figure was 16% above the ¥1.642bn actual) (Sina Finance)](https://finance.sina.com.cn/stock/hkstock/hkgg/2025-09-23/doc-infrnksk0543467.shtml)
+- [20 July 2025: fire in Dongyue Silicone's phase-3 B bed, affecting 300kt of silicone monomer capacity — half its total; no casualties; damaged assets insured and the claim in progress (National Business Daily)](https://www.nbd.com.cn/articles/2025-07-21/3951883.html)
+- [Dongyue Silicone FY2025: revenue ¥3.770bn (−26.8%), attributable net loss ¥19.31m (−134.02%), its first loss since listing; DMC annual average price down ~10.95%; fire-related shutdowns ran until units restarted progressively at end-November 2025 (Sohu)](https://www.sohu.com/a/1001127255_100053070)
+- [Dongyue Silicone 1H2026 guidance: attributable ¥424–444m, **ex-exceptionals ¥465–485m (higher than headline, implying net non-recurring items of about −¥41m)**; Q1 2026 revenue ¥1.256bn, up only 4.49% (CFi.CN)](https://cfi.cn/p20260703001680.html)
 
 *Corporate actions and connected transactions*
 - [23 Oct 2023: HK$3.699bn buyback (HK$7.10/share, 32.92% premium) of Xinhualian's 521m shares, 23.12% (Sina Finance)](https://finance.sina.com.cn/stock/relnews/hk/2023-10-24/doc-imzsczhs1670091.shtml)
