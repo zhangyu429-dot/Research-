@@ -6,7 +6,7 @@ Equity research memos. One directory per company: `research/<code>-<pinyin-name>
 |---|---|---|
 | 洁美科技 Jiemei | 002859.SZ | [EN](research/002859-jiemei/key-questions.md) · [中文](research/002859-jiemei/key-questions.zh.md) · [PDF](research/002859-jiemei/key-questions.zh.pdf) |
 | 金海通 Jinhaitong | 603061.SH | [EN](research/603061-jinhaitong/key-questions.md) · [中文](research/603061-jinhaitong/key-questions.zh.md) · [PDF](research/603061-jinhaitong/key-questions.zh.pdf) |
-| 东岳集团 Dongyue | 00189.HK | [EN](research/00189-dongyue/key-questions.md) · [中文](research/00189-dongyue/key-questions.zh.md) · [PDF](research/00189-dongyue/key-questions.zh.pdf) |
+| 东岳集团 Dongyue | 00189.HK | [EN](research/00189-dongyue/key-questions.md) (stale) · [中文](research/00189-dongyue/key-questions.zh.md) · [PDF](research/00189-dongyue/key-questions.zh.pdf) |
 
 Management interview question lists:
 [洁美科技 · 10个关键问题](research/002859-jiemei/management-questions.zh.md) ·
@@ -16,7 +16,9 @@ Management interview question lists:
 
 Industry deep dives:
 [MLCC电子薄膜：技术、市场与洁美科技的竞争位置](research/002859-jiemei/mlcc-film-deepdive.zh.md)
-([PDF](research/002859-jiemei/mlcc-film-deepdive.zh.pdf))
+([PDF](research/002859-jiemei/mlcc-film-deepdive.zh.pdf)) ·
+[东岳集团的竞争位置：四个分部，四种护城河，四个不同的到期日](research/00189-dongyue/competitive-position.zh.md)
+([PDF](research/00189-dongyue/competitive-position.zh.pdf))
 
 Earnings models:
 [洁美科技 2026-2028 盈利预测与估值](research/002859-jiemei/forecast-2026-2028.zh.md)

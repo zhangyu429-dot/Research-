@@ -2,6 +2,19 @@
 
 *Research memo · 25 August 2026 · analysis, not investment advice*
 
+> **⚠ STALE — the Chinese version is authoritative.** This English memo reflects the 1H2026
+> interim results announcement, but **not** the competitive/industry pass of 25 August 2026
+> ([competitive-position.zh.md](competitive-position.zh.md)), which re-ranked the five
+> questions and overturned three judgements carried below: (1) quota is a moat mainly for
+> **Juhua**, not Dongyue — Dongyue is **4th in gen-3 at 10.8%** against Juhua's 37.6%, and
+> absent from the top three in R125 and R134a; (2) the AI/semiconductor fluoropolymer story
+> holds for the industry but **not for Dongyue as a leader** — Zhongao Chenguang leads
+> electronic-grade M10 PTFE, Juhua has delivered semiconductor PFA at 10kt scale; (3) the
+> silicone stake is more fragile than stated — **Hoshine self-supplies industrial silicon,
+> Dongyue Silicone buys it**. It also lacks the biggest new finding: refrigerant prices at
+> ten-year highs against **August domestic AC production scheduled −24.1% YoY**. Read
+> [key-questions.zh.md](key-questions.zh.md) instead, or ask for this file to be re-synced.
+
 *This version has been rewritten against the **1H2026 interim results announcement (20 August
 2026, unaudited, reviewed by the external auditor)**. The previous version was built from
 second-hand summaries; several of its figures are overturned here and listed line by line in
