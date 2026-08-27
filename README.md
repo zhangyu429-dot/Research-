@@ -12,6 +12,10 @@ Bull/bear summaries:
 [不同集团 · 多空对照](research/06090-butong/bull-bear.zh.md)
 ([PDF](research/06090-butong/bull-bear.zh.pdf))
 
+Results updates:
+[不同集团 · 2026年中期业绩解读](research/06090-butong/2026h1-results-update.zh.md)
+([PDF](research/06090-butong/2026h1-results-update.zh.pdf))
+
 Field-visit question sets:
 [不同集团 · 护理业务专项调研提纲](research/06090-butong/care-diligence-questions.zh.md)
 ([PDF](research/06090-butong/care-diligence-questions.zh.pdf))

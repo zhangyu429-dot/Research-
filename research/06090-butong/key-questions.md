@@ -6,6 +6,16 @@
 financial data, notes, share schemes, substantial shareholders' interests and the
 use-of-proceeds table are primary. Two corrections to the earlier version are flagged inline.*
 
+> **The 1H2026 interim results were published on 26 August 2026 and settle several of the
+> judgements below. See [2026h1-results-update.zh.md](2026h1-results-update.zh.md). In short:**
+> **durables stabilised (−1.1%, strollers +32.0%) — the bull checkpoint passed; care growth
+> collapsed from +61.0% to +12.8% — the bear checkpoint happened, and worse than the bear case
+> here assumed (+25%); the channel-stuffing concern is largely defused (KA +26.6% outgrowing
+> distributors +12.8%, inventories −23.5%); the effective tax rate fell to 28.3% and EBITDA
+> rose 22.6%, but other income is now 35.7% of pre-tax profit. Note also that the company
+> repurchased shares in June 2026 at HK$27.96–30.44, inconsistent with the ~HK$42.6 quote used
+> below — the valuation needs re-running on a live price.**
+
 ---
 
 ## 0. What you are actually buying
