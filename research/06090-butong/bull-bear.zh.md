@@ -1,7 +1,7 @@
 # 不同集团（BeBeBus，06090.HK）— 多空对照
 
 *配套文件：[key-questions.zh.md](key-questions.zh.md) · [management-questions.zh.md](management-questions.zh.md)*
-*2026年8月23日 · 仅为分析框架，不构成投资建议，不含评级与目标价*
+*2026年8月27日 · 仅为分析框架，不构成投资建议，不含评级与目标价*
 
 ---
 

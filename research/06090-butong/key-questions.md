@@ -1,6 +1,6 @@
 # 不同集团 (Butong Group / BeBeBus, 06090.HK) — The Questions That Decide the Investment
 
-*Research memo · 23 August 2026 · analysis, not investment advice*
+*Research memo · 27 August 2026 · analysis, not investment advice*
 
 *This version is rewritten against the **full 2025 Annual Report (pages 1–202)**. All
 financial data, notes, share schemes, substantial shareholders' interests and the

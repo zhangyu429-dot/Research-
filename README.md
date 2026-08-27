@@ -12,6 +12,10 @@ Bull/bear summaries:
 [不同集团 · 多空对照](research/06090-butong/bull-bear.zh.md)
 ([PDF](research/06090-butong/bull-bear.zh.pdf))
 
+Field-visit question sets:
+[不同集团 · 护理业务专项调研提纲](research/06090-butong/care-diligence-questions.zh.md)
+([PDF](research/06090-butong/care-diligence-questions.zh.pdf))
+
 Management interview question lists:
 [洁美科技 · 10个关键问题](research/002859-jiemei/management-questions.zh.md) ·
 [金海通 · 10个关键问题](research/603061-jinhaitong/management-questions.zh.md) ·
