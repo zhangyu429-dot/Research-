@@ -16,7 +16,9 @@ Management interview question lists:
 
 Cross-company comparisons:
 [洁净室双雄：柏诚股份 vs 圣晖集成](research/comparisons/cleanroom-601133-vs-603163.zh.md)
-([PDF](research/comparisons/cleanroom-601133-vs-603163.zh.pdf))
+([PDF](research/comparisons/cleanroom-601133-vs-603163.zh.pdf)) ·
+[厂务工程的效率在哪里决定——运营效率专题](research/comparisons/cleanroom-operating-efficiency.zh.md)
+([PDF](research/comparisons/cleanroom-operating-efficiency.zh.pdf))
 
 Industry deep dives:
 [MLCC电子薄膜：技术、市场与洁美科技的竞争位置](research/002859-jiemei/mlcc-film-deepdive.zh.md)
