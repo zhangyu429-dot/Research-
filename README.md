@@ -14,6 +14,10 @@ Management interview question lists:
 [柏诚股份 · 10个关键问题](research/601133-baicheng/management-questions.zh.md)
 ([PDF](research/601133-baicheng/management-questions.zh.pdf))
 
+Cross-company comparisons:
+[洁净室双雄：柏诚股份 vs 圣晖集成](research/comparisons/cleanroom-601133-vs-603163.zh.md)
+([PDF](research/comparisons/cleanroom-601133-vs-603163.zh.pdf))
+
 Industry deep dives:
 [MLCC电子薄膜：技术、市场与洁美科技的竞争位置](research/002859-jiemei/mlcc-film-deepdive.zh.md)
 ([PDF](research/002859-jiemei/mlcc-film-deepdive.zh.pdf))
