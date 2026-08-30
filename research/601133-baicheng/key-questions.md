@@ -29,6 +29,40 @@ conversion really happened, and the gross margin fell at the same time.**
 *Overseas revenue fell year on year; the company attributes this to overseas orders not yet having
 entered their intensive execution window.*
 
+**The notes disclose gross margin by business for the first time — the number the previous version of
+this memo called the one disclosure that "would largely settle the whole judgement":**
+
+| 1H26 (by product type) | Revenue | % | **Gross margin** | Same basis, 2025 |
+|---|---|---|---|---|
+| Cleanroom system integration | ¥1,248m | 47.07% | **8.94%** | — |
+| Mechanical and process systems | ¥850m | 32.06% | **11.79%** | — |
+| *(the two above = "primary side")* | *¥2,098m* | *79.13%* | ***10.09%*** | ***11.05%*** |
+| **Secondary fit-out** | ¥546m | 20.59% | **13.01%** | **14.43%** |
+| Design services | ¥5.5m | 0.21% | 57.75% | — |
+| Product sales (molecular filtration) | ¥2.1m | 0.08% | **−85.70%** | — |
+| **Total** | **¥2,651m** | 100% | **10.72%** | **11.93%** |
+
+| 1H26 (other cuts) | Revenue | % | **Gross margin** | Same basis, 2025 |
+|---|---|---|---|---|
+| Domestic | ¥2,413m | 91.01% | **10.66%** | c.11.63% |
+| **Overseas** | ¥238m | 8.99% | **11.30%** | **15.07%** |
+| **Semiconductor and semiconductor-adjacent** | **¥2,015m** | **75.98%** | **10.05%** | — |
+| New display | ¥291m | 10.97% | 10.26% | — |
+| Food, pharma and health | ¥216m | 8.15% | 12.13% | — |
+| Other electronics | ¥105m | 3.95% | 16.57% | — |
+| Life science | ¥19.5m | 0.74% | 35.83% | — |
+
+**Three conclusions fall straight out of these two tables:** (1) **the primary side and secondary
+fit-out fell together** (11.05% → 10.09% and 14.43% → 13.01%) — **the decline is across the board,
+not a product-mix artefact**; (2) **cleanroom system integration, nearly half of revenue, earns
+8.94%**; (3) **the overseas margin collapsed from 15.07% to 11.30%, so the overseas premium has
+essentially gone.** Overseas entities sit in Vietnam, Malaysia, Thailand, Singapore and the USA.
+
+**The company also gave a conversion window for the first time:** the ¥5,629m of remaining
+performance obligations at 30 June is expected to be recognised as revenue **"over the next 12–24
+months" as projects progress** — **slower than the "6–12 month intensive execution window" implies,
+and running into 2028.**
+
 **Trailing financials, back through the last cycle peak (¥m unless stated)**
 
 | | 2019 | 2020 | 2021 | **2022** | 2023 | **2024** | 2025 | **1H26** |
@@ -78,7 +112,7 @@ IPO lock-up expired on **10 April 2026** and unrestricted shares are now **99.65
 also include Goldman Sachs, China Life, National Social Security Fund portfolio 116, the Abu Dhabi
 Investment Authority and a GF Fund product.
 
-> **The two facts that frame everything:**
+> **The three facts that frame everything:**
 >
 > **One: Q2 revenue grew 29.2% year on year — the order conversion is real. In that same quarter the
 > gross margin fell from 11.94% to about 10.14% and the net margin to 3.06%.** That is the 2024
@@ -86,7 +120,13 @@ Investment Authority and a GF Fund product.
 > **At this company volume and gross margin are negatively correlated — and this ramp has only just
 > started.**
 >
-> **Two: the company failed its own 2025 incentive-plan targets.** On 21 April 2026 the board
+> **Two: gross margin by business confirms the decline is across the board, not structural.** The
+> primary side fell from 11.05% in 2025 to **10.09%**, secondary fit-out from 14.43% to **13.01%**,
+> and overseas from 15.07% to **11.30%** — **all three lines down at once.** And **the semiconductor
+> business, 75.98% of revenue, earns just 10.05%**: the part of this company the market prices on
+> semiconductor logic is among the lowest-margin parts of it.
+>
+> **Three: the company failed its own 2025 incentive-plan targets.** On 21 April 2026 the board
 > resolved to buy back and cancel 1,415,059 shares held by 92 first-grant participants who missed
 > the second vesting hurdle and 400,782 shares held by 27 reserve-grant participants who missed the
 > first — **1,815,841 shares across 119 people**, cancelled on 18 June. Directors and executives lost
@@ -130,12 +170,18 @@ interim reports a blended gross margin of 10.72%, up 0.58pp year on year — **t
 comparison is true, but the sequence is what matters: 11.94% in Q1, 10.14% in Q2, with the margin
 dropping 1.8 points in the quarter the volume arrived.**
 
-**Ask:**
-- **First-half gross margin by business** — cleanroom integration and process systems versus
-  secondary fit-out, and domestic versus overseas. The interim gives the revenue split but not the
-  margins. **That one disclosure would largely settle the whole judgement.**
-- **Was the Q2 margin drop mix (large primary-system projects executing at once) or bid pricing?**
-  The first is temporary; the second is terminal.
+**And gross margin by business, in the notes, settles the "mix or pricing" question outright:**
+
+| | 2025 | **1H26** | Change |
+|---|---|---|---|
+| Primary side (cleanroom integration + process systems) | 11.05% | **10.09%** | **−0.96pp** |
+| Secondary fit-out | 14.43% | **13.01%** | **−1.42pp** |
+| Overseas | 15.07% | **11.30%** | **−3.77pp** |
+
+**Both business types and both geographies fell, and the higher-margin one fell furthest.** That
+rules out "the blend fell because low-margin work grew" — **the blended margin managed +0.58pp year
+on year only because secondary fit-out rose to 20.59% of revenue. Mix was pushing up while pricing
+pulled down, and pricing won.** That is not a phase; it is the tender price.
 - **The bid gross margin on the ¥5,833m signed in 1H26**, against the 2023–24 vintage. The hardest
   number to obtain and the most valuable.
 
@@ -186,31 +232,38 @@ This is the most bullish set of numbers in the interim and deserves full weight:
 |---|---|---|---|---|---|
 | Secondary fit-out share | 13% | 28% | **20.59%** | **50.51%** | **84.58%** |
 
-Secondary fit-out carried a 14.43% gross margin in 2025, 3.38pp above the 11.05% on primary systems.
-**If the backlog converts as disclosed, the blended gross margin should trend to roughly
-0.5 × 14.43% + 0.5 × 11.05% ≈ 12.7%**, well above today's 10.72%. That is a real, testable
-improvement path — and a bigger one than the previous version of this memo assumed.
+**The direction of the mix dividend is real and its size can now be calculated — and the same report
+shows it being eroded.**
 
-**Three hard constraints go with it:**
+Recomputing on 1H26's actual sub-margins (secondary fit-out 13.01%, primary side 10.09%): **if the
+backlog converts to a 50:50 split, the blended gross margin trends to about
+0.5 × 13.01% + 0.5 × 10.09% = 11.55%**, roughly 0.8pp above today's 10.72%. **On 2025's sub-margins
+the same mix gave 12.74%.** The gap between those two — **close to two points — is what the tender
+market took away in six months.**
 
-1. **The first half printed below what the mix alone implies.** Weighting 2025's sub-margins by 1H26
-   revenue mix: 0.206 × 14.43% + 0.794 × 11.05% = **11.75%**, against an actual **10.72%** — **a full
-   point lower. Project-level pricing and execution have deteriorated by about one point, offsetting
-   the mix gain.**
-2. **The ceiling is unchanged.** Even at 100% secondary fit-out, 2025's sub-margins imply **14.43%**.
-   This business is structurally capped below 15%.
+**Three hard constraints:**
+
+1. **The dividend is being competed away, possibly faster than it can be banked.** Secondary fit-out's
+   own margin fell from 14.43% to 13.01% in half a year (−1.42pp), **a bigger fall than the primary
+   side's −0.96pp**. Lifting its revenue share from 20.59% to 50% takes one to two years; **if it
+   loses a point a year in the meantime, the destination is not 11.55% but lower.**
+2. **The ceiling is unchanged and now lower.** Even at 100% secondary fit-out, 1H26's actual margin
+   implies **13.01%** (14.43% on 2025's). **This business is capped at 13%–14%, not 15%.**
 3. **Secondary fit-out execution is gated by the owner's tool deliveries.** The company says so
    plainly: its execution cycle "may be extended by the phased arrival of the owner's process
    tools". **Half the backlog now sits in a business whose delivery pace Baicheng does not control**
    — the biggest uncertainty for 2H26 revenue recognition and the mechanism by which contract assets
-   keep swelling.
+   keep swelling. The notes put the whole ¥5,629m into a **12–24 month** recognition window.
 
 **Ask:**
-- **What was the secondary fit-out gross margin in 1H26?** If it has fallen from 14.43%, the mix
-  dividend is being competed away before it is banked.
-- How much of the secondary fit-out backlog converts in 2H26, 1H27 and 2H27 respectively?
-- Overseas backlog is only ¥351m (6.23%), yet 1H26 overseas signings were ¥367m and overseas revenue
-  *fell*. **Is the overseas push a growth curve or still an experiment below scale?**
+- **Why did the secondary fit-out margin fall from 14.43% to 13.01% — lower bid pricing on new
+  orders, or higher execution cost?** That is the only way in to whether the dividend lands.
+- How much of the secondary fit-out backlog converts in 2H26, 1H27 and 2H27 respectively? The company
+  has given only the aggregate "12–24 months".
+- **What happened to the overseas margin, down 3.77pp from 15.07% to 11.30%?** Project mix, currency,
+  or has South-East Asian competition caught up? Overseas backlog is only ¥351m (6.23%), 1H26
+  overseas signings were ¥367m and overseas revenue *fell*. **Is the overseas push a growth curve, or
+  an experiment below scale whose premium is disappearing?**
 
 ### Q4. Contract assets are 46.7% of total assets and cash fell ¥631m in six months — whose money funds this growth?
 
@@ -235,6 +288,29 @@ fell 35.92% year on year, and the company's own explanation is that **"fewer lon
 were recovered in the period"** — **the lower charge is not better collection; it is less
 collection.**
 
+**The collection side is blunter still: cash received from sales of goods and services was ¥1,482m
+in the half, down 3.8% year on year — while revenue rose 9.40%. The cash conversion ratio fell from
+63.6% to 55.9%.** Put plainly: **every ¥1 of revenue brought in ¥0.56 of cash.** Operating
+receivables absorbed ¥976m in the half (¥817m a year earlier), which is the entire explanation for
+the −¥606m operating cash flow.
+
+**The ageing tables show this accumulating rather than arriving:**
+
+| 30 June 2026 | Under 1 year | Over 1 year | % over 1 year |
+|---|---|---|---|
+| Receivables (gross ¥661m, 14.11% provisioned) | ¥426m | **¥225m** | **34.1%** |
+| Contract assets from completed projects (gross ¥904m, 10.48% provisioned) | ¥423m | **¥481m** | **53.2%** |
+| **Total over one year** | | **¥707m** | **= 8.2x first-half net profit** |
+
+Of the completed-project contract assets, ¥379m is aged 1–2 years and ¥84m 2–3 years. Separately,
+three **photovoltaic** customers (Jiangsu Runyang, Changzhou Suntech, Changzhou Shunfeng) totalling
+¥9.91m are provisioned 100% as "not expected to be recovered" — **the last solar shakeout has already
+cost real money here; not much, but it shows the downstream risk is real.**
+
+**And one off-balance-sheet exposure: outstanding bank guarantees not yet expired stood at ¥1,087m at
+30 June.** Performance bonds consume banking lines, and backlog up 222% means bond requirements rise
+with it — **that is the other half of the sentence "zero interest-bearing debt".**
+
 On cash: ¥631m consumed in six months, ¥1,529m left, no debt. At that pace, own cash funds **a
 little over a year** of this growth. That is the economic case for the ¥1.2bn placement — **and in
 the interim report, the placement has vanished.**
@@ -253,8 +329,12 @@ centre" project was pushed in February 2026 from April 2026 to **April 2028**, a
 - **How much working capital does each ¥100m of orders absorb?** ¥5,833m signed and ¥606m of
   operating outflow in the half implies about 10%. Converting the ¥5,629m backlog on the same ratio
   needs **another ¥500–600m of net funding.**
-- The project list and owner acceptance dates behind the **¥1,077m of completed-but-unsettled
-  contract assets**, and how much is aged over one year.
+- **Which projects sit behind the ¥379m of completed-but-unsettled contract assets aged 1–2 years,
+  and where is owner acceptance stuck?** (The ageing itself is now disclosed: 53.2% over one year.)
+- **Is the fall in cash conversion from 63.6% to 55.9% a few delayed settlements, or are the new
+  large orders written on systematically worse payment terms?**
+- **How much banking credit do the ¥1,087m of outstanding guarantees consume, and does the line
+  become a constraint on taking further orders now that backlog has more than doubled?**
 - Guarantees to subsidiaries include **¥152.57m to entities geared above 70%** (against a ¥1.4bn
   authorisation). What is the financial condition of those subsidiaries?
 
@@ -279,6 +359,10 @@ contract assets combined) are peers using it as a subcontractor.**
 
 That explains why the gross margin has been locked at 10%–12%: **on those projects Baicheng is not
 negotiating with the owner but with the main contractor, one layer further down the value chain.**
+The notes' margin-by-customer-type cut points the same way: **the semiconductor business, 75.98% of
+revenue, earns just 10.05%** — below food and pharma (12.13%), other electronics (16.57%) and life
+science (35.83%). **The largest and most fashionable part of the business is the part with the least
+pricing power.**
 Both also carry higher provisioning rates (7.4% and 12.8%) than CRRC (5.1%) — **general contractors
 settle more slowly than owners do.**
 
@@ -365,18 +449,28 @@ is mostly utility models (97 utility, 3 invention). **For a company priced as a 
 that R&D intensity needs an explanation.** Electing Li Qixiong as a director to "strengthen the
 modular strategic business" suggests the company knows this curve needs help.
 
-**Q12 — Source quality and remaining gaps.** **Parts 1–4 of the 1H26 interim report (pages 1–184 of
-230) have now been obtained in full**; part 5 (the tail of the financial statement notes) has not.
-**All 1H26 data in this memo comes from the report itself.** Three prior judgements based on
-second-hand summaries are now corrected or confirmed:
+**Q12 — Source quality and remaining gaps.** **The complete 1H26 interim report (all 230 pages, in
+five parts) has now been obtained. All 1H26 data in this memo comes from the report itself.** Four
+prior judgements based on second-hand summaries are now corrected or confirmed:
 1. "End-2025 backlog: domestic ¥210m / overseas ¥2,230m" — **confirmed to have been printed the wrong
    way round**. On the interim's basis, domestic is 93.77% and overseas 6.23%.
 2. "1Q26 operating cash flow −¥800m" — the half-year figure is −¥606m, which is compatible (Q2 was a
    c.¥190m inflow), **but the quarterly figure remains second-hand and unconfirmed.**
 3. "2025 incentive targets missed" — **now confirmed by the interim**, with people and share counts.
-   Still not obtained: **gross margin by business (secondary fit-out vs primary), top-five customer
-   revenue concentration and the identity of "Customer 2" and "Customer 3", the status of the ¥1.2bn
-   placement, the year-by-year conversion schedule of the backlog, and bid margins on 1H26 orders.**
+4. The previous version inferred from 2025 sub-margins that "project pricing has deteriorated by about
+   one point" — **the notes confirm it, and worse**: primary side −0.96pp, secondary fit-out −1.42pp,
+   overseas −3.77pp.
+   Still not obtained: **top-five customer revenue concentration and the identity of "Customer 2" and
+   "Customer 3" (the notes disclose only by debtor, with the second and third anonymised), the status
+   of the ¥1.2bn placement, the year-by-year conversion schedule of the backlog (only "12–24 months"
+   in aggregate), bid margins on 1H26 orders, and headcount.**
+
+**Three things the interim clarified that point the other way, and should be recorded:** (a)
+**related-party dealings are de minimis** — ¥85,484 of materials and repair services bought from Wuxi
+Feilin Electrical in the half against a ¥2m authorisation, with ¥70,085 payable at period end, so
+**there is no channel through which profit leaks to the controlling family**; (b) key management
+remuneration was ¥3.63m, down 10.9% year on year; (c) share-based payment expense was ¥2.17m (¥7.83m
+a year earlier), and the supervisory board was abolished on 19 June 2025 under the new Company Law.
 
 ---
 
@@ -386,9 +480,14 @@ second-hand summaries are now corrected or confirmed:
    revenue; Q3 must answer whether that conversion carries profit. Three numbers: **quarterly gross
    margin back above 11%**, quarterly net margin, and whether operating cash outflow narrows. **If Q3
    revenue grows strongly again with gross margin stuck around 10%, the 2024 script is confirmed.**
-2. **Contract assets, level and composition.** +41.37% to ¥2,751m in the half. **If they keep growing
-   far faster than revenue into Q3 — particularly if the completed-but-unsettled portion passes
-   ¥1.2bn — the cash quality of this growth has already broken.**
+   Note that quarterly reports carry no margin-by-business disclosure, so **the blended margin is the
+   only proxy available — and a rising secondary fit-out share flatters it automatically, which means
+   "blended margin flat" actually reads as "margins by business still falling".**
+2. **Contract assets, level and composition — and the cash conversion ratio.** Contract assets +41.37%
+   to ¥2,751m while cash received from sales fell 3.8% and the conversion ratio dropped to 55.9%.
+   **That ratio is the most sensitive single indicator: below 60% again in Q3 means the new large
+   orders carry systematically worse payment terms; a completed-but-unsettled balance above ¥1.2bn,
+   or over-one-year ageing above 55%, means the cash quality has already broken.**
 3. **Full-year signings and the monthly pace.** Known: c.¥1,110m/month (Jan–Apr), c.¥730m (May–Jun),
    c.¥565m (1 Jul–25 Aug). **¥8–9bn for the year is healthy; a Q4 pace below ¥500m/month would make
    2026 a one-off pulse.**
@@ -402,9 +501,10 @@ second-hand summaries are now corrected or confirmed:
 6. **Execution of Wuxi Rongji's sale plan (28 July–27 October)** and the first post-unlock move by
    Baiying Baicheng or Guo Jianting. None of the three had sold or pledged as at 30 June — **whether
    that holds through a second post-unlock quarter is a clean signal.**
-7. **Secondary fit-out revenue share and its gross margin.** 50.51% of backlog and 84.58% of the July–
-   August signings, against 20.59% of first-half revenue. **The speed at which that share rises is the
-   speed at which the margin improvement lands.**
+7. **Secondary fit-out revenue share and its gross margin (verifiable only in the annual report).**
+   50.51% of backlog and 84.58% of July–August signings, against 20.59% of first-half revenue. **The
+   speed at which the share rises decides how fast the dividend lands, but its own margin has already
+   fallen from 14.43% to 13.01% — the race between those two lines is the 2027 blended margin.**
 8. **The loss trajectory at Baixin Zhizao and Qiyi.** Together already 19% of first-half profit and
    widening. The company says modular capacity is "not yet released" — ask for the output scale and
    date at which it breaks even.
@@ -428,14 +528,22 @@ restricted shares by the book — **that constraint is real**. The customer list
 hynix, SMIC, Hua Hong, CXMT and YMTC through to BOE, WuXi Biologics and AstraZeneca, is thirty years
 of accumulation, not packaging.
 
-**On the stock, Q2 delivered the key piece of counter-evidence.** In the same quarter revenue grew
-29.2%, the gross margin fell from 11.94% to about 10.14% and the net margin to 3.06% — **a replica of
-2024's "revenue +31.8%, profit −0.8%, gross margin 10.00%", with this ramp only beginning.** The
-first-half blended gross margin of 10.72% is a full point below the 11.75% implied by applying 2025's
-sub-margins to the first-half revenue mix, **which says project-level pricing and execution are
-deteriorating and eating the mix dividend.** Meanwhile contract assets swelled 4.4x faster than
-revenue to ¥2,751m (receivables plus contract assets are 56.33% of total assets), cash fell ¥631m in
-six months, and annualised ROE is below 6%.
+**On the stock, Q2 delivered the key piece of counter-evidence and the notes nailed it down.** In the
+same quarter revenue grew 29.2%, the gross margin fell from 11.94% to about 10.14% and the net margin
+to 3.06% — **a replica of 2024's "revenue +31.8%, profit −0.8%, gross margin 10.00%", with this ramp
+only beginning.** The previous version could only infer from the blend that "pricing deteriorated by
+about a point"; **the notes confirm it and worse: primary side 11.05% → 10.09%, secondary fit-out
+14.43% → 13.01%, overseas 15.07% → 11.30% — all three down, with the high-margin line falling
+furthest.** So the blended margin managed +0.58pp year on year **purely because secondary fit-out grew
+as a share of revenue, while every individual business got worse.** More pointed still: **the
+semiconductor business, 75.98% of revenue, earns 10.05%** — the part the market prices on
+semiconductor logic has the least pricing power in the company.
+
+Meanwhile contract assets swelled 4.4x faster than revenue to ¥2,751m (receivables plus contract
+assets are 56.33% of total assets), **cash received from sales fell 3.8% and the conversion ratio
+dropped from 63.6% to 55.9%**, **receivables and completed-project contract assets aged over one year
+total ¥707m, 8.2x first-half profit**, cash fell ¥631m in six months, ¥1,087m of guarantees sit
+outstanding, and annualised ROE is below 6%.
 
 **And the simplest arithmetic is the hardest to argue with: ¥86m earned in the first half against a
 ¥371m consensus requires ¥285m in the second — 3.31x the first half, where the last two years
@@ -450,19 +558,27 @@ revenue growth without profit growth; the ¥1.2bn placement has disappeared from
 remaining ¥135m of over-raised IPO money went into the same project category; the IPO R&D centre
 slipped to 2028; and R&D is 0.13% of revenue.
 
-The honest formulation: **a real industry upcycle, a real all-time-high backlog, a real revenue
-conversion — and a market pricing a 10%-gross-margin contractor like a technology manufacturer.**
-What would flip the conclusion is narrower and more specific than before: **a Q3 gross margin back
-above 11% (ideally 12%) with revenue still growing and contract assets growing more slowly than
-revenue.** Those three together would show the secondary fit-out dividend genuinely outweighing the
-price given away at tender. **As long as Q3 gross margin stays near 10%, a larger backlog makes the
-next two years' margins worse, not better — because the volume is itself the reason for the
-discount.**
+**The bull case now reduces to one line, and it can be computed.** Secondary fit-out is 50.51% of
+backlog and 84.58% of July–August signings. If that converts as disclosed, on 1H26's actual
+sub-margins the blended gross margin trends to about **11.55%**; on 2025's sub-margins, 12.74%.
+**That 0.8–2 points is the entire upside in this investment — conditional on secondary fit-out's own
+margin not falling further, and it has just fallen 1.42 points.**
 
-**One next step: wait for the third quarter, and before then get two numbers out of the company — the
-first-half gross margin split between secondary fit-out and primary systems, and the exact status of
-the ¥1.2bn placement.** Until those two are in hand, this valuation is buying a conversion-rate
-assumption that was tested once in 2024 and re-tested in Q2 2026, both times with the same answer.
+The honest formulation: **a real industry upcycle, a real all-time-high backlog, a real revenue
+conversion, a real but eroding mix dividend — and a market pricing a 10%-gross-margin contractor like
+a technology manufacturer.** What would flip the conclusion is narrower and more specific than before:
+**a Q3 gross margin back above 11% (ideally 12%), with revenue still growing, the cash conversion
+ratio back above 60% and contract assets growing more slowly than revenue.** Those together would show
+the secondary fit-out dividend genuinely outweighing the price given away at tender. **As long as Q3
+gross margin stays near 10%, a larger backlog makes the next two years' margins worse, not better —
+because the volume is itself the reason for the discount, and that is now demonstrated by margin data
+rather than inferred.**
+
+**One next step: wait for the third quarter.** Of the two numbers the previous version demanded,
+**the margin split has now been supplied by the notes, and the answer is negative**; what remains is
+**the exact status of the ¥1.2bn placement** and **why the secondary fit-out margin fell**. Until
+then, this valuation is buying a conversion-rate assumption that was tested in 2024, re-tested in
+Q2 2026, and has now been confirmed line by line by margin-by-business disclosure.
 
 ---
 
@@ -470,11 +586,13 @@ assumption that was tested once in 2024 and re-tested in Q2 2026, both times wit
 
 **Primary (obtained in full for this revision)**
 
-- **Baicheng System Technology Co., Ltd., 2026 Interim Report (disclosed 25 August 2026), pages 1–184
-  of 230, supplied by the user as PDFs.** All 1H26 financials, backlog and order figures, share
-  capital and shareholder data, incentive-plan assessment results, top-five debtors and use of
-  proceeds in this memo are taken directly from that report. Pages 185–230 (the tail of the financial
-  statement notes) have not been obtained.
+- **Baicheng System Technology Co., Ltd., 2026 Interim Report (disclosed 25 August 2026), the
+  complete 230 pages, supplied by the user as five PDFs.** Every 1H26 figure in this memo — the
+  financial statements, backlog and orders, **revenue and cost by product type, region and customer
+  type (i.e. gross margin by business)**, the remaining-performance-obligation window, **the ageing of
+  receivables and contract assets**, top-five debtors, cash flow statement lines, related-party
+  dealings, outstanding guarantees, share capital and shareholders, incentive-plan assessment results
+  and use of proceeds — is taken directly from that report.
 
 *Apart from the interim report, cninfo, the SSE, Sina Finance, Eastmoney, CFi, 10jqka, Securities
 Times, Stockstar, Xueqiu and Tencent News are **all blocked by the network egress proxy** in this
