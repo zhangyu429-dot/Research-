@@ -6,10 +6,13 @@ Equity research memos. One directory per company: `research/<code>-<pinyin-name>
 |---|---|---|
 | 洁美科技 Jiemei | 002859.SZ | [EN](research/002859-jiemei/key-questions.md) · [中文](research/002859-jiemei/key-questions.zh.md) · [PDF](research/002859-jiemei/key-questions.zh.pdf) |
 | 金海通 Jinhaitong | 603061.SH | [EN](research/603061-jinhaitong/key-questions.md) · [中文](research/603061-jinhaitong/key-questions.zh.md) · [PDF](research/603061-jinhaitong/key-questions.zh.pdf) |
+| 登康口腔 Dengkang | 001328.SZ | [EN](research/001328-dengkang/key-questions.md) · [中文](research/001328-dengkang/key-questions.zh.md) · [PDF](research/001328-dengkang/key-questions.zh.pdf) |
 
 Management interview question lists:
 [洁美科技 · 10个关键问题](research/002859-jiemei/management-questions.zh.md) ·
-[金海通 · 10个关键问题](research/603061-jinhaitong/management-questions.zh.md)
+[金海通 · 10个关键问题](research/603061-jinhaitong/management-questions.zh.md) ·
+[登康口腔 · 10个关键问题](research/001328-dengkang/management-questions.zh.md)
+([PDF](research/001328-dengkang/management-questions.zh.pdf))
 
 Industry deep dives:
 [MLCC电子薄膜：技术、市场与洁美科技的竞争位置](research/002859-jiemei/mlcc-film-deepdive.zh.md)
