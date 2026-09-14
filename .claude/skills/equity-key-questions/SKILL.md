@@ -17,6 +17,17 @@ git history carries the revisions.
 
 Commit and push to the session's designated branch. Do not open a PR unless asked.
 
+**Non-China listings.** The format carries over unchanged; three things adapt. The
+directory is `research/<exchange-code>-<name>/` (e.g. `research/532830-astral/` for an
+Indian listing, using the BSE scrip code). The title line drops the Chinese name and
+leads with the local and Bloomberg tickers. And the announcement-sweep keyword list
+below is Chinese-specific — translate it to the local filing vocabulary before
+sweeping (for India: scheme of arrangement, demerger, amalgamation, preferential
+issue / QIP, acquisition, related party transaction, ESOP, pledge, promoter
+buy/sell disclosure, exchange clarification). **Do not skip the sweep because the
+keywords do not transfer** — on Astral it was the sweep, not any thesis query, that
+surfaced a board-approved demerger of 21% of turnover.
+
 **Language.** Default to English at `key-questions.md`. When the user asks for Chinese
 deliverables, write `key-questions.zh.md` alongside it. Write native Chinese research prose,
 not a translation — use the conventional register and terms (营业收入, 归母净利润, 毛利率,

@@ -2,7 +2,9 @@
 """Render a markdown research memo to a print-ready PDF.
 
 Tuned for Chinese-language documents: CJK font stack, generous leading, and
-table/blockquote handling that survives page breaks.
+table/blockquote handling that survives page breaks. A memo containing no CJK
+characters is detected as English and rendered with a Latin serif stack instead;
+everything else about the layout is shared.
 
     python3 tools/md_to_pdf.py research/603061-jinhaitong/key-questions.zh.md
 
@@ -22,6 +24,11 @@ import markdown
 from playwright.sync_api import sync_playwright
 
 # Prefer Noto if the image has it, fall back to WenQuanYi, then anything CJK.
+LATIN_STACK = (
+    '"Charter", "Bitstream Charter", "Source Serif 4", "Source Serif Pro", '
+    '"Georgia", "Liberation Serif", "DejaVu Serif", serif'
+)
+
 CJK_STACK = (
     '"Noto Sans CJK SC", "Noto Sans SC", "Source Han Sans SC", '
     '"WenQuanYi Zen Hei", "Microsoft YaHei", sans-serif'
@@ -120,6 +127,7 @@ FOOTER = """
 # CJK ideographs, CJK punctuation, and fullwidth forms.
 CJK = r"\u4e00-\u9fff\u3400-\u4dbf\u3000-\u303f\uff00-\uffef"
 _WRAPPED_CJK = re.compile(f"(?<=[{CJK}])\n(?=[{CJK}])")
+_HAS_CJK = re.compile(f"[{CJK}]")
 
 
 def unwrap_cjk(md_text: str) -> str:
@@ -137,14 +145,20 @@ def unwrap_cjk(md_text: str) -> str:
 
 
 def build_html(md_text: str, title: str) -> str:
+    is_cjk = _HAS_CJK.search(md_text) is not None
     md_text = unwrap_cjk(md_text)
     body = markdown.markdown(
         md_text,
         extensions=["tables", "fenced_code", "attr_list", "sane_lists", "toc"],
     )
+    # A memo with no CJK in it is an English memo: tag it so hyphenation and font
+    # fallback behave, and put a Latin stack in front of the CJK one. The CJK
+    # fonts stay as fallback so the odd ticker or quoted term still renders.
+    lang = "zh-CN" if is_cjk else "en"
+    extra = "" if is_cjk else f"body {{ font-family: {LATIN_STACK}, {CJK_STACK}; }}"
     return (
-        f'<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">'
-        f"<title>{title}</title><style>{CSS}</style></head><body>{body}</body></html>"
+        f'<!doctype html><html lang="{lang}"><head><meta charset="utf-8">'
+        f"<title>{title}</title><style>{CSS}{extra}</style></head><body>{body}</body></html>"
     )
 
 

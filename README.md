@@ -1,15 +1,17 @@
 # Research
 
-Equity research memos. One directory per company: `research/<code>-<pinyin-name>/`.
+Equity research memos. One directory per company: `research/<code>-<name>/`.
 
 | Company | Code | Memo |
 |---|---|---|
 | 洁美科技 Jiemei | 002859.SZ | [EN](research/002859-jiemei/key-questions.md) · [中文](research/002859-jiemei/key-questions.zh.md) · [PDF](research/002859-jiemei/key-questions.zh.pdf) |
 | 金海通 Jinhaitong | 603061.SH | [EN](research/603061-jinhaitong/key-questions.md) · [中文](research/603061-jinhaitong/key-questions.zh.md) · [PDF](research/603061-jinhaitong/key-questions.zh.pdf) |
+| Astral Ltd | ASTRA IN (NSE: ASTRAL · BSE: 532830) | [EN](research/532830-astral/key-questions.md) · [PDF](research/532830-astral/key-questions.pdf) |
 
 Management interview question lists:
 [洁美科技 · 10个关键问题](research/002859-jiemei/management-questions.zh.md) ·
-[金海通 · 10个关键问题](research/603061-jinhaitong/management-questions.zh.md)
+[金海通 · 10个关键问题](research/603061-jinhaitong/management-questions.zh.md) ·
+[Astral · 10 key questions](research/532830-astral/management-questions.md)
 
 Industry deep dives:
 [MLCC电子薄膜：技术、市场与洁美科技的竞争位置](research/002859-jiemei/mlcc-film-deepdive.zh.md)
@@ -18,7 +20,10 @@ Industry deep dives:
 Earnings models:
 [洁美科技 2026-2028 盈利预测与估值](research/002859-jiemei/forecast-2026-2028.zh.md)
 ([PDF](research/002859-jiemei/forecast-2026-2028.zh.pdf) ·
-[model.py](research/002859-jiemei/model.py) — re-runnable, assumptions in `SCENARIOS`)
+[model.py](research/002859-jiemei/model.py) — re-runnable, assumptions in `SCENARIOS`) ·
+[Astral FY27-FY29 earnings model and valuation](research/532830-astral/forecast-fy27-fy29.md)
+([PDF](research/532830-astral/forecast-fy27-fy29.pdf) ·
+[model.py](research/532830-astral/model.py))
 
 ## House format
 
@@ -57,6 +62,8 @@ python3 tools/md_to_pdf.py research/603061-jinhaitong/key-questions.zh.md
 
 Tuned for Chinese documents: CJK font stack, 1.85 line-height, and it strips the
 source line breaks that markdown would otherwise render as visible gaps mid-sentence.
+A memo with no CJK characters in it is detected as English and rendered with a Latin
+serif stack instead; the layout is otherwise shared.
 Tables and blockquotes are kept off page boundaries; footer carries page numbers.
 
 Requires `pip install markdown playwright` and an existing Chromium (it reads
