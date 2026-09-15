@@ -2,6 +2,16 @@
 
 *Research memo · 14 September 2026 · analysis, not investment advice*
 
+> **Cross-check added 15 September 2026:** a side-by-side against Supreme Industries
+> ([astral-vs-supreme.md](../comparisons/astral-vs-supreme.md)) refines one emphasis below.
+> Supreme's net margin fell from 15.4% (FY21) to **8.1%** over the same window Astral's fell
+> from 12.9% to **8.1%**, and Supreme's EBITDA margin fell *further* than Astral's. Much of the
+> margin decline this memo attributes to capex and diversification is **industry-wide reversion
+> from a FY21 PVC windfall** — both companies are back at their pre-COVID net margins. Astral's
+> capital allocation record still stands as written; the margin trend is less Astral-specific
+> than Section 0 implies. Note also that the share price below is 7 September; Astral traded at
+> **₹1,411.40 on 13 September** (market cap ₹37,917cr, **70.9x** FY26 earnings).
+
 ---
 
 ## 0. What you are actually buying

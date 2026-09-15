@@ -13,6 +13,10 @@ Management interview question lists:
 [金海通 · 10个关键问题](research/603061-jinhaitong/management-questions.zh.md) ·
 [Astral · 10 key questions](research/532830-astral/management-questions.md)
 
+Head-to-head comparisons:
+[Astral vs Supreme Industries — better business, better investment?](research/comparisons/astral-vs-supreme.md)
+([PDF](research/comparisons/astral-vs-supreme.pdf))
+
 Industry deep dives:
 [MLCC电子薄膜：技术、市场与洁美科技的竞争位置](research/002859-jiemei/mlcc-film-deepdive.zh.md)
 ([PDF](research/002859-jiemei/mlcc-film-deepdive.zh.pdf))
