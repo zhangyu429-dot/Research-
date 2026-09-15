@@ -4,6 +4,12 @@
 
 *Companion to [Astral · key questions](../532830-astral/key-questions.md)*
 
+> **Updated 15 September 2026.** The first version of this memo described Astral's chemicals
+> demerger as live. **It was withdrawn on 29 July 2026** — see §5.3, which is now void, and §3.
+> The correction **strengthens** this memo's conclusion: the demerger was the single best
+> argument for Astral over Supreme, and it no longer exists. No valuation figure changes; the
+> withdrawal predates every price and estimate used here.
+
 ---
 
 ## 0. The answer, up front
@@ -19,7 +25,7 @@ But Astral converts that better product economics into **worse returns on capita
 ~19.9–20.6%, ROE 14.0%) than Supreme does with its inferior margins (ROCE 23.7%, RoNW 15.5%),
 because Supreme allocates capital with a stated 25% RoCE hurdle and pays out half its earnings,
 while Astral spent ₹1,400cr over four years to grow revenue 49.5% and profit 9.1%, and is now
-demerging the result.
+demerging the result — a demerger it then withdrew five weeks after approving it.
 
 On the stock, the gap is wider still:
 
@@ -39,6 +45,12 @@ four times as much, earns a higher return on capital, and has more expected upsi
 street's own numbers.** Astral would have to be a much better business than Supreme to justify
 that, and on returns on capital — the measure that actually matters — it is not.
 
+**Astral had one offsetting argument and it has been withdrawn.** Until 29 July 2026 it carried a
+dated catalyst — a chemicals demerger that would have forced the market to price its two halves
+separately — and that was the strongest case for owning it over Supreme. The board cancelled the
+scheme on the recommendation of a Big Four firm, concluding the chemicals arm cannot stand alone.
+**The valuation tension survives; the event that would have resolved it does not.**
+
 **The single most useful thing this comparison establishes, though, is that these are not two
 investments. They are one.**
 
@@ -47,11 +59,14 @@ investments. They are one.**
 ## 1. What each company actually is
 
 **Astral** is a premium plumbing brand (₹6,569cr FY26 revenue, ~270,000 MT) with a bolted-on
-chemicals arm it is in the process of demerging. Plumbing is 71% of revenue and ~86% of EBITDA;
+chemicals arm it tried and failed to demerge. Plumbing is 71% of revenue and ~86% of EBITDA;
 paints and adhesives are 29% of revenue and ~14% of EBITDA. It holds 25–30% of the Indian CPVC
 market (some sources say ~50%), ~5% of PVC, and sells through 3,610+ distributors and ~251,000
 dealers. On 25 June 2026 the board approved demerging the chemicals business into a separately
-listed **Astral Chemie** on a 1:1 entitlement.
+listed **Astral Chemie** on a 1:1 entitlement; on **29 July 2026 it withdrew the scheme**, after
+a Big Four review concluded the chemicals business **"lacks the necessary scale and financial
+strength to support organic and inorganic growth as a standalone entity."** The chemicals arm
+therefore stays inside, funded by plumbing, indefinitely.
 
 **Supreme** is India's largest plastics processor (₹11,218cr FY26 revenue, **753,907 MT** — 2.8x
 Astral's tonnage) across four segments, plus a 30.78% stake in the listed styrenics maker
@@ -149,14 +164,15 @@ position, held twice.**
 3. **Capital allocation record.** Astral: six transactions in two years, an entry into
    decorative paints in 2024 — the same year Birla Opus launched with >₹10,000cr of capacity —
    with 36,000 TPA, reaching breakeven at a 0.1% margin only in Q1 FY27, followed by a decision
-   to demerge the whole chemicals arm. Supreme: one bolt-on (Wavin India's pipes division,
+   to demerge the whole chemicals arm — then to cancel that demerger five weeks later, on an
+   external adviser's finding that the arm could not stand alone. Supreme: one bolt-on (Wavin India's pipes division,
    effective 1 August 2025) squarely inside its existing business.
 4. **It returns the cash.** ₹36/share for FY26 (₹11 interim + ₹25 final), ~₹457cr, **~50%
    payout, 1.03% yield.** Astral pays ~₹4/share, ~20% payout, 0.28% yield — retaining cash to
    fund the ventures that have not yet returned. Given the two capital allocation records, the
    payout policies are precisely backwards from what you would want.
-5. **End-market diversification.** Four segments plus an associate. Astral post-demerger is a
-   single-category pipes company. Supreme's agri exposure cuts both ways — it caused the Q1 FY27
+5. **End-market diversification.** Four segments plus an associate. Astral is a pipes company
+   carrying a sub-scale chemicals arm its own board has declared non-viable alone. Supreme's agri exposure cuts both ways — it caused the Q1 FY27
    volume drop — but packaging, industrial and consumer are genuinely different cycles.
 
 **Verdict on business quality: Supreme, on capital allocation and returns, despite Astral owning
@@ -221,12 +237,22 @@ advocacy, not analysis.
    consolidated profit comes from a **30.78% associate stake in a commodity styrenics business
    Supreme does not control** — Supreme Petrochem, whose FY26 profit fell. Strip it out and
    Supreme trades at 48.9x standalone, narrowing the gap to Astral's 70.9x. It does not close it.
-3. **Astral has the event.** The demerger is a dated, mechanical catalyst within ~12 months. If
-   the scheme document reveals Astral Chemie is materially larger and better than the ₹1,266cr /
-   ~8% margin version — particularly if the UK adhesives business travels with it — the sum of
-   the parts can exceed what a consolidated 71x multiple implies. Supreme has no comparable
-   re-rating trigger. **This is the single strongest argument for Astral**, and it is a bet on a
-   document nobody outside the company has read.
+3. ~~**Astral has the event.**~~ **VOID — and its removal is the largest single change to this
+   comparison.** This memo originally argued that Astral's demerger was a dated, mechanical
+   catalyst within ~12 months, and called it "the single strongest argument for Astral." **The
+   board withdrew the scheme on 29 July 2026.** There is now no scheduled event that forces the
+   market to price Astral's two halves separately, and the disclosure that would have settled it
+   — the scheme document — will never be filed. Worse, the withdrawal *answered* the question in
+   the unfavourable direction: a Big Four firm with 30 days and the audited numbers recommended
+   against, and the board agreed the chemicals arm cannot fund its own growth. **The one overhang
+   genuinely removed is the passive selling a spin-off listing would have forced — a one-off
+   technical, worth much less than the structural cost.** Supreme, which never had a comparable
+   catalyst, loses nothing by comparison.
+   *(Original text, for the record: "If the scheme document reveals Astral Chemie is materially
+   larger and better than the ₹1,266cr / ~8% margin version — particularly if the UK adhesives
+   business travels with it — the sum of the parts can exceed what a consolidated 71x multiple
+   implies. Supreme has no comparable re-rating trigger. This is the single strongest argument
+   for Astral, and it is a bet on a document nobody outside the company has read.")*
 4. **Astral's franchise is the better one to own for a decade.** If you genuinely believe Indian
    plumbing premiumises — CPVC share rising, brand mattering more, agri pipes commoditising
    further — then Astral's 19.5% plumbing margin compounds better than Supreme's 8% piping EBIT,
@@ -240,12 +266,13 @@ advocacy, not analysis.
 
 ## 6. What would change the answer
 
-**Switch toward Astral if:** the scheme document shows Astral Chemie carrying the UK business and
-a funded balance sheet at meaningfully better than ~8% margins; **and** Astral posts two
-consecutive quarters of double-digit plumbing volume with segment margin at or above 19% while
-PVC is flat; **and** the captive CPVC plant commissions on the December 2026 / Q4 FY27 schedule
-with the +200bps visible. Any one of those alone is already inside consensus; all three together
-would make the 71x defensible.
+**Switch toward Astral if:** it posts two consecutive quarters of double-digit plumbing volume
+with segment margin at or above 19% while PVC is flat; **and** the captive CPVC plant commissions
+on the December 2026 / Q4 FY27 schedule with the +200bps visible; **and** management voluntarily
+discloses segment PAT and capital employed showing the chemicals arm is better than its ~8%
+headline. Each is already inside consensus separately, so all three must land — and the third now
+requires management to choose to disclose, since **the scheme document that would have forced it
+will never be filed.**
 
 **Switch further toward Supreme if:** agri volumes recover from mid-September as management
 expects and Q2 FY27 piping volume turns positive; **and** the pending PVC anti-dumping duty lands,

@@ -2,15 +2,26 @@
 
 *Research memo · 14 September 2026 · analysis, not investment advice*
 
-> **Cross-check added 15 September 2026:** a side-by-side against Supreme Industries
-> ([astral-vs-supreme.md](../comparisons/astral-vs-supreme.md)) refines one emphasis below.
-> Supreme's net margin fell from 15.4% (FY21) to **8.1%** over the same window Astral's fell
-> from 12.9% to **8.1%**, and Supreme's EBITDA margin fell *further* than Astral's. Much of the
-> margin decline this memo attributes to capex and diversification is **industry-wide reversion
-> from a FY21 PVC windfall** — both companies are back at their pre-COVID net margins. Astral's
-> capital allocation record still stands as written; the margin trend is less Astral-specific
-> than Section 0 implies. Note also that the share price below is 7 September; Astral traded at
-> **₹1,411.40 on 13 September** (market cap ₹37,917cr, **70.9x** FY26 earnings).
+> **Corrected 15 September 2026 — two changes, the first material.**
+>
+> **1. The demerger was withdrawn on 29 July 2026, six weeks before this memo was written.**
+> The first version of this memo described the composite scheme as live and pending NCLT. It was
+> not. The board approved it on 25 June, appointed a Big Four firm on 5 July for a 30-day
+> independent review after stakeholder pushback, and **withdrew the scheme entirely on 29 July**,
+> Al-Aziz amalgamation included. **This was a research failure on my part** — the announcement
+> sweep caught the approval and never verified the action was still live as at the memo date.
+> Sections 0, 1, 2, 3 and 4 below are rewritten accordingly. The valuation conclusions are
+> unaffected: the withdrawal predates every price and estimate used here.
+>
+> **2. A cross-check against Supreme Industries** ([astral-vs-supreme.md](../comparisons/astral-vs-supreme.md))
+> refines one emphasis. Supreme's net margin fell from 15.4% (FY21) to **8.1%** over the same
+> window Astral's fell from 12.9% to **8.1%**, and Supreme's EBITDA margin fell *further*. Much
+> of the margin decline this memo attributes to capex and diversification is **industry-wide
+> reversion from a FY21 PVC windfall**. Astral's capital allocation record stands as written;
+> the margin trend is less Astral-specific than Section 0 implies.
+>
+> Prices below are 7 September. Astral traded at **₹1,411.40 on 13 September** (market cap
+> ₹37,917cr, **70.9x** FY26 earnings).
 
 ---
 
@@ -24,17 +35,20 @@ network (3,610+ distributors, ~251,000 dealers) that is the real moat. Bolted on
 (India and UK), paints, bathware and water tanks — 29% of revenue at roughly 8% EBITDA margin,
 with paints only reaching breakeven in the June 2026 quarter after two years of losses. On
 **25 June 2026 the board approved a composite scheme** to demerge the chemicals business into
-a separately listed **Astral Chemie Limited** on a **1:1 entitlement**, and to amalgamate
-Al-Aziz Plastics into Astral. **The stock fell 9–11% on the news.** Any view on this security
-is therefore two views: what a pure-play pipes company is worth, and what a sub-scale
-paints-and-adhesives company is worth — because within roughly twelve months the market will
-price them separately instead of applying one blended multiple to both.
+a separately listed **Astral Chemie Limited** on a **1:1 entitlement** — and **on 29 July 2026,
+five weeks later, withdrew it**, on the recommendation of a Big Four firm it had appointed on
+5 July to review the plan. The board's stated reason is the most important sentence anyone at
+Astral has said this year: **the chemicals business "lacks the necessary scale and financial
+strength to support organic and inorganic growth as a standalone entity."** So the chemicals
+arm stays inside, indefinitely, and any view on this security is a view on one blended company
+in which a ~19.5%-margin plumbing division permanently subsidises a ~8%-margin chemicals
+division that its own board has just declared not viable alone.
 
 | Segment (consolidated) | FY26 revenue | YoY | What it is |
 |---|---|---|---|
 | **Plumbing** (pipes, fittings, water tanks, bathware, valves) | **~₹4,679cr (71.2%)** *(derived)* | +11.5% | ~25–30% share of CPVC (some sources say ~50%); ~5% of PVC. FY26 volume +16%; Q4 FY26 volume +24.2% to 84,041 MT |
 | **Paints & Adhesives** | **₹1,890cr (28.8%)** | **+15.5%** | Adhesives India (the profitable part), Adhesives UK (Seal IT / Silicone Engineering), Paints (36,000 TPA), construction chemicals |
-| — of which *the demerged "Chemicals Business Undertaking"* | **₹1,266.3cr** | n/a | **21% of *standalone* turnover.** Note this is ~₹620cr *less* than the consolidated segment — see Q1 |
+| — of which *the "Chemicals Business Undertaking"* once proposed for demerger | **₹1,266.3cr** | n/a | **21% of *standalone* turnover.** The board withdrew the demerger on 29 July 2026 — see Q1 |
 | **Capacity** | 21 units, **5.97 lakh TPA** | | 4.2 lakh TPA pipes/tanks/bathware · 1.4 lakh TPA adhesives · 36,000 TPA paints |
 
 **Trailing financials — through the last cycle peak**
@@ -71,11 +85,11 @@ CFO **Hiranand Savlani** was elevated to the board. Succession runs through fami
 **December 2023 two promoter entities (Kairav Chemicals, Saumya Polymers LLP) sold 1.74% for
 ₹885cr** in the open market.
 
-**Pending:** the composite scheme (demerger + Al-Aziz amalgamation) still needs **NCLT
-Ahmedabad, SEBI, NSE, BSE, shareholders and creditors**. Management indicates ~12 months,
-completion **by end-FY27**. Separately, a **40,000 MT captive CPVC resin plant** (Nexelon Chem,
-80% acquired for ₹120cr of a ₹150cr project) has slipped from "Q2 FY27" to **trials from
-December 2026 and commercial production in Q4 FY27**.
+**Withdrawn:** the composite scheme (demerger + Al-Aziz amalgamation) was **withdrawn on
+29 July 2026** and is deferred indefinitely until the chemicals segment reaches greater scale.
+**Still pending:** a **40,000 MT captive CPVC resin plant** (Nexelon Chem, 80% acquired for
+₹120cr of a ₹150cr project) has slipped from "Q2 FY27" to **trials from December 2026 and
+commercial production in Q4 FY27**.
 
 > **The single fact that frames everything:** EPS was **₹20.33 in FY24, ₹19.50 in FY25 and
 > ₹19.91 in FY26**. Three years, **no earnings growth**, on 16% more revenue. Lengthen the
@@ -84,18 +98,20 @@ December 2026 and commercial production in Q4 FY27**.
 > the lowest in the series** — against ₹1,400cr of capex. And the celebrated Q1 FY27 result,
 > "+51.8%", delivered **₹120.2cr of profit against ₹118.2cr in the same quarter of FY25.**
 > **Two years of zero progress, reported as a 52% jump, because the base was broken.** The
-> stock is at 75x. Management's answer is to split the company in two.
+> stock is at 75x. Management's answer was to split the company in two — and then, five weeks
+> later, not to.
 
 ---
 
 ## 1. The five questions that decide the outcome
 
-### Q1. After the demerger, what multiple does each half deserve — and does the sum still reach ₹40,000cr?
+### Q1. The board declared the chemicals arm unable to stand alone. What is it worth inside?
 
-This outranks everything else because it is **mechanical, dated, and already in motion.** Today
-one blended 75x multiple is applied to a company in which the two halves have completely
-different economics. Within roughly twelve months the market must name two multiples instead of
-one. Run the arithmetic on FY26 actuals:
+This still outranks everything else, but for the opposite reason to the one first written here.
+The demerger is **not** a dated catalyst that forces the market to price the two halves
+separately — it was **withdrawn on 29 July 2026**. What remains is the same valuation tension
+with the forcing event removed: one blended 75x multiple applied, indefinitely, to a company
+whose two halves have completely different economics. Run the arithmetic on FY26 actuals:
 
 | | Revenue (FY26) | Share | EBITDA *(derived)* | Share | Implied PAT *(derived, pro-rata)* |
 |---|---|---|---|---|---|
@@ -107,41 +123,48 @@ one. Run the arithmetic on FY26 actuals:
 the consolidated total exactly; PAT is allocated pro-rata to EBITDA. Both are my derivations,
 not disclosure. The company has never published segment PAT, which is itself the point.*
 
-Now solve for what each half must carry:
+Now solve for what each half must carry inside the blend:
 
-- **If Astral Chemie is valued at 50x its ~₹76cr (≈₹3,800cr), the pipes business alone must be
-  worth ~₹36,300cr — which is 79x its ~₹459cr.** That is *above* today's blended 75x, for the
+- **If the chemicals arm is worth 50x its ~₹76cr (≈₹3,800cr), the pipes business alone must be
+  carrying ~₹36,300cr — which is 79x its ~₹459cr.** That is *above* the blended 75x, for the
   slower-growing, more commoditised half.
-- **If the pipes business gets 45x — roughly where Supreme Industries trades, and generous for a
-  pipe maker — that is ~₹20,700cr, and Astral Chemie would have to be worth ~₹19,400cr: about
-  256x earnings, or 10x sales, on a business running an 8% EBITDA margin.**
+- **If the pipes business is worth 45x — roughly where Supreme Industries trades, and generous
+  for a pipe maker — that is ~₹20,700cr, and the chemicals arm would have to be worth
+  ~₹19,400cr: about 256x earnings, or 10x sales, on a business running an 8% EBITDA margin.**
 
-Neither is comfortable. The honest version of the bull case is that you are not meant to
-capitalise FY26 chemicals earnings at all: management targets **₹2,300–2,400cr of revenue and a
-14–15% EBITDA margin by FY28** for Astral Chemie, scaling to **₹4,500–5,000cr in four to five
-years**. At ₹2,350cr and 14.5% that is ~₹341cr of EBITDA in FY28; at 30x EV/EBITDA, ~₹10,200cr.
-Which still leaves the pipes business needing ~₹29,900cr — **65x its FY26 profit.**
+Neither is comfortable, and **the withdrawal is what makes it matter more, not less.** The
+answer to "is the chemicals arm better than its FY26 numbers look?" arrived on 29 July, from the
+only parties with the audited figures: **a Big Four firm, given 30 days and full access,
+recommended against the demerger, and the board concluded the business "lacks the necessary
+scale and financial strength to support organic and inorganic growth as a standalone entity."**
 
-**And there is a disclosure hole sitting in the middle of this.** The demerged "Chemicals
-Business Undertaking" is stated at **₹1,266.3cr, 21% of *standalone* turnover**. The
-consolidated Paints & Adhesives segment is **₹1,890cr**. The ~₹620cr gap is the UK adhesives
-business (Seal IT / Silicone Engineering — Q1 FY27 revenue ₹121cr, annualising near ₹480cr) plus
-other subsidiaries. **Nobody outside the company currently knows whether the UK business, its
-4.9% EBITDA margin and its turnaround, travels to Astral Chemie or stays with Astral.** That
-single fact changes Astral Chemie's revenue base by roughly 40% and its margin materially.
+That is the bear reading of this memo's Q4, confirmed by the company. The bull case had been
+that you are not meant to capitalise FY26 chemicals earnings at all — management targeted
+**₹2,300–2,400cr of revenue at a 14–15% EBITDA margin by FY28**, scaling to **₹4,500–5,000cr in
+four to five years**. Five weeks after publishing that ambition, the board decided the same
+business could not fund it alone. **You may still believe the FY28 target. You can no longer
+believe it and also believe the board, because they have now told you the two are inconsistent
+without the pipes division's cash behind it.**
+
+So the structure is now permanent rather than transitional: **the plumbing division's cash flow
+subsidises the chemicals arm for the foreseeable future**, and the group ROCE of ~19.9–20.6%
+(against plumbing's own far better economics) is the steady state, not a stage. The Bear case in
+[the model](forecast-fy27-fy29.md) — revenue +22% over three years with profit −1.4%, because
+chemicals grows faster at a third of plumbing's margin — stops being a stress test and becomes
+the base structure.
 
 **Ask:**
-- **The scheme document's Appointed Date, and the audited financials of the demerged
-  undertaking** — revenue, EBITDA, PAT, net assets and capital employed for FY25 and FY26. This
-  is the one disclosure that settles the entire sum-of-the-parts question.
-- **Does the UK adhesives business go with Astral Chemie or stay?** Same question for bathware
-  and water tanks, currently reported inside Plumbing.
-- **What debt, cash and corporate overhead transfer to Astral Chemie?** A newly listed company
-  with paints at breakeven and a growth plan needs funding; if it leaves with no cash it will
-  raise equity, and that dilution is part of what you are buying today.
-- **The residual Astral's own capital allocation policy post-split** — if plumbing was the piggy
-  bank for paints capex and A&P, what happens to that cash now: dividends, buyback, or the next
-  adjacency?
+- **Segment PAT and capital employed for plumbing and chemicals, FY25 and FY26.** The scheme
+  document would have disclosed this and now never will. It is the one number that settles how
+  much the chemicals arm is costing you, and its absence is now indefinite.
+- **What did the Big Four review actually find?** The board published its conclusion, not its
+  reasoning. Ask what scale the chemicals business would need to be viable alone, and by when
+  management expects to reach it — that converts a vague deferral into a testable milestone.
+- **Who were the "stakeholders" whose pushback triggered the 5 July review?** A board that
+  approves a major restructuring and reverses it in five weeks under external pressure is telling
+  you something about how the June decision was made.
+- **Is the demerger genuinely deferred or dead?** And if the chemicals arm is now permanent, what
+  changes about how it is funded, measured and reported — will segment returns be disclosed?
 
 ### Q2. Is the plumbing margin expansion a PVC price cycle or a structural improvement?
 
@@ -223,7 +246,7 @@ volume does, it has recently not been converting into earnings.
   **420,000 TPA** of pipes/tanks/bathware capacity is about **64%**. Confirm the real figure and
   ask what utilisation the FY27 capex of ₹300–350cr is being added into.
 
-### Q4. Did the diversification create value — and is the demerger an admission that it did not?
+### Q4. Did the diversification create value — and what does the failed demerger say about it?
 
 Astral has been a serial acquirer of adjacencies: Resinova and Seal IT (adhesives, 2014), Rex
 Polyextrusion (2018), Gem Paints and Silicone Engineering (2022), the decorative paints launch
@@ -266,8 +289,9 @@ rather than the solvency question, is the one that matters.
 - **Cumulative losses in the paints business since launch**, and the revenue and utilisation at
   which it reaches a double-digit EBITDA margin. Management targets "high single to low double
   digit" by FY28 — what volume does that assume?
-- **Why demerge now, rather than three years ago or three years hence?** The most valuable
-  answer is the honest one: whether this is a focus decision or a funding decision.
+- **Why approve a demerger on 25 June and withdraw it on 29 July?** The board's own answer —
+  the chemicals business lacks the scale and financial strength to stand alone — is a verdict on
+  this question. Ask what changed between the two dates, given the financials did not.
 - **FY27 capex of ₹300–350cr was guided, but Q1 alone spent ₹137cr** (₹87cr plumbing, ₹32cr
   adhesives India, ₹2cr UK, ₹16cr CPVC). Annualised that is ~₹550cr. Which is the real number?
 
@@ -307,12 +331,14 @@ Three checks make this less comfortable rather than more:
 > At the **all-time high of ₹2,454 (2 July 2024)**, the stock was on **~121x** FY24 EPS of
 > ₹20.33. It is now ~75x FY26 EPS of ₹19.91. **The 39% fall from the peak was entirely multiple
 > compression on flat earnings.** Nothing in the record establishes that 75x is the floor rather
-> than a waypoint — and the demerger is precisely the event that forces the market to re-examine
-> the number.
+> than a waypoint — and with the demerger withdrawn, **there is no longer a scheduled event that
+> forces the market to re-examine the number.** The re-rating risk did not go away; the catalyst
+> that would have resolved it did.
 
 **The question is not whether this is a good business — the plumbing franchise plainly is. It is
-whether a company that has delivered 3% profit growth over three years, is about to give away a
-quarter of its revenue, and whose own analysts see 3% upside, should be capitalised at 75x.**
+whether a company that has delivered 3% profit growth over three years, has just abandoned the
+restructuring that was its one re-rating catalyst, and whose own analysts see 3% upside, should
+be capitalised at 75x.**
 
 ---
 
@@ -356,23 +382,32 @@ and the absence of pledging removes a whole category of risk. But **Sandeep Engi
 *and* Managing Director**, his wife **Jagruti** is a Whole-Time Director, his son **Kairav** is a
 Whole-Time Director running pipes, bathware, water tanks and brand, and the **CFO was elevated to
 the board**. Succession is structured through family trusts. There is no mechanism by which
-minority holders influence the decision to enter paints, to buy five companies in two years, or
-to demerge. That is not an allegation of anything — it is a statement that **the entire capital
-allocation record in Q4 is one family's judgement, and you are underwriting the next decade of it
-at 75x.** Ask what the independent directors' process was on the demerger, and who valued the
-demerged undertaking.
+minority holders influence the decision to enter paints, to buy five companies in two years, to
+announce a demerger, or to cancel it. That is not an allegation of anything — it is a statement
+that **the entire capital allocation record in Q4 is one family's judgement, and you are
+underwriting the next decade of it at 75x.**
+
+**The demerger round trip is now the sharpest available test of that judgement, and it does not
+pass cleanly.** The board approved a composite scheme on **25 June**, watched the stock fall
+9–11%, appointed a Big Four firm on **5 July** after stakeholder pushback, and withdrew the
+scheme on **29 July** — five weeks, start to finish, on a restructuring of 21% of the company.
+Two readings, both unflattering: either the June approval was taken without the diligence that
+the July review then supplied, or the reversal was driven by share-price pressure rather than by
+analysis. **Ask what the independent directors' process was in June, what the review found that
+June did not know, and whether any external valuation of the chemicals undertaking was obtained
+before the board voted the first time.**
 
 **Q10 — Share supply: quantifiable, and the informed holders have been sellers.** Three live
 items. (a) In **December 2023 two promoter entities — Kairav Chemicals and Saumya Polymers LLP —
 sold 1.74% of the company for ₹885cr** in the open market, near the top of the de-rating. That is
 not a governance failure, but it is information about what informed holders thought of the price.
 (b) An **ESOP 2025 scheme** exists; its grant volume, exercise price and performance conditions
-could not be obtained and should be. (c) **The demerger itself creates a mechanical seller.**
-Astral sits in index products; **Astral Chemie will list into those portfolios without being in
-any index**, forcing passive and mandate-constrained holders to sell it — the standard
-post-demerger technical overhang, and the reason spin-offs routinely trade poorly for their first
-weeks. If you like Astral Chemie, that flow is an opportunity; if you own Astral for the blend,
-it is a cost.
+could not be obtained and should be. (c) **The one technical overhang in this file has been
+removed.** The withdrawn demerger would have listed Astral Chemie into index portfolios that do
+not hold it, forcing passive and mandate-constrained sellers — the standard post-spin technical
+that makes demerged stubs trade poorly for weeks. That flow will not happen. **This is the single
+clearest positive from the withdrawal, and it is a one-off worth far less than the structural
+cost in Q1.**
 
 **Q11 — Competition is intensifying in all three businesses at once, and the one durable edge has
 a clock on it.** In **pipes**: Supreme Industries is the diversified leader, Finolex leads
@@ -386,14 +421,16 @@ totalling over ₹2,400cr of investment.** Once domestic CPVC resin is abundant,
 becomes "so does everyone, and it is cheaper to buy." **Ask how long management expects the
 captive cost advantage to persist, in years and in ₹/kg.**
 
-**Q12 — Capital return is a rounding error and the demerger does not change that.** Dividend is
-roughly **₹4/share for FY26** (₹2.50 final plus interim) against ₹19.91 of EPS — a **~20% payout**
-and a **0.26% yield**. That is a defensible growth-first policy, and with net cash and 118% cash
-conversion the company can afford both. But it does mean **the entire return case is capital
-appreciation from a 75x starting multiple**, with no yield support on the way. If the residual
-Astral is a cash-generative pipes company with a completed capex cycle and no paints business to
-fund, the payout policy is the clearest signal management can send about what it thinks the
-business now is. **Ask whether the post-demerger dividend or buyback policy has been decided.**
+**Q12 — Capital return is a rounding error, and the withdrawal makes the payout question
+sharper, not softer.** Dividend is roughly **₹4/share for FY26** (₹2.50 final plus interim)
+against ₹19.91 of EPS — a **~20% payout** and a **0.26% yield**. That is a defensible growth-first
+policy, and with net cash and 118% cash conversion the company can afford both. But it means **the
+entire return case is capital appreciation from a 75x starting multiple**, with no yield support
+on the way — and the chemicals arm the board has just declared sub-scale will keep absorbing the
+plumbing division's cash indefinitely rather than being handed to shareholders to fund itself.
+For contrast, Supreme Industries pays out ~50% and yields 1.03% on a higher return on capital.
+**Ask whether the board considered any capital-return alternative — a raised payout or a buyback —
+when it abandoned the restructuring, and what the chemicals arm's call on group cash now is.**
 
 **Q13 — Source quality and disclosure gaps.** Every primary filing route was unreachable from
 this environment (see the Sources preamble), so **everything above is secondary coverage and must
@@ -402,8 +439,9 @@ obtained, each of which is therefore a question:
 
 - **FY26 EBITDA is quoted as both ₹1,062cr (16.2%) and ₹1,109cr (16.9%)** — probably an
   other-income difference, unresolved.
-- **The demerged chemicals undertaking (₹1,266.3cr) versus the consolidated Paints & Adhesives
-  segment (₹1,890cr).** A ~₹620cr gap whose composition determines what Astral Chemie is.
+- **The chemicals undertaking (₹1,266.3cr) versus the consolidated Paints & Adhesives segment
+  (₹1,890cr).** A ~₹620cr gap, mostly UK adhesives. The withdrawn scheme document would have
+  resolved it; **with the demerger cancelled, this gap now stays open indefinitely.**
 - **"Adhesives India is ~68% of FY26 chemicals revenue"** implies ~₹861cr, but Q1 FY27 adhesives
   India of ₹326cr annualises far above that. One of the two is on a different denominator.
 - **Astral's CPVC market share is quoted at both "25–30%" and "~50%"** in reputable-looking
@@ -416,7 +454,14 @@ obtained, each of which is therefore a question:
 - **Not obtained, and worth obtaining:** segment PAT (never disclosed), the FY26 annual report's
   cash flow statement, FY26 plumbing volume in MT (derived here as ~270,000), exact share count
   and book value (both derived), the ESOP 2025 terms and any performance conditions, quarterly
-  inventory gain/loss, channel inventory, and the demerger scheme document.
+  inventory gain/loss, channel inventory, the findings of the Big Four review that killed the
+  demerger, and the identity of the "stakeholders" whose pushback triggered it.
+- **A process note on this memo.** The first version described the demerger as live and pending
+  NCLT approval, six weeks after the board had withdrawn it. The announcement sweep found the
+  25 June approval and did not check whether the action was still live at the date of writing.
+  **Treat every "pending" corporate action in any memo as unverified until its current status is
+  confirmed as at today** — the withdrawal was disclosed and searchable; the failure was method,
+  not availability.
 
 ---
 
@@ -432,15 +477,18 @@ obtained, each of which is therefore a question:
    process was "1–2 months" away. If duties land at the recommended **$22–284/tonne**, expect
    resin prices to firm and Q3 FY27 to carry **inventory gains that will be reported as margin
    expansion**. Score it as cycle, not franchise.
-3. **The scheme document filed with SEBI and the exchanges — the single most informative
-   disclosure pending.** It should contain the **audited financials of the demerged undertaking**,
-   the **Appointed Date**, the **opening balance sheet of Astral Chemie** (cash, debt, capital
-   employed), and — decisively — **whether the UK adhesives business travels with it.** Q1 cannot
-   be answered without this.
-4. **The NCLT Ahmedabad convening order, then the shareholder and creditor meetings, then SEBI and
-   exchange observation letters, then the record date.** A scheme approved by the board on
-   **25 June 2026** and guided to complete **by end-FY27** has a visible milestone roughly every
-   six to eight weeks. **Silence past December 2026 is the signal**, not the completion.
+3. **Any disclosure of segment returns, now that the scheme document will never arrive.** The
+   withdrawn scheme would have published audited financials, capital employed and an opening
+   balance sheet for the chemicals undertaking. **That disclosure is gone.** Watch the FY27 annual
+   report and the Q2/Q3 calls for whether management replaces any of it voluntarily — segment PAT,
+   segment capital employed, or the UK adhesives split. **Continued silence is itself the answer
+   to Q1**, and should be priced as the unfavourable case.
+4. **Whether the demerger is revived, and on what trigger.** The board deferred it "until the
+   chemicals segment achieves greater scale" without naming the scale or the date. Watch for
+   management putting a number on it — a revenue or margin threshold, a year. **A vague deferral
+   that is never quantified across two more results calls should be read as cancelled, not
+   postponed.** Note also that a revival would re-impose the passive-selling overhang removed
+   in Q10.
 5. **The CPVC resin plant: mechanical completion December 2026, trials, commercial production in
    Q4 FY27.** It has already slipped once from "Q2 FY27." A second slip pushes the claimed
    **+200bps** of piping margin out of FY28 entirely — and that 200bps is a large fraction of the
@@ -450,14 +498,17 @@ obtained, each of which is therefore a question:
    opinion.
 7. **Paints margin in Q2 and Q3 FY27.** Breakeven at 0.1% is not profitability. Management targets
    "high single to low double digit" by FY28; the path has to start appearing now.
-8. **Astral Chemie's listing and its first month of trading.** This is Q1's sum-of-the-parts test
-   settled by the market rather than by argument — and the passive-selling overhang means the
-   first print will understate it. Watch where it stabilises, not where it opens.
+8. **Whether the chemicals arm's call on group cash rises or falls from here.** With the demerger
+   dead, paints, bathware, the UK and DSS are funded from plumbing indefinitely. Watch the split
+   of FY27–28 capex between the two halves: chemicals taking a rising share while earning ~8%
+   margins is the Q1 thesis confirming in real time.
 9. **Q3 FY27 (late January 2027)** — the first clean read on whether FY27 profit is tracking the
    ~₹670cr that the consensus FY26–28 growth path implies, or the ~₹535–580cr that flat volumes
    and a normalising resin price would produce.
-10. **Any seventh acquisition.** Six in roughly two years. One announced *after* a demerger
-    justified by "sharper business focus" would tell you the focus rationale was presentational.
+10. **Any seventh acquisition.** Six in roughly two years. One announced now — weeks after the
+    board concluded the chemicals arm lacks the financial strength to grow organically or
+    inorganically on its own — would be the clearest possible contradiction of its own stated
+    reasoning, and should be judged on that basis.
 11. **ESOP 2025 grant terms and any performance conditions**, in the FY27 annual report. If they
     carry profit targets, that is management's own committed forecast and worth more than any
     sell-side estimate.
@@ -471,9 +522,9 @@ brand with 25–30% of the CPVC market, 3,610 distributors and 251,000 dealers, 
 ₹943cr, 118% cash conversion, working capital cut to 11 days, and the first captive CPVC resin
 plant owned by any pipe maker anywhere — in a market growing ~14% a year toward ₹805bn by FY27.
 None of that is fragile, and none of it was bought with debt. Management held volume flat in a
-quarter when the industry fell 10%. The demerger is defensible on its own terms: paints and
-adhesives were sub-scale inside a pipes company, and a separate listing gives them a currency and
-a focus they did not have.
+quarter when the industry fell 10%. And the board's willingness to spend on a Big Four review and
+then publicly reverse a decision it had already taken is, uncomfortably, better governance than
+pushing a bad restructuring through.
 
 **The stock is a different question, and the answer is harder.** You are paying **75x** for a
 company whose EPS was ₹20.33 in FY24 and ₹19.91 in FY26; whose celebrated "+52%" quarter produced
@@ -483,32 +534,38 @@ whose own analysts, across 25 reports, see **3.3% upside**. The 39% fall from th
 was **entirely multiple compression on flat earnings** — 121x to 75x — and nothing establishes
 that 75x is a floor.
 
-**The demerger is the specific reason the multiple question comes due now rather than eventually.**
-Today one 75x multiple covers both halves. Afterwards, the market names two. On FY26 numbers the
-arithmetic is unforgiving: if Astral Chemie is capitalised at 50x its ~₹76cr of implied profit,
-**the pipes business must be worth 79x its own** — more than the blend it currently enjoys. The
-only way the sum holds is if Astral Chemie is valued on its FY28 ambition (₹2,300–2,400cr of
-revenue at 14–15% margins) rather than its FY26 reality (₹1,266–1,890cr at ~8%). **That is a
-legitimate argument. It is also, precisely, the argument that the scheme document will either
-support or destroy** — and nobody outside the company has seen it.
+**The withdrawn demerger makes this worse, not better, and the reason is easy to get backwards.**
+The obvious reading is that an overhang has been removed — and one genuinely has, the passive
+selling that a spin-off listing would have forced. But that is a one-off technical. Three
+durable things changed against the holder. **First, the valuation tension in Q1 lost its
+resolution date without losing any of its force**: one 75x multiple still covers a ~19.5%-margin
+pipes business and a ~8%-margin chemicals business, and now nothing scheduled makes the market
+confront that. **Second, the question this memo ranked first was answered, unfavourably, by the
+only people with the audited numbers** — a Big Four firm and the board concluded the chemicals
+arm lacks the scale and financial strength to stand alone. **Third, the subsidy is now
+permanent**: plumbing funds chemicals indefinitely, so ~19.9–20.6% group ROCE against plumbing's
+own far better economics is the steady state rather than a phase. Set against that, the board
+reversing a bad decision in five weeks is a modest governance credit and a real process demerit.
 
-**What would flip the conclusion is narrow and specific, and it is three things together:**
-(i) **the scheme document showing Astral Chemie materially larger and better than the ₹1,266cr /
-8% version** — the UK business travelling with it, paints scaling, a funded opening balance sheet;
-(ii) **two consecutive quarters of double-digit plumbing volume growth with segment margin holding
-at or above 19% while PVC prices are flat** — which would establish the margin as franchise rather
-than resin timing; and (iii) **the CPVC plant commissioning on the December 2026 / Q4 FY27
-schedule with the +200bps visible.** All three, and ~45x FY28 is defensible. Any one alone is not,
-because each is separately embedded in consensus already.
+**What would flip the conclusion is now two things rather than three, and both are harder:**
+(i) **two consecutive quarters of double-digit plumbing volume growth with segment margin holding
+at or above 19% while PVC prices are flat** — establishing the margin as franchise rather than
+resin timing; and (ii) **the CPVC plant commissioning on the December 2026 / Q4 FY27 schedule
+with the +200bps visible.** Both are separately embedded in consensus already, so both must land.
+The third leg — a scheme document revealing a better chemicals business — **is no longer
+available at all**, and management would now have to disclose segment returns voluntarily to
+supply it.
 
-**What would confirm the other reading** is equally specific: Q2 FY27 volume growth back below 5%,
-plumbing margin reverting toward 16–17% as resin normalises, and a scheme document that confirms
-Astral Chemie is the small, 8%-margin version.
+**What would confirm the other reading:** Q2 FY27 volume growth back below 5%, plumbing margin
+reverting toward 16–17% as resin normalises, and continued non-disclosure of segment
+profitability.
 
-**Do not size a position before the scheme document and the Q2 FY27 result.** Both are due within
-roughly eight weeks, and between them they settle Q1, Q2 and Q3 — three of the five questions that
-decide this investment. At 75x, the cost of waiting is small and the cost of being wrong on the
-margin question is a de-rating rather than a miss.
+**Do not size a position before the Q2 FY27 result.** It is roughly six weeks away and settles Q2
+and Q3 — the two questions that now carry the thesis, since Q1 has been answered by the board
+rather than by a document. At 75x, with the catalyst withdrawn and the cheaper, higher-return
+comparator in [astral-vs-supreme.md](../comparisons/astral-vs-supreme.md) unaffected by any of
+this, the cost of waiting is small and the cost of being wrong on the margin question is a
+de-rating rather than a miss.
 
 ---
 
@@ -546,7 +603,9 @@ enters a model.** Derived figures are marked as such in the text.*
 
 **The demerger and other corporate actions**
 
-- [Composite scheme approved 25 June 2026: chemicals business into Astral Chemie Ltd at 1:1 (₹1 face value), Al-Aziz Plastics amalgamated into Astral; chemicals turnover ₹1,266.3cr in FY26 = 21% of turnover; approvals pending from NCLT Ahmedabad, SEBI, NSE, BSE, shareholders and creditors (Indian Chemical News)](https://www.indianchemicalnews.com/general/astral-plans-chemicals-demerger-into-astral-chemie-30926)
+- [**Scheme WITHDRAWN 29 July 2026** — board scrapped both the chemicals demerger and the Al-Aziz amalgamation on an independent consultant's recommendation, concluding the chemicals business "lacks the necessary scale and financial strength to support organic and inorganic growth as a standalone entity"; deferred indefinitely pending greater scale (ScanX)](https://scanx.trade/stock-market-news/companies/astral-withdraws-chemical-business-demerger-scheme/46885957)
+- [The five-week round trip: approved 25 June 2026, Big Four firm appointed 5 July for a 30-day independent evaluation after stakeholder pushback, withdrawn 29 July; withdrawal read as removing a performance overhang (Sahi)](https://www.sahi.com/news/astral-board-pulls-back-composite-arrangement-plan-after-consultant-advisory-3644-PE1_COR)
+- [Composite scheme as originally approved 25 June 2026: chemicals business into Astral Chemie Ltd at 1:1 (₹1 face value), Al-Aziz Plastics amalgamated into Astral; chemicals turnover ₹1,266.3cr in FY26 = 21% of turnover (Indian Chemical News)](https://www.indianchemicalnews.com/general/astral-plans-chemicals-demerger-into-astral-chemie-30926)
 - [Demerger: stock fell 8.85% to ₹1,355.30 intraday; analysts cite growth concerns for the sub-scale paints and adhesives business that plumbing was funding, and multiple uncertainty for both halves (Upstox)](https://upstox.com/news/market-news/stocks/astral-demerger-board-approves-plan-to-carve-out-chemicals-business-analysts-cite-growth-concerns-ahead/article-196029/)
 - [Demerger near-term overhang; Astral Chemie formerly Astral Coatings Pvt Ltd; ~12 months to complete, expected by end-FY27 (Business Today)](https://www.businesstoday.in/markets/stocks/story/why-astral-shares-are-falling-after-demerger-news-targets-as-near-term-overhang-likely-539623-2026-06-29)
 - [Astral Chemie targets: ₹2,300–2,400cr revenue and 14–15% EBITDA margin by FY28, ₹4,500–5,000cr in 4–5 years; adhesives India ~68% of FY26 chemicals revenue with 24% FY22–26 CAGR and 15–16% margins; DSS scaled to ₹400–500cr at 20–25% margins; paints EBITDA breakeven in FY27 (ICICI Direct company update, 29 June 2026)](https://www.icicidirect.com/mailcontent/idirect_astral_coupdate_june26.pdf)

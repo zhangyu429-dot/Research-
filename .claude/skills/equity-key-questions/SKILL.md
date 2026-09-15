@@ -126,6 +126,15 @@ Gather before writing; a gap you cannot fill becomes a question in the memo.
 - **Pending corporate actions specifically**: is there a transaction in flight right now?
   Check for a shareholder meeting that has been scheduled, deferred, or never convened.
   A deal announced months ago and still unclosed will not appear in any results coverage.
+- **Verify every announced action is still live, as at today's date — do not infer it from the
+  announcement.** Search the action's own name plus *withdrawn / called off / terminated /
+  lapsed / deferred / revised*, and read the results in date order to the present day. An
+  approval and its reversal are separate filings, the reversal gets a fraction of the coverage,
+  and search engines keep surfacing the announcement because that is what was written about.
+  **This rule exists because Astral's board approved a demerger on 25 June 2026 and withdrew it
+  on 29 July 2026, and a memo written on 14 September still described it as pending NCLT —
+  ranking a cancelled transaction as the single most important question on the name.** The
+  withdrawal was public and searchable; only the method failed.
 - 投资者关系活动记录表 for the last two quarters — the freshest operating data, and the
   only public place unit economics and utilisation are ever discussed
 - Related-party transaction filings (关联交易), including the annual 预计 resolution, who
