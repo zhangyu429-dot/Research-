@@ -2,6 +2,8 @@
 
 *Research memo · 18 September 2026 · analysis, not investment advice*
 
+*Revised the same day: the **2026 interim report (pages 1–27) has now been read in full**. Figures marked "interim report" are primary. This revision **corrects two conclusions** (segment gross margins are in fact disclosed; gross profit per transplant customer did not hold flat — it fell 3.5%) and closes three disclosure gaps (segment margins, the cost-of-sales bridge, cash and net assets). Page 28 onward — selling expenses, borrowings, lease liabilities, contract liabilities, substantial shareholders — is still not in hand.*
+
 ---
 
 ## 0. What you are actually buying
@@ -28,6 +30,17 @@ direction, and a different test.
 | Medical hair care (Svenson etc.) | ¥409m (**22.6%**) | **−8.2%** | The designated "second curve" — and it shrank in 2025; back to +20.7% in H1 2026 |
 | Other (product sales etc.) | ~¥24m (1.3%) | — | Derived by subtraction; immaterial |
 | **Footprint** | End-2025: 63 clinics (61 cities) + 7 Svenson | | Down from 75 + 13 at end-2023 |
+
+**H1 2026 by segment (interim report, RMB'000) — the segment margins *are* disclosed**
+
+| Segment | H1 2026 revenue | % | Gross profit | **Segment GM** | H1 2025 GM | Change |
+|---|---|---|---|---|---|---|
+| Hair transplant | 743,319 | 75.8% | 516,261 | **69.5%** | 66.4% | +3.1pt |
+| Medical hair care | 226,728 | 23.1% | 155,887 | **68.8%** | 56.2% | **+12.6pt** |
+| Others | 10,591 | 1.1% | 4,766 | 45.0% | 44.2% | +0.8pt |
+| **Total** | **980,638** | 100.0% | **676,914** | **69.0%** | 63.9% | +5.1pt |
+
+*The first draft made "segment gross margins are not disclosed" its opening ask — **that was wrong; the interim report gives gross profit and margin by segment**. The finding is worth more than the gap was: **of the 5.1 points of group margin gain, hair transplant contributed only 3.1 points, while medical hair care — 23% of revenue — moved 12.6 points.** Hair-care gross profit went from RMB105.6m to RMB155.9m, **40% of the entire group's RMB126.6m gross profit increase.***
 
 **Trailing financials (back through the last cycle peak and before it)**
 
@@ -59,10 +72,15 @@ earnings; ~6.6x the H1 2026 run-rate annualised (¥151m); and ~5.0x if 2025's se
 (H2 = 1.64x H1, implying ~¥200m).** FY2025 basic EPS was ¥0.15 and the final dividend ¥0.076
 (≈51% payout), **a ~4.0% yield at the current price.**
 
-**Net assets and cash: the absolute numbers could not be obtained.** Only ratios are available:
-at end-2025 total assets were **46.8%** below the 2021 listing level and net assets **53.7%**
-below, with **¥522m of accumulated losses** still carried. For a thesis whose core is "it is
-cheap", **this is the first gap that has to be closed** (see Question 3).
+**Balance sheet (interim report, 30 June 2026):** total assets RMB1,736.9m, total equity
+RMB824.7m, total liabilities RMB912.2m, and **cash and cash equivalents of RMB743.2m**
+(RMB699.0m at end-2025). Which gives: **net assets per share of about ¥1.57 ≈ HK$1.72, a P/B of
+about 1.22x — and cash alone equal to roughly 74% of the market cap.** **Enterprise value
+excluding cash (and before lease liabilities) is only about RMB260m, under 0.75x FY2025 EBITDA of
+RMB364m.** That changes the character of Question 5 entirely — but **borrowings and lease
+liabilities are still not in hand** (they sit past page 28), and a material part of the RMB912.2m
+of total liabilities is certainly lease-related, which would raise enterprise value appreciably.
+**Do not treat "0.75x EV/EBITDA" as a conclusion until those two are read.**
 
 **Sell-side coverage: no current 2026–28 estimates could be obtained.** The available research
 stops at Haitong / Soochow / Guosheng notes from 2022–24 and an Innovax initiation in June 2025.
@@ -102,72 +120,108 @@ gross margin rose from **56.11%** to **69.0%** — 12.9 points, worth about ¥25
 on ¥1,960m of revenue, against an H1 2026 net profit of only ¥75.5m. **Without those 12.9 points
 there is no turnaround.**
 
-The company's own H1 2026 cost bridge is checkable, and it is the most valuable set of numbers
-this research could find:
+The interim report gives the full cost-of-sales breakdown, so **this question can largely be
+closed — and the answer is unfavourable to the bull case.**
 
-| H1 2026 cost line | YoY | How to read it |
+| Cost of sales and services (RMB'000) | H1 2026 | % | H1 2025 | % | YoY |
+|---|---|---|---|---|---|
+| Staff costs | 140,618 | 46.3% | 125,701 | 40.4% | **+11.9%** |
+| Amortisation and depreciation | 101,663 | 33.5% | 112,318 | 36.1% | **−9.5%** |
+| Inventories and consumables | 37,972 | 12.5% | 52,518 | 16.9% | **−27.7%** |
+| Operation related expenses | 14,130 | 4.6% | 14,391 | 4.6% | −1.8% |
+| Other expenses | 9,341 | 3.1% | 6,299 | 2.0% | +48.3% |
+| **Total** | **303,724** | 100.0% | **311,227** | 100.0% | **−2.4%** |
+
+Split the RMB126.6m gross profit increase into a revenue effect and a cost effect: **about
+RMB76.1m came from revenue growth at the old margin, and about RMB50.5m from costs not rising
+with revenue.** Of that RMB50.5m of cost saving:
+
+| Source of the cost saving | RMB'000 | Share |
 |---|---|---|
-| Total cost of sales and services | **−2.4%** (on revenue +13.8%) | The direct source of the 5.1pt margin gain |
-| Inventory and consumables cost | **−27.7%** | **The line that most needs explaining** — far bigger than the −7.8% fall in ticket price |
-| Amortisation and depreciation | **−9.5%** | The natural result of closures and fully depreciated assets. **Not repeatable** |
-| Share of customers served by senior-grade physicians | up to **31.0%** | The company's "mix upgrade" — but senior doctors cost more, so this should be a *negative* to margin |
+| **Amortisation and depreciation** | 26,180 | **51.8%** |
+| **Inventories and consumables** | 21,805 | **43.2%** |
+| Staff costs | 2,458 | 4.9% |
+| Operation related expenses | 2,250 | 4.5% |
+| Other expenses | −2,171 | −4.3% |
 
-**"Consumables −27.7%" is the most important and least interrogated number in the interim
-report.** With revenue up 13.8% and surgical volume up 21.8%, consumables falling 27.7% implies
-**consumable cost per procedure fell about 41%.** Three explanations fit, and they carry
-completely different valuations:
+> **The conclusion after reading the interim report: depreciation and consumables together account
+> for 95.0% of the cost saving.** Those are precisely the two least repeatable lines:
+>
+> - **D&A −9.5%** is the mechanical result of closures and assets running off. **It is a
+>   depleting stock, not a capability**, and it reverses the moment the "1+N" clinics open.
+> - **Consumables −27.7%** — about RMB1,568 down to RMB931 per procedure, **−40.6%**. The company
+>   attributes this to "optimisation of inventory cost structure and cost savings achieved through
+>   bulk procurement" — i.e. explanation 1 above (procurement leverage), **not smaller procedures**.
+>   That is good news for clinical-quality risk but **not for durability**: a bulk-buying benefit
+>   is banked once, and consumables are now only 12.5% of cost of sales and 3.9% of revenue —
+>   **the base is too small for further cuts to matter.**
+> - **Staff costs actually rose 11.9%**, which the company attributes to performance-linked pay
+>   rising with revenue. **It is the one large line that tracks revenue, and it is 46.3% of cost
+>   of sales.**
+>
+> **So the answer to Q1 is: very little of the 12.9 points is repeatable.** Once depreciation
+> bottoms and the procurement benefit is banked, with staff costs still growing, the only
+> available directions for gross margin are flat or down.
 
-1. **Procurement leverage.** Unit prices fell with scale. *Benign and real, but one-off — it will
-   not fall another 27.7% next year.*
-2. **Smaller procedures.** If the drop in ticket price from ¥22,987 to ¥18,214 reflects **fewer
-   follicular units transplanted** rather than a lower price per unit, then falling consumables is
-   simply the other side of falling revenue, not an efficiency gain. *Neutral to negative.*
-3. **A change in consumable specification or supplier.** *Needs a direct answer, because it bears
-   on clinical quality and compliance.*
-
-**All three look identical in the income statement, but the first deserves a double-digit
-multiple and the third deserves nothing.**
-
-**Ask:**
-- **Segment gross margins** for hair transplant and medical hair care, for FY2024, FY2025 and
-  H1 2026. These were disclosed at the IPO (hair care gross margin 57.9% in 2020 → 77.8% in
-  H1 2021). **Whether they are still disclosed is itself information.**
-- **Average follicular units per procedure**, last three years. This single number separates
-  explanation 1 from explanation 2.
-- Within consumables cost, how much came from **lower unit prices** versus **lower usage**.
-- How much further can depreciation and amortisation fall? Are the closed clinics' assets fully
-  written off?
-- The **absolute selling-and-marketing expense and ratio for H1 2026** — not obtainable here, and
-  it is the other half of the efficiency question (see Question 3).
+**Still to ask (page 28 onward, not obtained):**
+- **Selling and marketing expense, absolute and as a percentage of revenue.** Gross margin is now
+  settled, but net profit still has to pass through this line — RMB1,044m and 58.75% of revenue in
+  2023, down to 44.2% in H1 2025. **It is the only remaining large line that explains where the
+  profit comes from.**
+- Within D&A, **how much is right-of-use asset depreciation** — i.e. the rent component.
+- Capex for 2026–28 and the per-clinic investment in "1+N". **New clinics raise depreciation and
+  staff costs at the same time.**
 
 ### Q2: Cutting price to buy volume has pushed gross profit per customer against the wall — where does this curve end?
 
-This is a line of reasoning derived here and essentially absent from the published commentary.
-Put the disclosed ticket prices next to the disclosed margins and look at **gross profit per
-transplant customer**:
+The first draft ran this line using group gross margin as a proxy. **The interim report discloses
+gross profit by segment, so it can now be computed exactly — and the exact answer is worse than
+the approximation.**
 
-| | H1 2024 | H1 2025 | H1 2026 |
+| Hair transplant (interim report) | H1 2025 | H1 2026 | Change |
 |---|---|---|---|
-| Transplant procedures | 29,271 | 33,504 (+14.5%) | **40,793 (+21.8%)** |
-| Average ticket | **¥22,987** | ¥19,761 (**−14.0%**) | **¥18,214 (−7.8%)** |
-| Group gross margin | 60.1% (full-year basis) | 63.9% | **69.0%** |
-| **Gross profit per customer (ticket × margin, approx.)** | ~¥13,815 | ~¥12,628 (−8.6%) | **~¥12,568 (−0.5%)** |
+| Procedures | 33,504 | **40,793** | **+21.8%** |
+| Average ticket | ¥19,761 | **¥18,222** | **−7.8%** |
+| Segment gross profit (RMB'000) | 439,595 | 516,261 | +17.4% |
+| Segment gross margin | 66.4% | **69.5%** | +3.1pt |
+| **Gross profit per customer** | **¥13,121** | **¥12,656** | **−3.5%** |
 
-*Note: group gross margin is used as a proxy for the segment margin, which is not disclosed. The
-direction is reliable; the absolute values are not model-grade.*
+| Medical hair care (interim report) | H1 2025 | H1 2026 | Change |
+|---|---|---|---|
+| Customers | 44,912 | **56,757** | +26.4% |
+| Average ticket | ¥4,184 | **¥3,995** | **−4.5%** |
+| Segment gross margin | 56.2% | **68.8%** | **+12.6pt** |
+| **Gross profit per customer** | **¥2,351** | **¥2,747** | **+16.8%** |
+| **Package repurchase rate** | **29.9%** | **25.9%** | **−4.0pt** |
 
-**The conclusion is sharp: the 5.1 points of margin gain in H1 2026 almost exactly offset the
-7.8% fall in ticket price, leaving gross profit per customer flat.** In other words, **all of
-this half's profit growth came from customer count (+21.8%), none of it from each customer
-becoming more profitable.**
+> **Correction:** the first draft estimated gross profit per customer as "roughly flat (−0.5%)".
+> **On segment data it actually fell 3.5%** — the 3.1 points of segment margin gain did **not**
+> offset the 7.8% ticket decline. The direction of the conclusion is unchanged, but the pressure
+> is greater than the draft judged.
 
-Which lets you solve for the 2027 condition:
+**The two segments point in opposite directions, and that is the key:**
 
-> If the ticket falls another 7.8% (to ~¥16,793), holding gross profit per customer at ~¥12,568
-> **requires a gross margin of about 74.8%** — above the 73.6% reported in H1 2021, the best in
-> the company's history. If margin instead stops at 69%, gross profit per customer falls to
-> ~¥11,587 (−7.8%), and **volume must then grow another ~8.5% just to keep total gross profit
-> flat.**
+- **Hair transplant (75.8% of revenue): volume +21.8%, price −7.8%, gross profit per customer
+  −3.5%.** Each additional procedure earns less than the one before it.
+- **Hair care (23.1% of revenue): volume +26.4%, price −4.5%, but margin +12.6 points and gross
+  profit per customer +16.8%.** **All of the group's unit-economics improvement sits in the
+  segment that is under a quarter of revenue.**
+
+**And there is a direct counter-indicator on that line: the package repurchase rate fell from
+29.9% to 25.9%.** A business that defines itself as "long-term membership-based hair health
+management" grew customers 26.4% while repurchase fell 4 points — meaning the increment is mostly
+new customers, who renew less than the existing base. **That turns the "second curve" question
+from "can it scale" into "will what it scales stick"** — and a 12.6-point margin jump that comes
+from package mix or revenue-recognition timing rather than genuine operating leverage will not
+survive a falling repurchase rate.
+
+The 2027 condition can now be solved exactly:
+
+> If the transplant ticket falls another 7.8% (to about ¥16,801), holding gross profit per customer
+> at ¥12,656 **requires a segment gross margin of about 75.3%**, against 69.5% today. Q1 has
+> already shown that the margin gains came from depreciation and consumables, both nearly spent.
+> **If the segment margin instead stops at 69.5%, gross profit per customer falls to about
+> ¥11,669 (−7.8%), and volume must grow a further ~8.5% just to hold segment gross profit flat.**
 
 That is the real disagreement in this stock: **trading price for volume is a sustainable strategy
 only while gross margin is still rising — and gross margin is now near its all-time high.** Once
@@ -206,22 +260,33 @@ service** — it has to be taken apart line by line:
 - **One-off working-capital release.** Inventory run-down and stretched payables during a
   contraction both generate cash once.
 
-**But the critical gap is the balance sheet itself.** All that could be obtained are ratios: at
-end-2025 total assets were 46.8% below 2021 and net assets 53.7% below, with ¥522m of accumulated
-losses. **Cash and bank balances, interest-bearing debt and lease liabilities are all unavailable
-in absolute terms.** Normally that is a nuisance; here it is decisive:
+**Half the balance sheet is now in hand (interim report, 30 June 2026):**
 
-> **For a company with a ~¥1.0bn market cap and ¥496m of operating cash flow, whether net cash is
-> ¥200m or ¥800m changes enterprise value by more than 3x.** The December 2021 IPO raised about
-> HK$1.492bn net, and the three years that followed lost ¥859m — **how much of that money is left
-> determines whether this is "a deep-value stock trading below its net cash plus a business" or
-> "a company that has just stopped bleeding with empty pockets".**
+| | 30 Jun 2026 | 31 Dec 2025 |
+|---|---|---|
+| Total assets | RMB1,736.9m | RMB1,701.8m |
+| Total equity | RMB824.7m | RMB787.4m |
+| Total liabilities | RMB912.2m | RMB914.5m |
+| **Cash and cash equivalents** | **RMB743.2m** | RMB699.0m |
 
-**Ask:** cash and bank balances, interest-bearing borrowings and lease liabilities at 30 June
-2026; **total annual lease payments**; the contract-liability balance and its last three
-movements; committed capex for 2026–28 (particularly the per-store investment in the "1+N"
-satellite network); and from which distributable reserve the ¥40m FY2025 dividend was paid, given
-¥522m of accumulated losses.
+> **This is the most important single fact in the revision: cash of RMB743.2m, roughly 74% of the
+> market cap**, and it rose RMB44m over the half. Put differently, **at the current price you are
+> buying RMB743m of cash plus a business that generated RMB496m of operating cash flow in 2025,
+> for about RMB1.0bn in total.** Enterprise value net of cash is about **RMB260m** — under 0.75x
+> FY2025 EBITDA.
+
+**Do not stop there, because the liability side is still unseen.** The RMB912.2m of total
+liabilities must include **lease liabilities** (63 surgical centres plus 7 stores) and **contract
+liabilities** (prepaid hair-care packages). The first belongs in enterprise value under IFRS 16;
+the second is cash received against services not yet delivered. **Neither absolute figure is
+available — both sit past page 28.** Conservatively: if lease liabilities are RMB400–500m,
+enterprise value rises to roughly RMB700m, about 1.9x FY2025 EBITDA — **still cheap, but not the
+same order of conclusion as 0.75x.**
+
+**Still to ask:** interest-bearing borrowings, **lease liabilities** and **contract liabilities**
+(interim balance sheet, pages 49–50); total annual lease payments; capex for 2026–28; and from
+which distributable reserve the RMB40m FY2025 dividend was paid, given RMB522m of accumulated
+losses.
 
 ### Q4: 241 doctors performed 40,793 procedures — is that a capacity ceiling or a compliance ceiling?
 
@@ -229,7 +294,8 @@ This is the only question in the memo that could destroy the thesis in a single 
 arithmetic points straight at it:
 
 - At end-June 2026 the medical team was 1,410 people: **241 doctors**, 1,068 nurses, 101 other
-  medical professionals.
+  medical professionals (**interim report, page 15**, consistent with the secondary reporting).
+  **A doctor-to-nurse ratio of 1:4.4.**
 - Doctor headcount is **essentially unchanged** from 242 at end-2024, and **down 31%** from 350
   in 2023.
 - H1 2026 delivered **40,793 procedures** — **about 169 per doctor per half-year, ~338 annualised**,
@@ -249,6 +315,16 @@ Taizhou and Beijing entities have penalties as well).
 > the same number.** In May 2025 SAMR issued its *Guidelines on Medical Advertising Supervision*;
 > the regulatory direction is tightening, not loosening.
 
+**The offsetting evidence that has to be stated (interim report, page 11):** the report discloses
+consumers by service tier, and it points the other way — consumers served by **business deans**
+rose from 7,458 (22.3%) to **12,644 (31.0%)**, up 69.5%, while those served by business chiefs went
+from 24,293 (72.5%) to 26,021 (**63.8%**), with "Yongxiang" steady at 5.2%. **Customers are
+shifting toward more senior physicians, not away from them.** That cuts against the dilution
+concern and helps explain the 3.1-point gain in transplant segment margin, since senior tiers
+price higher. **But it makes the falling ticket harder to explain, not easier: if the service mix
+is moving up while the average ticket falls 7.8%, the discounting at the entry tiers is steeper
+than the group average shows.**
+
 **Ask:**
 - **Physician hours per procedure**, and the written division of labour between doctors and
   nurses for extraction and implantation.
@@ -265,23 +341,45 @@ Here it has to be run backwards. Jiemei was the familiar case — the market cap
 profit doubles, so ask whether the bridge exists. **Yonghe is the inverse: the market cap demands
 that profit falls, so ask whether the reason exists.**
 
-At a terminal **10x** — not generous for a consumer-medical chain with undisclosed leverage,
-growth that depends on discounting, and three loss years just behind it — a ~¥1.0bn market cap
-requires only **about ¥100m** of sustainable net profit. At **15x**, only **about ¥67m**.
+**And the interim report changes the denominator of this sum: of the ~RMB1.0bn market cap,
+RMB743.2m is cash.**
 
-> The actual H1 2026 net profit was **¥75.5m**, an annualised **¥151m**; on 2025's seasonality
-> (H2 = 1.64x H1) full-year 2026 lands around **¥200m**.
+At a terminal **10x** — not generous for a consumer-medical chain whose growth depends on
+discounting, with three loss years just behind it — a ~RMB1.0bn market cap requires only **about
+RMB100m** of sustainable net profit; at **15x**, about **RMB67m**. **But net of cash the operating
+business is valued at only about RMB260m** (before lease liabilities), and 10x on that requires
+sustainable profit of just **about RMB26m — under a third of what the company actually earned in
+H1 2026 alone.**
+
+> H1 2026 net profit was **RMB75.5m** (RMB97.8m pre-tax, a 22.8% effective rate), an annualised
+> **RMB151m**; on 2025's seasonality, roughly **RMB200m** for the full year.
 >
-> **In other words: the sustainable profit implied by today's price is 33%–66% of the current
-> run rate. The market is not waiting for growth. It is expecting one-third to two-thirds of this
-> profit to be given back.**
+> **Including cash: the market implies sustainable profit of 33%–66% of the current run rate.
+> Net of cash: it implies about 17%.** Both readings say the same thing — **the market is not
+> waiting for growth; it expects a large giveback, or it does not believe the cash belongs to
+> shareholders.**
+
+**That second possibility deserves to be taken seriously, and it has three specific, checkable
+reasons:**
+
+1. **Part of the cash is customer prepayments (contract liabilities).** Hair care is sold as
+   prepaid packages, and a 25.9% repurchase rate implies a large stock of collected-but-undelivered
+   obligations. **That cash is the mirror image of a liability, not shareholders' money. The
+   absolute figure is on page 49 and was not obtained.**
+2. **Lease liabilities are not yet netted.** The obligations behind 63 surgical centres reduce net
+   cash directly.
+3. **A governance discount.** A 2017-vintage private equity fund alongside a founder diluted to
+   ~35%, with no uncontested controlling shareholder (Question 6). **Cash inside that ownership
+   structure is routinely discounted hard by the market.**
 
 **So the correct question is not "can it grow", it is "is the giveback the market fears
 justified?"** Six candidate reasons, ranked by how much damage each can do:
 
-1. **Gross margin has topped out** (Questions 1 and 2) — the strongest. Margin is at 69%, near
-   the historical high, and the ticket is still falling. This is the only reason that can, on its
-   own logic, take profit back below ¥100m.
+1. **Gross margin has topped out** (Questions 1 and 2) — the strongest, and **the interim report
+   promotes it from worry to evidence**: 95% of the cost saving came from depreciation and
+   consumables, both one-off; staff costs are already growing with revenue; and gross profit per
+   transplant customer has already fallen 3.5%. **It remains the only reason that can, on its own
+   logic, take profit back below RMB100m — and it now has primary data behind it.**
 2. **The cost cuts are finished.** Clinics 75 → 63, doctors 350 → 241, R&D ¥12.43m → ¥9.05m
    (H1 2025, −27%). **None of these can be done a second time.**
 3. **Compliance tail risk** (Question 4).
@@ -291,11 +389,17 @@ justified?"** Six candidate reasons, ranked by how much damage each can do:
    marketing than its entire gross profit.
 6. **A plain Hong Kong micro-cap discount** — the kind that needs no reason at all.
 
-**The first two are fundamental and can be proved or disproved with data; the other four are
-structural and may never go away.** Separating the two groups is the whole job here: **if the
-discount is only reasons 4 and 6, then 5x earnings plus a 4% yield plus net cash is a rare
-asymmetry; if reasons 1 and 2 hold, then 5x is the correct multiple for a profit that has just
-peaked.**
+**The first two are fundamental, the other four structural. Reading the interim report changed
+the weight of evidence on both sides:** **reasons 1 and 2 now have primary support (95% of the
+cost saving is non-repeatable), and reason 4 is half-confirmed — the RMB743.2m of cash is
+genuinely there, but how much of it is spoken for by contract and lease liabilities is unknown.**
+
+That pushes the conclusion somewhere uncomfortable but clear: **this is not a question of whether
+profit growth slows — on the interim cost structure it almost has to; it is a question of what is
+left after it slows, and who owns the RMB743m.** If normalised profit settles at RMB120–150m and
+the cash is genuinely shareholders', then RMB260m of enterprise value is absurdly cheap. If
+normalised profit reverts to RMB70m and most of the cash mirrors customer prepayments and lease
+obligations, the current price is merely fair.
 
 ---
 
@@ -325,17 +429,30 @@ HK$9bn, meaning that once the eligibility is lost it is effectively unrecoverabl
 is a fundamental argument, but it determines **whether you can sell on the day you want to** —
 and for a stock turning over single-digit millions of HK$ a day, that is a real cost.
 
-**Q8 — Medical hair care: the "second curve" has already broken once.** Both the company and the
-sell-side designate this the second growth curve. Its actual path: FY2024 ¥446m (24.7% of
-revenue) → **FY2025 ¥409m (−8.2%, 22.6%)** → H1 2026 ¥227m (**+20.7%**, 23.1%) on 56,757
-customers (+26.4%). Svenson stores went from 13 at end-2023 to 6 by June 2025, back to 7 at
-year-end. **A business that had half its stores closed and was still shrinking last year, growing
-20% this year, is either a repair or a recovery — and which one depends on whether the growth is
-new customers or conversion from transplant patients.** The implied ticket is about ¥4,000 —
-**a quarter of the transplant ticket but far more repeatable**, and if it genuinely scales it
-changes the price-for-volume curve in Question 2 at its root. **Ask for: hair-care repeat rates,
-package durations, the contract-liability balance, and the share of hair-care customers converted
-from transplant patients.**
+**Q8 — Medical hair care: all of the group's unit-economics improvement is here, and the
+repurchase rate is falling.** The path: FY2024 RMB446m (24.7%) → **FY2025 RMB409m (−8.2%, 22.6%)**
+→ H1 2026 RMB227m (**+20.7%**, 23.1%). **The interim report sets this line out clearly, and it is
+simultaneously the best and the most suspect part of the result:** segment gross margin jumped from
+56.2% to **68.8% (+12.6 points)** and gross profit per customer from RMB2,351 to **RMB2,747
+(+16.8%)** — **the only line in the group whose unit economics improved** — contributing 40% of the
+RMB126.6m group gross profit increase. **But the ticket fell 4.5% at the same time (RMB4,184 →
+RMB3,995), and the package repurchase rate fell from 29.9% to 25.9%.** A business that calls itself
+"long-term membership-based hair health management" grew customers 26.4% while repurchase dropped 4
+points, which means the increment is overwhelmingly new customers who renew less than the existing
+base. **That converts the "second curve" question from "can it scale" to "will what it scales
+stick"** — and a 12.6-point margin jump sourced from package mix or recognition timing rather than
+real operating leverage will not hold against a falling repurchase rate. Svenson stood at 7
+stand-alone stores, unchanged from end-2025.
+
+> **One favourable cross-check:** the interim report puts total consumers served in the period at
+> **65,708**, against 40,793 transplant plus 56,757 hair-care service counts = 97,550. **The
+> 31,842 difference means about 48% of consumers used both services** — cross-selling is real and
+> the rate is high. It is the one arithmetic-verifiable data point in the "diagnose, treat,
+> maintain" narrative.
+
+**Ask for:** the specific source of the 12.6-point hair-care margin jump (package mix / recognition
+timing / procurement); the contract-liability balance; the reason for the repurchase decline, split
+by cohort; and the share of hair-care customers converted from transplant patients.
 
 **Q9 — Compliance: on the record, and wired directly to the growth engine.** Known penalties
 include the February 2024 fine for "nurses impersonating doctors to perform hair-transplant
@@ -369,128 +486,162 @@ high-return place to reinvest**, which sits in tension with the "1+N" satellite-
 story. **Ask for: per-store investment, ramp period and target return on the "1+N" light-format
 clinics, and whether there is a stated dividend policy for the next three years.**
 
-**Q12 — Source quality and disclosure gaps.** This research **could not reach a single primary
-disclosure** (see the preamble to Sources); every figure is from secondary reporting and must be
-checked line by line. Separately, **the industry forecasts must be discounted on their own**: the
-prospectus figure ("¥47.0bn transplant market by 2026") and the later third-party figure
-("¥75.6bn by 2030") **contradict each other, implying historical growth rates that differ by more
-than 3x**; the "¥138.1bn hair-medical market by 2030" comes from the same promotional genre.
-**In this case, any bull argument that opens with TAM is not actionable.** Items that could not
-be obtained, and therefore became questions: **segment gross margins, H1 2026 selling and
-marketing expense, absolute cash and debt, lease liabilities and annual rent, contract
-liabilities, CPE Yuanfeng's current stake and disposal history, average follicular units per
-procedure, and any current sell-side estimate.**
+**Q12 — Source quality and disclosure gaps (much narrower now).** The first draft relied entirely
+on secondary reporting; **pages 1–27 of the 2026 interim report have now been read**, and every
+figure marked "interim report" in this memo is primary. The rest remains secondary.
+**Gaps now closed:** segment gross margins, the cost-of-sales breakdown, cash and cash equivalents,
+total assets / equity / liabilities, the hair-care repurchase rate, total consumers served, the
+service-tier distribution, and medical team composition.
+**Still outstanding (all past page 28): selling and marketing expense, interest-bearing borrowings,
+lease liabilities, contract liabilities, capex, substantial shareholders' interests (CPE Yuanfeng's
+current stake), and share capital.**
+
+**The credibility problem with the industry forecasts, meanwhile, is reinforced by the interim
+report itself.** Its Prospects section cites Frost & Sullivan and LeadLeo's *Research on Hair-related
+Health Service Industry of China for 2024*: **the hair-health market growing from RMB58.29bn in
+2020 to RMB79.55bn in 2023 and an expected RMB116.54bn by 2028.** That is a completely different
+yardstick from the 2021 prospectus basis (transplant market RMB17.3bn in 2021 → RMB47.0bn by 2026
+at a 22.1% CAGR) — **and the company has quietly swapped the old one out.** The "RMB47.0bn by 2026"
+forecast no longer appears in its own documents. **A company changing the industry forecast it
+cites is worth remembering: not misconduct, but a sign that the old projection could no longer be
+defended.**
 
 *One small reconciliation: FY2025 basic EPS of ¥0.15 against ¥73.56m of net profit implies about
 490m weighted average shares, while a ¥0.076 dividend totalling ~¥40m implies about 526m shares —
 a ~7% gap. The likeliest explanation is shares held under a share-award scheme or trust that
-receive dividends but are excluded from the EPS denominator. **This must be checked against the
-report**, because it goes straight into the denominator of the P/E.*
+receive dividends but are excluded from the EPS denominator. **The share capital note past page 28
+would settle it; it was not obtained** — and it goes straight into the denominator of both the P/E
+and net assets per share.*
 
 ---
 
 ## 3. What to watch next — falsifiable checkpoints
 
-1. **FY2026 results (expected end-March 2027).** The highest-value single event; it answers
-   Questions 1 and 2 at once. Three numbers matter: **the full-year transplant ticket** (if the
-   decline narrows to under 5%, the pressure in Question 2 eases materially); **the full-year
-   gross margin** (holding 69% or better means the repair is structural; falling back below 66%
-   means H1 was seasonal or one-off); and **whether segment gross margins are disclosed again.**
-2. **Whether H2 repeats 2025's seasonality.** H2 2025 profit was 1.64x H1. If H2 2026 net profit
-   comes in below ¥75.46m — i.e. down half-on-half — the "~¥200m full year" arithmetic breaks
-   immediately, and the market's scepticism is confirmed.
-3. **Whether consumables cost keeps falling.** If that line turns up in H2 2026, the 69% gross
-   margin is not sustainable and the answer to Question 1 is "not repeatable".
-4. **Average follicular units per procedure** (to be requested in the report or an IR call). It
-   is the only clean way to separate "discounting" from "smaller procedures", and the number this
-   memo most wanted and could not get.
-5. **Doctor headcount and procedures per doctor.** If doctors are still ~241 at end-2026 while
-   volume grows another 20%, the risk in Question 4 is rising, not falling; if the company starts
-   hiring doctors again, the cost tailwind disappears at the same time.
-6. **Whether medical hair care holds above 20% growth**, and whether Svenson store count returns
-   to net additions. It is the only line that can offset the falling transplant ticket.
-7. **The first "1+N" satellite clinics and their unit data.** The company plans a "hub plus
-   satellite" network over three years. **This is the start of a new capex cycle, and the last
-   expansion cycle ended in ¥859m of losses over three years.** Per-store investment, ramp period
-   and breakeven timing for the first batch are the earliest evidence of whether management has
-   actually changed.
-8. **The FY2026 dividend.** Holding or raising the ~51% payout in a year when profit roughly
-   doubles would validate the discipline reading and push the yield to 7%–8%; cancelling it to
-   fund expansion means re-underwriting management per Question 11.
-9. **Any disclosure of interest changes by CPE Yuanfeng**, plus block trades, placements or a
-   take-private approach. The highest-information single event category in this case.
-10. **Southbound holdings and Stock Connect eligibility.** Continued outflow plus eligibility risk
-    makes the liquidity discount self-reinforcing.
-11. **Whether Dr.Mai restarts its IPO.** A successful listing would give this model a comparable
-    public-market anchor — today Yonghe has none.
-12. **Any new administrative penalty or publicly reported medical dispute**, especially anything
-    touching who is qualified to perform the procedure.
+*Reading the interim report reordered these: segment margins are now in hand, so the question
+becomes whether they can be held.*
+
+1. **Pages 28 onward of the same interim report (obtainable now, highest priority).** No need to
+   wait for another reporting period: **selling and marketing expense**, **lease and contract
+   liabilities**, **substantial shareholders' interests (CPE Yuanfeng's current stake)**, and
+   **share capital**. These four determine where the profit comes from, the true enterprise value,
+   the share-supply risk, and the denominator of the P/E. **Until they are read, the valuation
+   conclusions in this memo are only half-finished.**
+2. **FY2026 results (expected end-March 2027).** Three numbers: **can the transplant segment margin
+   hold 69.5%** (Q1 has shown what supports it is depreciation and consumables, both bottoming);
+   **can the transplant ticket decline narrow to under 5%**; **can the hair-care segment margin
+   hold 68.8%**.
+3. **Whether D&A turns back up.** The most actionable leading indicator here: it supplied 51.8% of
+   the cost saving, and the "1+N" clinics will raise depreciation and staff costs together. **The
+   interim report shows zero new clinics in the half (58 mature, 5 developing, 0 new) — so the
+   tailwind is still running, but its expiry is that much closer.**
+4. **Whether consumables can fall further.** Already down to 12.5% of cost of sales and 3.9% of
+   revenue. **The base is now too small to matter.** If the line turns up in H2, Q1 is settled.
+5. **The growth rate of staff costs.** +11.9% in H1, just below revenue's +13.8%. **The moment it
+   exceeds revenue growth, gross margin turns** — the cleanest single early-warning signal available.
+6. **Whether the hair-care repurchase rate stops falling.** 29.9% → 25.9%. If it keeps falling while
+   the segment margin holds 68.8%, question the margin rather than celebrate it.
+7. **Doctor headcount and procedures per doctor.** Another +20% of volume on 241 doctors raises the
+   risk in Q4; hiring doctors removes the cost tailwind.
+8. **The FY2026 dividend.** In a year when profit roughly doubles and RMB743m of cash sits on the
+   balance sheet, the payout decision *is* management's answer to "who owns the cash". **It is the
+   cheapest available test of reason 3 under Question 5.**
+9. **Any disclosure of interest changes by CPE Yuanfeng**, plus blocks, placements or a take-private
+   approach. The highest-information single event category.
+10. **Southbound holdings and Stock Connect eligibility.**
+11. **Whether Dr.Mai restarts its IPO** — Yonghe currently has no listed comparable.
+12. **Any new administrative penalty or publicly reported medical dispute**, especially touching who
+    is qualified to perform the procedure.
 
 ---
 
 ## 4. Provisional read
 
+*Rewritten against the 2026 interim report. The first draft pointed the right way, but two of its
+key numbers were wrong — and both were wrong on the optimistic side.*
+
 **On the business**, it is better than the share price implies and considerably worse than the
-press releases. After cutting 12 clinics, 6 stores, 109 doctors and 1,012 employees in three
-years, this is **a genuinely leaner company**: gross margin back from 56.1% to 69.0%, ¥496m of
-operating cash flow, a first-half 2026 profit that exceeded all of 2025, and the first dividend
-since listing. Management's diagnosis is correct — **"opening more stores to expand scale is no
-longer the right path"** is worth more than any results announcement of the past three years.
-The female business (34.4% of procedures, revenue up ~40%) and the re-acceleration in hair care
-are two real, testable threads.
+press releases. After cutting 12 clinics, 6 stores, 109 doctors and 1,012 employees in three years,
+this is **a genuinely leaner company**: gross margin back from 56.1% to 69.0%, RMB496m of operating
+cash flow in 2025, a first-half 2026 profit exceeding all of 2025, RMB743m of cash on the balance
+sheet and still rising, and a first dividend since listing. The cross-selling is real —
+**about 48% of consumers used both the transplant and hair-care services.** So is the female
+business (34.4% of procedures, revenue up ~40%).
 
-**But the company has exactly one growth engine, and it is borrowed: discounting.** The ticket
-fell 20.8% in two years; volume rose 39.4%; revenue rose 10.4%. **The 5.1 points of margin gain
-in H1 2026 exactly offset the 7.8% ticket decline, leaving gross profit per customer flat.**
-Repeating that in 2027 requires a gross margin of about 74.8% — above the best in company history.
-**Which means this profit recovery has a mathematical end point, and it is nearer than most
-people assume.**
+**But once the interim report takes the recovery apart, the bull case is materially weakened.**
+Of the 5.1 points of margin gain, **95.0% of the cost saving came from amortisation and
+depreciation (−9.5%) and inventories and consumables (−27.7%)** — both one-off: depreciation is a
+depleting stock left by closures, and the consumables benefit came from bulk procurement on a line
+now worth just 3.9% of revenue. **The one large line that grows with revenue — staff costs — is
+already growing (+11.9%, 46.3% of cost of sales).** Meanwhile **gross profit per transplant
+customer actually fell 3.5%** (the draft estimated "roughly flat" — too generous), and holding it
+through 2027 would require a transplant segment margin of about 75.3% against 69.5% today.
+**The only segment whose unit economics improved is medical hair care — whose package repurchase
+rate fell from 29.9% to 25.9% over the same period.**
 
-**On the stock the conclusion runs the other way, and that is what makes the case interesting.**
-A ~¥1.0bn market cap is 6.6x the annualised H1 2026 profit and a 4.0% yield on the FY2025
-dividend, and **the implied market expectation backs out to "sustainable profit is one-third to
-two-thirds of the current run rate".** The market is not waiting for a growth story; it is waiting
-for a giveback. **So what you are underwriting here is not whether Yonghe can double, but whether
-this profit can fall only slightly — or not at all. At 5–7x, "not at all" is enough.**
+**On the stock, the interim report pushes the scale the other way, and just as hard.**
+**Cash of RMB743.2m is roughly 74% of the market cap**, up RMB44m over the half; net assets per
+share are about ¥1.57 (HK$1.72), a P/B of about 1.22x. **Net of cash, the operating business is
+valued at about RMB260m — under 0.75x FY2025 EBITDA.** On that basis the market implies sustainable
+profit of roughly 17% of the current run rate.
+
+**So both sides became more extreme, and they point at the same unresolved item.** On
+fundamentals: profit growth almost has to slow, because both legs supporting it are nearly spent.
+On valuation: if that RMB743m genuinely belongs to shareholders, then even a halving of profit
+leaves the current price clearly low. **Three numbers stand between those two positions, and all
+three are past page 28 of a document that is already public: contract liabilities (how much of the
+cash is really customer prepayments), lease liabilities (how much to add back to enterprise value),
+and selling and marketing expense (whether the profit was saved or earned).**
 
 **Governance and structure decide the character of this investment, not its correctness.** A
 2017-vintage private equity fund still holds a large but undisclosed stake; the founder is diluted
-to ~35%; the market cap is HK$1.1bn with 2.61% southbound ownership and daily turnover in single-
-digit millions; and this team lost ¥859m over three years, spending more on marketing than its
-entire gross profit in 2023. **None of that is fixed by being cheap — it is why it is cheap, and
-some of it may never go away.**
+to ~35% with no uncontested controlling shareholder; the market cap is HK$1.1bn with 2.61%
+southbound ownership and turnover in single-digit millions of HK$ a day; and this team lost RMB859m
+over 2022–24, spending more on marketing than its entire gross profit in 2023. **Cash inside an
+ownership structure like that is normally discounted hard, and the discount does not disappear
+merely because the stock is cheap.**
 
-The honest statement: **a chain that has stopped bleeding, generates real cash, and grows entirely
-by cutting price, priced by the market for a one-third-plus profit giveback; and whether that
-price is right turns on one undisclosed number — how much of the gross margin is repeatable.**
-The conditions that would flip the conclusion are narrow and specific: **a FY2026 gross margin
-held at 69% or above, together with the transplant ticket decline narrowing to under 5%
-year-on-year.** Both together mean gross profit per customer turns positive and price-for-volume
-stops being a liquidation and becomes a durable share strategy — in which case the current
-valuation is badly wrong. **Either one failing, and 5x is the right multiple for a profit that
-has just peaked, not a discount.**
+The honest statement: **a chain that has stopped bleeding, holds a lot of cash, but whose earnings
+improvement comes mainly from two non-repeatable cost savings; its core segment's unit economics
+are still deteriorating, and its share price has already discounted most of the bad news — arguably
+more than all of it.** The conditions that would flip the conclusion can now be written precisely:
+**a FY2026 transplant segment margin held at 69.5%, the ticket decline narrowing to under 5%, and
+contract plus lease liabilities together materially below the RMB743.2m of cash.** All three, and
+the current valuation is plainly wrong; **fail the first two and unit economics are still
+deteriorating; fail the third and the strongest bull argument — "net cash is 74% of the market
+cap" — shrinks sharply.**
 
-**Concretely: do not build a position on a "deep value" basis until three figures are in hand —
-absolute cash and interest-bearing debt, total annual lease payments, and H1 2026 selling and
-marketing expense.** The first two decide whether enterprise value is half the market cap or twice
-it; the third decides whether the "efficiency gain" is real or a reclassification between expense
-lines. All three are in the full H1 2026 interim report, **which this research was unable to read
-because of network restrictions.** **Until that document has been read, every conclusion in this
-memo should be treated as a first draft built on secondary data.**
+**Concretely: read past page 28 of the interim report before waiting for anything else.** The three
+numbers needed — **selling and marketing expense, lease liabilities, contract liabilities** — plus
+the substantial-shareholder disclosure of CPE Yuanfeng's current stake, are all in the same
+already-published document. **It is the highest-return remaining step in this case: no waiting, no
+management access, just finishing the file.**
 
 ---
 
 ### Sources
 
-*In this environment **HKEXnews, Sina Finance, Eastmoney, Xueqiu, Tencent News, Tonghuashun,
-Sohu, Jiemian, 21jingji and the research-PDF hosts (pdf.dfcfw.com) are all blocked by the network
-egress proxy**, and this research **was unable to read a single original announcement or financial
-statement in full.** Every figure below comes from search-engine summaries of those pages and
-**must be reconciled against the FY2025 annual report and the H1 2026 interim report before being
-used in a model.** Anything marked "derived" or "approx." in this memo is this author's own
-calculation, not company disclosure.*
+*Sources are in two tiers. **Primary: the 2026 interim report, pages 1–27** (PDF supplied directly
+by the user) — every figure marked "interim report" comes from that document and has been checked
+line by line. **Secondary: everything else** — in this environment HKEXnews, Sina Finance, Eastmoney,
+Xueqiu, Tencent News, Tonghuashun, Sohu, Jiemian, 21jingji and the research-PDF hosts
+(pdf.dfcfw.com) **are all blocked by the network egress proxy**, so FY2025-and-earlier annual data,
+ownership, penalties and industry figures still come from search-engine summaries and **must be
+reconciled against the annual report before being used in a model.** Anything marked "derived" or
+"approx." is this author's own calculation, not company disclosure.*
 
-**Results and financials**
+**Primary**
+
+- **Yonghe Medical Group Co., Ltd., 2026 Interim Report (pages 1–27)** — financial summary (revenue
+  RMB980,638k, gross profit RMB676,914k, profit before income tax RMB97,779k, profit for the period
+  RMB75,457k; total assets RMB1,736,942k, total equity RMB824,716k, total liabilities RMB912,226k,
+  cash and cash equivalents RMB743,234k); revenue, gross profit and gross margin by segment; the
+  five-line cost-of-sales breakdown; transplant and hair-care operating data (consumers, average
+  spending, repurchase rate); the three-tier service distribution; medical team composition (241
+  physicians, 1,068 nurses, 101 other); clinics by development stage (58 mature / 5 developing / 0
+  new); and the industry forecast cited in Prospects. *Supplied by the user; page 28 onward not
+  obtained.*
+
+**Results and financials (secondary)**
 
 - [H1 2026 interim results (announced 20 Aug): revenue ¥981m +13.8%, gross profit ¥677m +23.0%, gross margin 69.0%, net profit ¥75.46m +170.9%, operating cash flow ¥264m +26.5%, EBITDA ¥219.5m +29.2% (Tencent News)](https://news.qq.com/rain/a/20260827A06ETP00)
 - [H1 2026 segments: transplant ¥743m +12.3% (75.8%), hair care ¥227m +20.7% (23.1%); 40,793 transplant patients +21.8%, 56,757 hair-care patients +26.4% (Tencent News)](https://news.qq.com/rain/a/20260825V09CNA00)
