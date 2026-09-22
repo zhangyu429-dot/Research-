@@ -209,14 +209,34 @@ architecture, BIOS and firmware, CSPs work on long-term relationships, and new e
 find it near-impossible. Customers include Amazon, Microsoft and Meta, plus the Taiwanese
 ODMs. **This is not a market anyone breaks into on price.**
 
-But there are four erosion paths, of very unequal strength:
+But there are five erosion paths, of very unequal strength — **and the most underrated is
+not "customer in-house silicon" but the intersection of the shared firmware layer with
+Chinese localisation**:
 
 | Threat | Status | Assessment |
 |---|---|---|
 | **Nuvoton (新唐)** | ~10–15% share, competing on price from the low and mid range; **already the key supplier of Microsoft's SCM (secure control module) BMC**, and pushing **OpenTitan** with Google (already in Chromebooks, datacentre next); 12nm next-gen BMC and CMS due Q4 2026 | **The most concrete of the four.** It has a position at two of the largest CSPs — not in ASPEED's core socket, but **in a socket that widens at the next architecture revision** |
 | **Customer in-house silicon** (e.g. Dell) | Self-developed BMCs optimised for their own platforms | **Limited.** In-house BMCs cannot be sold across brands, so R&D and a decade of firmware maintenance never amortise. That is why nobody has succeeded in twenty years |
 | **DC-SCM modularisation** (OCP) | Moves BMC, security and control onto a standard module; ASPEED's AST2700 already adopts OCP's **Caliptra** silicon root of trust | **Double-edged, currently positive.** Modularity lowers the design barrier for OEMs — **and lowers the cost of changing supplier.** ASPEED benefits from the standard today, but standardisation is the prelude to commoditisation |
-| **China localisation** | The company attributed a Q4 2025 beat (NT$2.44bn vs NT$2.0–2.1bn guided) partly to **strong mainland Chinese customer demand** | **The least visible of the four.** Chinese customers are contributors today; under localisation policy they are also **the revenue most likely to disappear without warning** — and the company has never disclosed revenue by region |
+| **China localisation — StarFive's RISC-V BMC** | **This has gone from a policy risk to something with a product name, a customer name and a production date.** The **JH-B100 (昉·惊鸿-B100)** is the first RISC-V BMC SoC (in-house quad core, 19,200 DMIPS, DDR5, PCIe 4.0, PECI, dual LTPI, built-in PFR and Chinese national crypto). It has **passed Intel CPU management validation on the Intel CRB reference platform**, been **adapted to AMI OneTree™**, and StarFive is **contributing Intel CPU code upstream to OpenBMC explicitly "to reduce customer migration cost"**. Co-developed with **xFusion** — China's #2 x86 server maker — since March 2024, with the "Lion Rock" chip delivered in November 2025 and **mass production in Q1 2026**; shown at **Computex Taipei** in June 2026 | **To 2026–27 earnings: close to zero** (2027 backlog already exceeds full-year 2026 revenue, and a BMC takes two to three years from validation to volume). **To the terminal multiple: this is the threat that most deserves re-ranking upward** — it is the **first concrete instance** of the abstract firmware-standardisation threat above |
+| **China localisation — the 信创 stack and the standards layer** | Huawei's servers have long since left (in-house **HiSilicon Hi1711**); CETC + Kylin + Loongson have a full domestic stack; in Sep–Oct 2025 **Alibaba Cloud**, with the Firmware Industry Technology Innovation Alliance and Lingsi Micro, published a *Next-Generation AI Server Management Chip (BMC) Technical Solution* and certified three vendors that passed BIOS/BMC compliance testing | **Huawei and 信创 were never ASPEED's to lose, so they are not new threats.** The genuinely new information is that **the largest Chinese CSP is now writing the substitute standard** — which matters more than any single chip |
+
+> **How big is the China exposure? The company has never disclosed it; the following is a
+> derivation and must be checked against the annual report (full working in
+> [bmc-deepdive.zh.md](bmc-deepdive.zh.md) §4.3):** China is roughly a quarter to 30% of
+> global server shipments (about 3.5–4.5m units). Strip out Huawei and the 信创 segment,
+> which were never addressable, and 2.5–3.3m units remain; at ASPEED's own blended ratio of
+> about two chips per server that is **5–6.6m units, or 15–20% of 2026 volumes**.
+> **Cross-check:** Q4 2025 revenue of NT$2.44bn beat the NT$2.0–2.1bn guide by 16–22%, and
+> the company attributed part of that to strong mainland Chinese demand — **revenue capable
+> of producing a beat that size cannot be a single-digit share.** Two independent routes both
+> point to a low-teens-to-20% share.
+>
+> It will not vanish at once, and the order of attrition is legible: 信创 (**gone**) →
+> Huawei (**gone**) → **xFusion (StarFive silicon already delivered)** → self-designing CSPs
+> such as Alibaba Cloud (**already writing the domestic BMC standard**) → Inspur and H3C →
+> export platforms last, because overseas customers' acceptance of a RISC-V BMC is a separate
+> question. **The realistic path is gradual erosion, not a cliff; the variable is pace.**
 
 **The 2028 visibility gap is real, and the company says so itself:** 2027 demand is locked
 and backlog exceeds full-year 2026 revenue, **but "customers have not yet formally ordered
@@ -233,7 +253,14 @@ ordered" is a state that deserves a discount, not an extrapolation.
   same board?
 - **How many 2028 design wins, by platform and customer, and what annual unit volume do they
   represent? What is the historical design-win-to-order conversion rate and lag?**
-- Have Chinese customers begun **dual-sourcing** domestic BMC alternatives?
+- **How much of xFusion's platform line-up is still ASPEED?** This is the first observable
+  reading on the pace of substitution — xFusion held **13.3%** of China's x86 server market
+  in 2024, second only to Inspur's 30.8%.
+- **Has StarFive's JH-B100 entered dual-source qualification at any existing ASPEED customer,
+  and on which platforms and CPU generations?**
+- **How does the company view AMI OneTree and OpenBMC putting multiple vendors' silicon in
+  one codebase?** That is the channel every substitute shares, and the question ASPEED is
+  least likely to want to answer.
 
 ### Question 5: What has to be true for NT$743.7bn to make sense?
 
@@ -394,10 +421,15 @@ flagged in the text: (a) **Q2 2026's "EPS 40.87, +9% QoQ" contradicts "net profi
 78.28**, with the two press figures mixing old and new share bases; (b) **the quoted 2025 ASP
 of US$13.7 is ~13% above revenue ÷ units (NT$373 = US$12.0)**, so the model calibrates to
 reported revenue; (c) **the "13m AI-server BMCs" figure fails a rack-count mass balance**
-(Question 1). **Not obtained, and therefore questions: revenue by region and customer,
-shipments by part number, the employee-compensation ratio and amount, non-operating detail
-and FX sensitivity, insider transfer filings, foreign ownership, the inventory series, and
-any quantification of the 2028 design wins.**
+(Question 1). **Not obtained, and therefore questions: revenue by region and customer
+(China above all — this memo can only derive an order of magnitude of 15–20%), shipments by
+part number, the employee-compensation ratio and amount, non-operating detail and FX
+sensitivity, insider transfer filings, foreign ownership, the inventory series, any
+quantification of the 2028 design wins, and ASPEED's current share of xFusion and other
+Chinese OEM platforms.** One further item is flagged as unconfirmed: whether StarFive's
+"Lion Rock" chip and the JH-B100 are the same silicon (launch dates, architecture and
+customers overlap heavily, so a project-name/product-name relationship is the likeliest
+reading, but no primary source confirmed it).
 
 ---
 
@@ -432,10 +464,20 @@ any quantification of the 2028 design wins.**
 9. **Nuvoton's BMC revenue in absolute terms and the Microsoft SCM ramp.** Today there is only
    "BMC revenue targeting +50%". **If Nuvoton's BMC revenue reaches the 10% level of ASPEED's
    by 2027, the competitive narrative has to be rewritten.**
-10. **A turn in CSP capex guidance.** The only variable that can hit EPS and the multiple in
+10. **StarFive's production ramp and customer spread — added to this memo, and trackable every
+    quarter.** In order: (a) **actual shipments of the "Lion Rock" chip after Q1 2026 volume
+    production**; (b) **StarFive's penetration of xFusion platforms** (xFusion was China's #2
+    x86 server maker at 13.3% share in 2024); (c) **whether a second OEM beyond xFusion
+    appears**, particularly Inspur or H3C; (d) **whether the dual-node JH-B100D (Q3 2026) wins
+    a CSP qualification**; (e) **upstream activity** — the cadence of JHB100 Linux and OpenBMC
+    submissions (PECI support was posted in September 2026), which is the most honest,
+    least PR-filtered progress signal available; (f) **whether AMI lists StarFive in OneTree's
+    official support matrix.** **None of this touches 2026–27 earnings; all of it touches the
+    terminal multiple, which is where the entire risk in this stock lives.**
+11. **A turn in CSP capex guidance.** The only variable that can hit EPS and the multiple in
     the same quarter. In September 2026 the market was already discussing "AI leaders calling
     for slower investment" — **watch the capex language, not the share price.**
-11. **The New Taiwan dollar.** A repeat of May 2025's sharp appreciation means looking first
+12. **The New Taiwan dollar.** A repeat of May 2025's sharp appreciation means looking first
     at the Q2 2025 precedent (Question 8).
 
 ---
@@ -474,6 +516,13 @@ of its own history**.
   asymmetry — **the multiple does not need an earnings miss to compress.** The lesson of 2023
   is not that ASPEED lost to anyone; it is that **a business with a fully intact moat halved
   its profit in twelve months without losing a single customer.**
+- **Down (slow variable, now with a concrete carrier):** **StarFive's RISC-V BMC.** Its effect
+  on 2026–27 earnings is close to zero, but it converts what was an abstract
+  "firmware standardisation plus localisation" risk into something with a product name
+  (JH-B100), a customer name (xFusion), a production date (Q1 2026) and an upstream commit
+  history (OpenBMC PECI, September 2026). **It will not cause an earnings miss; it will cause
+  the market to reconsider what multiple to pay — and the multiple is where all of this
+  stock's risk already sits.** Quarterly trackers are in checkpoint 10.
 
 The honest statement: **this is an excellent business in a real upcycle that is already partly
 contracted, at a price that requires the upcycle to continue past 2028 and the market to keep
@@ -543,6 +592,15 @@ flagged in Q13.*
 - [BMC entering a boom; BMC must integrate deeply with server architecture and firmware and CSPs work on long-term relationships, making entry difficult (China Times / Commercial Times)](https://www.chinatimes.com/newspapers/20260422000256-260204)
 - [Customer in-house BMC (e.g. Dell): expensive R&D, hard hiring, cannot be sold across brands, limited impact (CMoney forum — retail source, unverified)](https://www.cmoney.tw/forum/article/178439874)
 - [OCP DC-SCM specification: moves server management, security and control onto a standardised module (Open Compute Project)](https://www.opencompute.org/documents/ocp-dc-scm-spec-rev-1-0-pdf)
+- [StarFive JH-B100: the first BMC SoC built on quad-core RISC-V CPU IP, DDR4/DDR5 compatible, dual-node management, full-featured eSPI slave and LTPI (StarFive product page)](https://www.starfivetech.com/en/index.php?s=idc&c=show&id=1)
+- [StarFive unveils a full-stack BMC solution at Intel Connection: Intel CPU management validation completed on the Intel CRB platform, AMI OneTree™ adaptation completed, SDK and a meta-starfive layer provided to help customers port OpenBMC; first appearance on Intel's "ecosystem wall" at Intel Innovation 2025, and AMI showed the chip alongside the world's top three BMC solutions at the 2026 Open Compute Technology Conference (StarFive)](https://www.starfivetech.com/en/index.php?s=news&c=show&id=137)
+- [JH-B100 specifications and roadmap: in-house quad-core RISC-V at 19,200 DMIPS, coherent NoC, DDR4-3200/DDR5-4800, dual-channel PCIe 4.0 EP, eSPI, PECI, dual LTPI, built-in PFR and SM2/3/4 crypto, power-on to boot loader under 8 seconds; JH-B100S released late 2025, dual-node JH-B100D in Q3 2026, third-generation JH-B100N planned with an LLM for failure prediction (EDN China)](https://www.ednchina.com/news/a15032.html)
+- [StarFive launched its first RISC-V datacentre management chip, "Lion Rock", in November 2025; already holding customer orders and in trial production, with mass production expected in Q1 2026; strategic cooperation with xFusion signed March 2024, only 16 months from signing to first silicon bring-up, with a joint delivery ceremony (Xinhua)](http://www.news.cn/energy/20251118/adbb05e3e78b4656bb6353d36c9b5849/c.html)
+- [StarFive and xFusion strategic cooperation: a historic step for RISC-V in the datacentre (EET China)](https://www.eet-china.com/info/71750.html) · [JH-B100 exhibited at Computex Taipei, June 2026 (ITBear)](https://www.itbear.com.cn/html/2026-06/1380668.html)
+- [Upstream evidence: StarFive JHB100 device tree and network driver patches submitted to Linux net-next, April–May 2026 (v3/v4)](https://ratatoskr.run/linux-devicetree/2026/05/6364777/t) · [JHB100 PECI support submitted to OpenBMC upstream, September 2026](https://ratatoskr.run/openbmc/2026/09/17505210/t)
+- [Lingsi Micro, with the Firmware Industry Technology Innovation Alliance and Alibaba Cloud, published a *Next-Generation AI Server Management Chip (BMC) Technical Solution* and certified three vendors that passed BIOS/BMC compliance testing, Sep–Oct 2025 (China Daily)](https://caijing.chinadaily.com.cn/a/202510/16/WS68f05cb3a310c4deea5ec8d1.html)
+- [HiSilicon Hi1711: next-generation server BMC chip, quad-core Cortex-A55 plus dual Cortex-M3; Huawei's server iBMC runs on Hi1710/Hi1711 (HiSilicon)](https://www.hisilicon.com/cn/products/Kunpeng/BMC/Hi1711)
+- [China x86 server share 2024: Inspur 30.8%, xFusion 13.3%, H3C 12.6% (EET China, citing IDC)](https://www.eet-china.com/mp/a421132.html)
 
 **Corporate actions, ownership and governance**
 

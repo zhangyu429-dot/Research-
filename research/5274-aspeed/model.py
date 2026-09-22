@@ -112,6 +112,10 @@ class Scenario:
 #   of BMC revenue and included Smart AV, which was carved out to Cupola360
 #   on 2025-12-31.
 
+# The bear case's 2028 unit decline is a 2023-style inventory correction, not a share loss.
+# China localisation (StarFive's RISC-V JH-B100, already delivered to xFusion and in Q1 2026
+# production) is a separate, slower drag that is NOT modelled here: it is immaterial to
+# 2026-27 volumes and acts on the exit multiple instead. See bmc-deepdive.zh.md section 4.2.
 BEAR = Scenario(
     name="bear",
     label="悲观：2027年AI资本开支进入消化期，第四季涨价回吐",
